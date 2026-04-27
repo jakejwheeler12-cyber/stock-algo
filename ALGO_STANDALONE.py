@@ -165,7 +165,6 @@ universe:
   - "FORM"
   - "POWI"
   - "DIOD"
-  - "USM"
   # ── Communication Services ─────────────────────────────────────────
   - "GOOGL"
   - "META"
@@ -251,7 +250,6 @@ universe:
   - "DECK"
   - "CROX"
   - "ONON"
-  - "SKX"
   - "TPR"
   - "RL"
   - "CPRI"
@@ -356,7 +354,6 @@ universe:
   - "PODD"
   - "TFX"
   - "INSP"
-  - "CSWI"
   - "NVST"
   - "RVTY"
   - "BIO"
@@ -408,7 +405,6 @@ universe:
   - "JAZZ"
   - "ARVN"
   - "IOVA"
-  - "SHYF"
   # ── Financials — Large Cap ─────────────────────────────────────────
   - "JPM"
   - "V"
@@ -482,13 +478,11 @@ universe:
   - "CINF"
   - "HIG"
   - "WRB"
-  - "AGTI"
   - "RNR"
   - "ERIE"
   - "KNSL"
   - "RYAN"
   - "AJG"
-  - "ECOL"
   - "TROW"
   - "IVZ"
   - "BEN"
@@ -880,7 +874,6 @@ universe:
   # ── Additional S&P 500 / Large Cap ─────────────────────────────────
   - "NXST"
   - "WTW"
-  - "ESTE"
   - "BR"
   - "LDOS"
   - "SAIC"
@@ -899,7 +892,6 @@ universe:
   - "ZBRA"
   - "TRMB"
   - "TYL"
-  - "SEAS"
   - "PTC"
   - "VTR"
   - "DSGX"
@@ -908,7 +900,6 @@ universe:
   - "MCK"
   - "CAH"
   - "COR"
-  - "NATI"
   - "LFST"
   - "WST"
   - "STE"
@@ -947,7 +938,6 @@ universe:
   - "EXLS"
   - "TASK"
   - "KD"
-  - "BECN"
   - "MTRN"
   - "PD"
   - "BL"
@@ -1113,7 +1103,6 @@ universe:
   - "LTC"
   - "OHI"
   - "FIZZ"
-  - "EPIQ"
   - "IIPR"
   - "APLE"
   - "HST"
@@ -1126,13 +1115,11 @@ universe:
   - "LBRDA"
   # ── Russell 2000 / Mid-Small Cap Expansion ─────────────────────────
   - "WIX"
-  - "NCR"
   - "UI"
   - "NTGR"
   - "NTCT"
   - "MITK"
   - "DGII"
-  - "ENV"
   - "BAND"
   - "RAMP"
   - "FIVN"
@@ -1153,7 +1140,6 @@ universe:
   - "TAL"
   - "EDU"
   - "NOAH"
-  - "HUTC"
   - "NIU"
   - "BANC"
   - "PEBO"
@@ -1178,7 +1164,6 @@ universe:
   - "BUSE"
   - "UMH"
   - "PFG"
-  - "AEL"
   - "CNO"
   - "RGA"
   - "UNM"
@@ -1188,10 +1173,6 @@ universe:
   - "ALKS"
   - "RLAY"
   - "KYMR"
-  - "MRSN"
-  - "RVNC"
-  - "BLUE"
-  - "MGTA"
   - "EOLS"
   - "INSM"
   - "CLDX"
@@ -1204,7 +1185,6 @@ universe:
   - "VKTX"
   - "STOK"
   - "GERN"
-  - "MORF"
   - "NRIX"
   - "SPRY"
   - "ZNTL"
@@ -1213,12 +1193,9 @@ universe:
   - "ANAB"
   - "ASND"
   - "MLAB"
-  - "NVRO"
   - "SINT"
   - "NUVL"
   - "FROG"
-  - "COUP"
-  - "SAGE"
   - "PRDO"
   - "STRA"
   - "LOPE"
@@ -1229,8 +1206,6 @@ universe:
   - "MED"
   - "NOMD"
   - "ENR"
-  - "THS"
-  - "TWNK"
   - "FCAP"
   - "POST"
   - "UTZ"
@@ -1238,40 +1213,29 @@ universe:
   - "LANC"
   - "JJSF"
   - "FLO"
-  - "FREE"
   - "KOF"
   - "CCEP"
   - "MLI"
   - "ROCK"
   - "KMT"
   - "ATR"
-  - "FRTA"
-  - "USCR"
-  - "SUM"
   - "EME"
   - "KAI"
   - "VMI"
   - "MTW"
   - "TKR"
-  - "HEES"
   - "HRI"
   - "KNF"
   - "GRBK"
   - "GVA"
   - "MMS"
-  - "KAR"
-  - "HYZN"
   - "FFAI"
   - "BLNK"
   - "CHPT"
   - "EVGO"
   - "WBX"
   - "ARLP"
-  - "WLL"
-  - "CDEV"
   - "REI"
-  - "ROCC"
-  - "CPE"
   - "CRC"
   - "TPL"
   - "PARR"
@@ -1283,9 +1247,7 @@ universe:
   - "WTTR"
   - "KOS"
   - "BORR"
-  - "DRQ"
   - "RES"
-  - "SAND"
   - "HMY"
   - "NGD"
   - "EQX"
@@ -1293,7 +1255,6 @@ universe:
   - "FSM"
   - "SVM"
   - "EXK"
-  - "ROIC"
   - "BRX"
   - "SHO"
   - "DRH"
@@ -1308,7 +1269,6 @@ universe:
   - "NSA"
   - "CUBE"
   - "RHP"
-  - "HHC"
   - "HASI"
   - "SAFE"
   - "RYAAY"
@@ -1324,21 +1284,16 @@ universe:
   - "PSNL"
   - "NN"
   - "ZURA"
-  - "INSTA"
   - "KLAR"
   - "PRSU"
   - "RBRK"
   - "KVYO"
   - "NMR"
-  - "PORT"
   - "ASCB"
   - "WALD"
   - "DJT"
   - "SCNI"
-  - "WBA"
-  - "K"
   - "BUD"
-  - "IPP"
   - "SPCE"
   - "MRCY"
   - "WWD"
@@ -1364,26 +1319,27 @@ random_seed: 42
 min_confidence_score: 0.80
 
 weights:
-  technical: 0.38
-  fundamental: 0.62
+  technical: 0.30        # was 0.38 — value plays prioritize fundamentals
+  fundamental: 0.70      # was 0.62 — heavier fundamentals tilt
 
 technical_weights:
-  momentum: 0.10
-  trend: 0.06
-  rsi: 0.02
+  momentum: 0.04         # was 0.10 — REDUCED, don't chase rallies
+  trend: 0.05            # was 0.06
+  rsi: 0.06              # was 0.02 — INCREASED & inverted (oversold reward)
   macd: 0.02
-  bb_pct: 0.01
+  bb_pct: 0.05           # was 0.01 — INCREASED & inverted
   volume: 0.01
-  relative_strength: 0.08
-  price_structure: 0.05
+  relative_strength: 0.03  # was 0.08 — REDUCED (RS leaders often at highs)
+  price_structure: 0.03    # was 0.05
   volume_profile: 0.03
+  discount: 0.15         # NEW — major reward for being below 52wk high
 
 fundamental_weights:
-  value: 0.14
+  value: 0.25            # was 0.14 — DOUBLED (P/E + PEG + P/B + P/S)
   quality: 0.18
-  growth: 0.15
-  fcf_yield: 0.12
-  leverage_penalty: -0.07
+  growth: 0.08           # was 0.15 — REDUCED (value > growth)
+  fcf_yield: 0.18        # was 0.12 — heavily boosted
+  leverage_penalty: -0.08
 
 rsi_period: 14
 macd_fast: 12
@@ -1929,6 +1885,36 @@ def compute_all_indicators(df: pd.DataFrame, cfg: Any) -> pd.DataFrame:
     gaps = compute_gap_analysis(open_, close)
     ind["gap_up_count"] = gaps["gap_up_count"]
     ind["gap_pct_avg"] = gaps["gap_pct_avg"]
+
+    # ── VALUE / DISCOUNT SIGNALS — for buying solid stocks at a discount ──
+    current_price = float(close.iloc[-1])
+
+    # Distance from 52-week high (negative = discounted; -0.20 = 20% below high)
+    if len(close) >= 252:
+        high_52w = float(close.iloc[-252:].max())
+        ind["pct_from_52wk_high"] = (current_price - high_52w) / high_52w if high_52w > 0 else 0.0
+    else:
+        high_52w = float(close.max())
+        ind["pct_from_52wk_high"] = (current_price - high_52w) / high_52w if high_52w > 0 else 0.0
+
+    # Distance from all-time-high in the data
+    ath = float(close.max())
+    ind["pct_from_ath"] = (current_price - ath) / ath if ath > 0 else 0.0
+
+    # Premium/discount to 200-SMA
+    if len(close) >= 200:
+        sma200_now = float(close.rolling(200).mean().iloc[-1])
+        ind["pct_vs_sma200"] = (current_price - sma200_now) / sma200_now if sma200_now > 0 else 0.0
+    else:
+        ind["pct_vs_sma200"] = 0.0
+
+    # 52-week range position (0 = at low, 1 = at high)
+    if len(close) >= 252:
+        low_52w = float(close.iloc[-252:].min())
+        rng = high_52w - low_52w
+        ind["range_position_52w"] = (current_price - low_52w) / rng if rng > 0 else 0.5
+    else:
+        ind["range_position_52w"] = 0.5
 
     return ind
 
@@ -4161,8 +4147,14 @@ def cross_sectional_zscore(signal_matrix: pd.DataFrame, winsorize_pct: float = 0
 
 
 def compute_fundamental_signals(fund: dict[str, Any]) -> dict[str, float]:
+    """Value-tilted fundamental signals.
+
+    Reward LOW P/E, LOW P/B, LOW P/S, HIGH FCF yield — i.e., classic value.
+    """
     pe = _safe(fund.get("forwardPE")) or _safe(fund.get("trailingPE"))
     peg = _safe(fund.get("pegRatio"))
+    pb = _safe(fund.get("priceToBook"))
+    ps = _safe(fund.get("priceToSalesTrailing12Months"))
     roe = _safe(fund.get("returnOnEquity"))
     margin = _safe(fund.get("profitMargins"))
     cr = _safe(fund.get("currentRatio"))
@@ -4172,8 +4164,15 @@ def compute_fundamental_signals(fund: dict[str, Any]) -> dict[str, float]:
     mkt_cap = _safe(fund.get("marketCap"))
     de = _safe(fund.get("debtToEquity"))
 
-    value_signal = np.nan if np.isnan(pe) else float(np.clip(1.0 - pe / 50.0, -1.0, 1.0))
-    peg_signal = np.nan if np.isnan(peg) else float(np.clip(1.0 - peg / 2.0, -1.0, 1.0))
+    # P/E — more aggressive: PE 10 → 0.67, PE 20 → 0.33, PE 30 → 0, PE 50 → -0.67
+    value_signal = np.nan if np.isnan(pe) or pe <= 0 else float(np.clip(1.0 - pe / 30.0, -1.0, 1.0))
+    # PEG — PEG 1.0 → 0.5, PEG 1.5 → 0.25, PEG 2.0 → 0
+    peg_signal = np.nan if np.isnan(peg) or peg <= 0 else float(np.clip(1.0 - peg / 2.0, -1.0, 1.0))
+    # P/B — PB 1.0 → 0.67, PB 2.0 → 0.33, PB 3.0 → 0
+    pb_signal = np.nan if np.isnan(pb) or pb <= 0 else float(np.clip(1.0 - pb / 3.0, -1.0, 1.0))
+    # P/S — PS 1 → 0.75, PS 2 → 0.5, PS 4 → 0
+    ps_signal = np.nan if np.isnan(ps) or ps <= 0 else float(np.clip(1.0 - ps / 4.0, -1.0, 1.0))
+
     roe_norm = float(np.clip(roe / 0.30, 0.0, 1.0)) if not np.isnan(roe) else np.nan
     margin_norm = float(np.clip(margin / 0.30, 0.0, 1.0)) if not np.isnan(margin) else np.nan
     cr_norm = float(np.clip((cr - 0.5) / 2.0, 0.0, 1.0)) if not np.isnan(cr) else np.nan
@@ -4184,10 +4183,26 @@ def compute_fundamental_signals(fund: dict[str, Any]) -> dict[str, float]:
     growth_parts = [g for g in [rev_g, earn_g] if not np.isnan(g)]
     growth_signal = float(np.clip(np.mean(growth_parts), -1.0, 1.0)) if growth_parts else np.nan
 
-    fcf_yield = float(np.clip(fcf / mkt_cap, -0.5, 0.5)) if not np.isnan(fcf) and not np.isnan(mkt_cap) and mkt_cap > 0 else np.nan
+    # FCF yield — heavily reward 5%+ yield (classic value play). 5% → 0.5, 10% → 1.0
+    if not np.isnan(fcf) and not np.isnan(mkt_cap) and mkt_cap > 0:
+        raw_fcf_yield = fcf / mkt_cap
+        fcf_yield = float(np.clip(raw_fcf_yield * 10.0, -1.0, 1.0))
+    else:
+        fcf_yield = np.nan
+
     leverage_flag = float(np.clip(de / 200.0, 0.0, 1.0)) if not np.isnan(de) else 0.0
 
-    return {"value_signal": value_signal, "peg_signal": peg_signal, "quality_score": quality_score, "growth_signal": growth_signal, "fcf_yield": fcf_yield, "leverage_flag": leverage_flag}
+    # Combined value composite — average of available value metrics
+    value_components = [v for v in [value_signal, peg_signal, pb_signal, ps_signal] if not np.isnan(v)]
+    value_composite = float(np.mean(value_components)) if value_components else np.nan
+
+    return {
+        "value_signal": value_signal, "peg_signal": peg_signal,
+        "pb_signal": pb_signal, "ps_signal": ps_signal,
+        "value_composite": value_composite,
+        "quality_score": quality_score, "growth_signal": growth_signal,
+        "fcf_yield": fcf_yield, "leverage_flag": leverage_flag,
+    }
 
 
 def build_signal_matrix(all_raw_signals, all_fundamentals, all_news_sentiment=None) -> pd.DataFrame:
@@ -4217,25 +4232,92 @@ def score_asset(
         v = z_scores.get(key, 0.0)
         return 0.0 if (v is None or (isinstance(v, float) and np.isnan(v))) else float(v)
 
-    # Technical score components
+    # Technical score components — VALUE TILTED
+    # Momentum is REDUCED in weight; we don't want to chase rallies
     momentum_z = np.nanmean([z("ret_63"), z("ret_126")])
     trend_z = float(z("is_golden_cross")) + float(z("cross_direction")) * 0.5
-    rsi_z = z("rsi")
     macd_z = z("macd_hist")
-    bb_z = z("bb_pct")
     vol_sign = 1.0 if raw_signals.get("ret_5d", 0) >= 0 else -1.0
     volume_z = z("volume_trend") * vol_sign
 
+    # RSI — INVERTED for value: reward oversold/healthy (30-55), penalize overbought (70+)
+    raw_rsi = float(raw_signals.get("rsi", 50.0))
+    if raw_rsi < 30:
+        rsi_value_score = 1.0       # deeply oversold = great buy zone
+    elif raw_rsi < 45:
+        rsi_value_score = 0.6       # oversold-ish
+    elif raw_rsi < 55:
+        rsi_value_score = 0.3       # healthy mid-range
+    elif raw_rsi < 65:
+        rsi_value_score = -0.2      # getting heated
+    elif raw_rsi < 75:
+        rsi_value_score = -0.6      # overbought
+    else:
+        rsi_value_score = -1.0      # extreme overbought = avoid
+
+    # BB %B — INVERTED: reward LOW (near lower band = oversold), penalize HIGH (near upper band)
+    raw_bb = float(raw_signals.get("bb_pct", 0.5))
+    if raw_bb < 0.20:
+        bb_value_score = 1.0        # at lower band = great
+    elif raw_bb < 0.40:
+        bb_value_score = 0.5
+    elif raw_bb < 0.60:
+        bb_value_score = 0.0        # neutral
+    elif raw_bb < 0.80:
+        bb_value_score = -0.4       # extended
+    else:
+        bb_value_score = -1.0       # at upper band = expensive
+
+    # ── DISCOUNT FROM HIGHS — the key value signal ──
+    pct_from_52wk_high = float(raw_signals.get("pct_from_52wk_high", 0.0))
+    pct_vs_sma200 = float(raw_signals.get("pct_vs_sma200", 0.0))
+    range_position = float(raw_signals.get("range_position_52w", 0.5))
+
+    # Discount score: best when 15-35% below 52-week high (sweet spot for value)
+    if pct_from_52wk_high > -0.02:
+        discount_score = -1.0       # within 2% of 52w high — NO DISCOUNT, AT PREMIUM
+    elif pct_from_52wk_high > -0.08:
+        discount_score = -0.5       # within 8% of high — still expensive
+    elif pct_from_52wk_high > -0.15:
+        discount_score = 0.2        # mild pullback
+    elif pct_from_52wk_high > -0.25:
+        discount_score = 0.8        # nice 15-25% pullback — value zone
+    elif pct_from_52wk_high > -0.40:
+        discount_score = 1.0        # 25-40% off — deep value (if fundamentals strong)
+    elif pct_from_52wk_high > -0.55:
+        discount_score = 0.5        # 40-55% off — possible value trap, be careful
+    else:
+        discount_score = -0.3       # >55% off — likely broken business
+
+    # Range position penalty: if at top of 52-week range, penalize
+    if range_position > 0.90:
+        range_penalty = -0.5
+    elif range_position > 0.80:
+        range_penalty = -0.2
+    else:
+        range_penalty = 0.0
+
+    # SMA premium penalty: if trading 25%+ above 200-SMA, it's overextended
+    if pct_vs_sma200 > 0.30:
+        sma_premium_penalty = -0.4  # 30%+ above 200-SMA = overheated
+    elif pct_vs_sma200 > 0.15:
+        sma_premium_penalty = -0.1
+    else:
+        sma_premium_penalty = 0.0
+
     technical_score = float(
-        tw.get("momentum", 0.10) * momentum_z
-        + tw.get("trend", 0.06) * trend_z
-        + tw.get("rsi", 0.02) * rsi_z
+        tw.get("momentum", 0.04) * momentum_z          # was 0.10 — REDUCED
+        + tw.get("trend", 0.05) * trend_z
+        + tw.get("rsi", 0.06) * rsi_value_score        # was 0.02 — INCREASED & inverted
         + tw.get("macd", 0.02) * macd_z
-        + tw.get("bb_pct", 0.01) * bb_z
+        + tw.get("bb_pct", 0.05) * bb_value_score      # was 0.01 — INCREASED & inverted
         + tw.get("volume", 0.01) * volume_z
+        + tw.get("discount", 0.15) * discount_score    # NEW — major value signal
+        + range_penalty
+        + sma_premium_penalty
     )
 
-    # Relative strength
+    # Relative strength — DOWNWEIGHTED so we don't chase RS leaders at highs
     rs_percentile_raw: float = np.nan
     if relative_strength:
         rs_percentile_raw = _safe(relative_strength.get("rs_percentile"))
@@ -4244,7 +4326,7 @@ def score_asset(
         rs_63d_z = z("rs_vs_spy_63d") if "rs_vs_spy_63d" in z_scores else (float(np.clip(rs_63d_val * 5, -3, 3)) if not np.isnan(rs_63d_val) else 0.0)
         rs_pct_z = z("rs_percentile") if "rs_percentile" in z_scores else (float((rs_percentile_raw - 0.5) * 6) if not np.isnan(rs_percentile_raw) else 0.0)
         rs_persist_z = z("rs_persistent") if "rs_persistent" in z_scores else (float((rs_persist_val - 0.5) * 4) if not np.isnan(rs_persist_val) else 0.0)
-        technical_score += tw.get("relative_strength", 0.08) * float(np.nanmean([rs_63d_z, rs_pct_z, rs_persist_z]))
+        technical_score += tw.get("relative_strength", 0.03) * float(np.nanmean([rs_63d_z, rs_pct_z, rs_persist_z]))
 
     # Price structure
     if price_structure:
@@ -4254,7 +4336,7 @@ def score_asset(
             z("trend_efficiency") if "trend_efficiency" in z_scores else 0.0,
             z("sharpe_63d") if "sharpe_63d" in z_scores else 0.0,
         ]))
-        technical_score += tw.get("price_structure", 0.05) * ps_z
+        technical_score += tw.get("price_structure", 0.03) * ps_z
 
     # Volume profile
     if volume_profile:
@@ -4265,12 +4347,15 @@ def score_asset(
         ]))
         technical_score += tw.get("volume_profile", 0.03) * vp_z
 
-    # Breakout bonus
+    # NO breakout bonus — breakouts mean it already moved
     breakout_bonus = 0.0
-    if price_structure and bool(price_structure.get("is_breakout", False)) and _safe(price_structure.get("breakout_volume_ratio"), 0.0) >= 1.5:
-        breakout_bonus = 0.03
 
-    rs_laggard_penalty = -0.02 if not np.isnan(rs_percentile_raw) and rs_percentile_raw < 0.30 else 0.0
+    # No RS laggard penalty — value plays often have weak recent RS
+    rs_laggard_penalty = 0.0
+
+    # rsi_z and bb_z for confidence-counting (use the value-flipped version)
+    rsi_z = rsi_value_score
+    bb_z = bb_value_score
 
     # Fundamental score
     fund_signals = compute_fundamental_signals(raw_fundamentals)
@@ -4279,13 +4364,14 @@ def score_asset(
         v = fund_signals.get(key, np.nan)
         return 0.0 if (v is None or np.isnan(v)) else float(v)
 
-    value = fs("peg_signal") if not np.isnan(fund_signals.get("peg_signal", np.nan)) else fs("value_signal")
+    # Value composite — uses PE + PEG + PB + PS averaged. Heavy weight for value.
+    value = fs("value_composite") if not np.isnan(fund_signals.get("value_composite", np.nan)) else fs("value_signal")
     fundamental_score = float(
-        fw.get("value", 0.12) * value
-        + fw.get("quality", 0.15) * fs("quality_score")
-        + fw.get("growth", 0.13) * fs("growth_signal")
-        + fw.get("fcf_yield", 0.10) * fs("fcf_yield")
-        + fw.get("leverage_penalty", -0.05) * fs("leverage_flag")
+        fw.get("value", 0.25) * value                      # was 0.12 — DOUBLED
+        + fw.get("quality", 0.18) * fs("quality_score")    # quality matters more for value plays
+        + fw.get("growth", 0.08) * fs("growth_signal")     # was 0.13 — REDUCED (value > growth)
+        + fw.get("fcf_yield", 0.18) * fs("fcf_yield")      # was 0.10 — boosted heavily
+        + fw.get("leverage_penalty", -0.08) * fs("leverage_flag")
     )
 
     # Adjustments
@@ -4354,22 +4440,83 @@ def score_asset(
         bool(volume_profile and _safe(volume_profile.get("cmf"), -1) > 0),
     ])
     news_blocks_high = news_signal == "BEARISH" and news_raw_score < -0.40
-    health_blocks_high = altman_zone == "DISTRESS"  # only true distress blocks
+    health_blocks_high = altman_zone == "DISTRESS"
     risk_blocks_high = overall_risk == "HIGH"
-    # company-level moat / industry no longer hard-blocks — already penalized in score
-    company_blocks_high = False
+    # Earnings within 30 days = block. Earnings gaps are noise vs. the strategy.
+    earnings_within_window = has_earnings_within(risk_checks or {}, days=30)
 
-    # Quality gates that ALWAYS apply (matching user's debt/profit requirements):
-    # - bs_blocks_high triggers on DANGEROUS debt or unprofitable
-    # - health_blocks_high triggers on Altman distress (bankruptcy risk)
-    # - risk_blocks_high triggers on imminent earnings or insider dumping
+    # ── FALLING KNIFE / VALUE TRAP FILTERS ─────────────────────────────
+    # Industry must NOT be in a structural decline (coal, tobacco, etc.)
+    industry_blocks = growth_tier == "LOW"
+    # Moat must NOT be disadvantaged (losing competitive position)
+    moat_blocks = moat_grade == "DISADVANTAGED"
+
+    # Revenue must NOT be shrinking >5% YoY (we want growing or stable revenue)
+    rev_growth = _safe(raw_fundamentals.get("revenueGrowth"))
+    revenue_shrinking = (not np.isnan(rev_growth)) and rev_growth < -0.05
+
+    # Earnings must NOT be collapsing (>20% decline if data is available)
+    earn_growth = _safe(raw_fundamentals.get("earningsGrowth"))
+    earnings_collapsing = (not np.isnan(earn_growth)) and earn_growth < -0.30
+
+    # Piotroski WEAK = fundamentals deteriorating (block)
+    piotroski_grade = "UNKNOWN"
+    if health_scores:
+        piotroski_grade = health_scores.get("piotroski", {}).get("grade", "UNKNOWN")
+    fundamentals_deteriorating = piotroski_grade == "WEAK"
+
+    # Leadership turmoil = block
+    leadership_score_val = float(leadership.get("leadership_score", 0.0)) if leadership else 0.0
+    dual_transition = bool(leadership and leadership.get("dual_transition_risk", False))
+    leadership_blocks = leadership_score_val < -0.20 or dual_transition
+
+    # Falling knife: down >55% from 52w high = something likely broken
+    pct_from_52wk_high = float(raw_signals.get("pct_from_52wk_high", 0.0))
+    deeply_broken = pct_from_52wk_high < -0.55
+
+    # Free-fall detection: 63-day return < -25% AND below 200-SMA AND no stabilization
+    ret_63 = _safe(raw_signals.get("ret_63"))
+    pct_vs_sma200 = float(raw_signals.get("pct_vs_sma200", 0.0))
+    free_fall = (
+        not np.isnan(ret_63) and ret_63 < -0.25
+        and pct_vs_sma200 < -0.10
+        and not bool(raw_signals.get("is_golden_cross", False))
+    )
+
+    # Insider cluster selling = vote of no confidence
+    insider_signal = "NEUTRAL"
+    if risk_checks:
+        insider_signal = risk_checks.get("insider", {}).get("signal", "NEUTRAL")
+    insider_dumping = insider_signal == "BEARISH"
+
+    value_trap_blocks = (
+        industry_blocks or moat_blocks or revenue_shrinking
+        or earnings_collapsing or fundamentals_deteriorating
+        or leadership_blocks or deeply_broken or free_fall
+        or insider_dumping
+    )
+
+    # Build flags list for transparency in report
+    trap_reasons: list[str] = []
+    if industry_blocks: trap_reasons.append("LOW-growth industry")
+    if moat_blocks: trap_reasons.append("disadvantaged moat")
+    if revenue_shrinking: trap_reasons.append(f"revenue shrinking {rev_growth:.0%}")
+    if earnings_collapsing: trap_reasons.append(f"earnings down {earn_growth:.0%}")
+    if fundamentals_deteriorating: trap_reasons.append("Piotroski WEAK (fundamentals deteriorating)")
+    if leadership_blocks: trap_reasons.append("leadership turmoil")
+    if deeply_broken: trap_reasons.append(f"down {pct_from_52wk_high:.0%} from high (likely broken)")
+    if free_fall: trap_reasons.append("free-fall pattern")
+    if insider_dumping: trap_reasons.append("insider cluster selling")
+
+    # Quality gates that ALWAYS apply
     if (composite_score >= min_confidence_score and positive_technical_signals >= 3
             and fundamental_score > 0.0 and not news_blocks_high
             and not health_blocks_high and not risk_blocks_high
-            and not company_blocks_high and not macro_blocks_high
-            and not bs_blocks_high):
+            and not macro_blocks_high and not bs_blocks_high
+            and not value_trap_blocks
+            and not earnings_within_window):
         confidence = "HIGH"
-    elif composite_score >= 0.60:
+    elif composite_score >= 0.60 and not value_trap_blocks:
         confidence = "MEDIUM"
     else:
         confidence = "LOW"
@@ -4391,6 +4538,8 @@ def score_asset(
         "volume_profile": volume_profile or {},
         "breakout_bonus": breakout_bonus,
         "rs_laggard_penalty": rs_laggard_penalty,
+        "value_trap_blocks": value_trap_blocks,
+        "trap_reasons": trap_reasons,
     }
 
 
@@ -4699,14 +4848,18 @@ def build_report(
                 lines.append(f"        {c}")
         lines.append(f"\n      Verdict [{expl.get('net_signal', '')}]: {expl.get('verdict', '')}")
 
-        trade = generate_trade_plan(bundle)
-        lines.append(f"\n    TRADE PLAN:")
+        trade = apply_slippage_to_trade(generate_trade_plan(bundle))
+        lines.append(f"\n    TRADE PLAN (slippage-adjusted, 0.2% in/out):")
         lines.append(f"      Entry:   {trade['entry_note']}")
         if trade["atr_stop_pct"] is not None:
-            lines.append(f"      Stop:    -{trade['atr_stop_pct']:.1%} below entry (2x ATR)")
-            lines.append(f"      Target1: +{trade['target_1_pct']:.1%}")
-            lines.append(f"      Target2: +{trade['target_2_pct']:.1%}")
+            lines.append(f"      Stop:    -{trade['atr_stop_pct']:.1%} below entry (2x ATR + slip)")
+            lines.append(f"      Target1: +{trade['target_1_pct']:.1%} (net of costs)")
+            lines.append(f"      Target2: +{trade['target_2_pct']:.1%} (net of costs)")
         lines.append(f"      Time:    Re-evaluate in {trade['time_stop_days']} days")
+        # Show liquidity warning if low
+        adv = bundle.get("raw_signals", {}).get("avg_dollar_volume", 0)
+        if adv and adv < 10_000_000:
+            lines.append(f"      ⚠ Liquidity: ${adv/1e6:.1f}M/day avg — keep position size small")
         lines.append(f"\n{divider}\n")
 
     lines.append(f"NOTE: Only stocks scoring >= {min_confidence_score:.0%} composite confidence shown.")
@@ -4860,6 +5013,140 @@ def run_backtest(cfg_path=None, debug=False) -> dict[str, float]:
 # =====================================================================
 
 
+# =====================================================================
+# DATA QUALITY / LIQUIDITY / DIVERSIFICATION HELPERS
+# =====================================================================
+
+# Critical fundamental fields. If too many of these are missing, the stock
+# is excluded — yfinance is unreliable and bad data drives bad picks.
+_CRITICAL_FUND_FIELDS = [
+    "marketCap", "trailingPE", "forwardPE", "profitMargins", "returnOnEquity",
+    "revenueGrowth", "freeCashFlow", "totalRevenue", "debtToEquity",
+    "currentRatio", "operatingMargins",
+]
+
+
+def assess_data_quality(fund: dict, *, min_present: int = 6) -> tuple[bool, int, list[str]]:
+    """Returns (is_acceptable, fields_present, missing_fields).
+
+    A stock needs at least `min_present` of the critical fundamental fields
+    populated with sane values. Otherwise we can't trust the analysis.
+    """
+    missing: list[str] = []
+    present = 0
+    for f in _CRITICAL_FUND_FIELDS:
+        v = fund.get(f)
+        if v is None:
+            missing.append(f)
+            continue
+        try:
+            fv = float(v)
+            if np.isnan(fv) or np.isinf(fv):
+                missing.append(f)
+            else:
+                present += 1
+        except (TypeError, ValueError):
+            missing.append(f)
+    return present >= min_present, present, missing
+
+
+def compute_liquidity(price_df: pd.DataFrame, window: int = 20) -> dict[str, float]:
+    """Average daily dollar volume + share volume over recent window.
+
+    Filters out illiquid names where slippage would destroy the edge.
+    """
+    if price_df is None or price_df.empty or len(price_df) < window:
+        return {"avg_dollar_volume": 0.0, "avg_share_volume": 0.0}
+    recent = price_df.tail(window)
+    close = recent["Close"]
+    volume = recent["Volume"] if "Volume" in recent.columns else pd.Series([0.0])
+    dollar_vol = (close * volume).mean()
+    share_vol = volume.mean()
+    return {
+        "avg_dollar_volume": float(dollar_vol) if not pd.isna(dollar_vol) else 0.0,
+        "avg_share_volume": float(share_vol) if not pd.isna(share_vol) else 0.0,
+    }
+
+
+def apply_sector_diversification(
+    bundles: list[dict], all_fundamentals: dict, max_per_sector: int = 3,
+) -> list[dict]:
+    """Cap exposure to any single sector. Walks the ranked list and keeps
+    at most `max_per_sector` picks per sector, preserving rank order.
+    Prevents 5 semis from looking like 5 different bets when they're really one.
+    """
+    sector_counts: dict[str, int] = {}
+    diversified: list[dict] = []
+    for b in bundles:
+        tkr = b["ticker"]
+        sector = (all_fundamentals.get(tkr, {}).get("sector") or "Unknown")
+        if sector_counts.get(sector, 0) >= max_per_sector:
+            continue
+        sector_counts[sector] = sector_counts.get(sector, 0) + 1
+        diversified.append(b)
+    return diversified
+
+
+def has_earnings_within(risk_checks: dict, days: int = 30) -> bool:
+    """True if next earnings is within `days`. Avoids getting stopped by
+    earnings gaps which are pure noise relative to the strategy."""
+    if not risk_checks:
+        return False
+    earnings = risk_checks.get("earnings", {})
+    days_until = earnings.get("days_until_earnings")
+    if days_until is None:
+        return False
+    try:
+        d = int(days_until)
+    except (TypeError, ValueError):
+        return False
+    return 0 <= d <= days
+
+
+def apply_slippage_to_trade(trade_plan: dict, *, slippage_pct: float = 0.002) -> dict:
+    """Adjust trade plan for transaction costs / slippage.
+
+    Default 0.20% in + 0.20% out = ~0.40% round-trip cost. Reduces stated
+    targets and widens the effective stop so the plan reflects reality.
+    """
+    p = dict(trade_plan)
+    if p.get("atr_stop_pct") is not None:
+        p["atr_stop_pct"] = p["atr_stop_pct"] + slippage_pct
+    if p.get("target_1_pct") is not None:
+        p["target_1_pct"] = max(0.0, p["target_1_pct"] - 2 * slippage_pct)
+    if p.get("target_2_pct") is not None:
+        p["target_2_pct"] = max(0.0, p["target_2_pct"] - 2 * slippage_pct)
+    p["slippage_applied_pct"] = slippage_pct
+    return p
+
+
+def log_run_results(
+    run_date: str, regime: str, macro_grade: str, n_qualified: int,
+    n_high: int, n_value_traps_blocked: int, top_picks: list[dict],
+    output_dir: Path,
+) -> None:
+    """Append one CSV row per run for performance tracking over time.
+
+    Lets you measure: HIGH gate fire rate, fallback usage, average score,
+    sector mix, etc. Critical for evaluating whether the algo actually works.
+    """
+    try:
+        output_dir = Path(output_dir)
+        output_dir.mkdir(parents=True, exist_ok=True)
+        log_path = output_dir / "run_log.csv"
+        new_file = not log_path.exists()
+        top_tickers = ",".join(b["ticker"] for b in top_picks[:5])
+        top_scores = ",".join(f"{b['composite_score']:.3f}" for b in top_picks[:5])
+        with open(log_path, "a", encoding="utf-8") as f:
+            if new_file:
+                f.write("date,regime,macro_grade,n_qualified,n_high,n_traps_blocked,"
+                        "top5_tickers,top5_scores\n")
+            f.write(f"{run_date},{regime},{macro_grade},{n_qualified},{n_high},"
+                    f"{n_value_traps_blocked},{top_tickers},{top_scores}\n")
+    except Exception as exc:
+        logger.warning("Failed to log run results: %s", exc)
+
+
 def run(cfg_path=None, debug=False, held_positions=None) -> None:
     """Run the full stock recommendation pipeline.
 
@@ -4914,6 +5201,40 @@ def run(cfg_path=None, debug=False, held_positions=None) -> None:
     # Step 3 — Fundamentals
     logger.info("Step 3: Fetching fundamentals...")
     all_fundamentals = fetch_all_fundamentals(qualified)
+
+    # ── Data quality + liquidity filtering ─────────────────────────────
+    # Drop stocks that yfinance returned thin/garbage data for, and drop
+    # illiquid names where slippage would eat any edge.
+    MIN_DOLLAR_VOLUME = 5_000_000  # $5M/day floor
+    quality_filtered: list[str] = []
+    rejected_data: list[str] = []
+    rejected_liquidity: list[str] = []
+    for tkr in qualified:
+        fund = all_fundamentals.get(tkr, {})
+        ok, n_present, missing = assess_data_quality(fund)
+        if not ok:
+            rejected_data.append(tkr)
+            continue
+        liq = compute_liquidity(price_data.get(tkr))
+        if liq["avg_dollar_volume"] < MIN_DOLLAR_VOLUME:
+            rejected_liquidity.append(tkr)
+            continue
+        # Stash liquidity onto the raw signals for later use
+        all_raw_signals[tkr]["avg_dollar_volume"] = liq["avg_dollar_volume"]
+        quality_filtered.append(tkr)
+    logger.info(
+        "Quality+liquidity filter: %d kept, %d rejected for thin data, %d for low liquidity",
+        len(quality_filtered), len(rejected_data), len(rejected_liquidity),
+    )
+    if rejected_data:
+        logger.debug("Thin-data rejected (sample): %s", rejected_data[:10])
+    if rejected_liquidity:
+        logger.debug("Low-liquidity rejected (sample): %s", rejected_liquidity[:10])
+    # Use filtered list for everything downstream
+    qualified = quality_filtered
+    if not qualified:
+        logger.error("No tickers passed data quality + liquidity filters.")
+        return
 
     # Step 3b — Relative strength
     logger.info("Step 3b: Relative strength...")
@@ -4987,8 +5308,9 @@ def run(cfg_path=None, debug=False, held_positions=None) -> None:
     )
     high_conviction = [b for b in ranked if b["confidence"] == "HIGH"]
 
-    # If no HIGH picks, fall back to top 20 candidates that pass quality gates
-    # (must be profitable, no Altman distress, no DANGEROUS debt).
+    # If no HIGH picks, fall back to top 20 quality candidates.
+    # Same quality gates as HIGH confidence, just without the score threshold.
+    n_value_traps_blocked = sum(1 for b in ranked if b.get("value_trap_blocks", False))
     if not high_conviction:
         logger.warning("No HIGH picks found (threshold=%.0f%%) — showing top 20 quality candidates", min_conf * 100)
         quality_passed = []
@@ -4999,14 +5321,30 @@ def run(cfg_path=None, debug=False, held_positions=None) -> None:
             bs_grade = bs.get("bs_grade", "UNKNOWN")
             profitable = bs.get("profitable", True)
             risk_level = b.get("risk_checks", {}).get("overall_risk", "UNKNOWN")
-            # Same quality bar as HIGH gate, just without the score threshold
-            if (profitable and altman_zone != "DISTRESS"
-                    and bs_grade != "DANGEROUS" and risk_level != "HIGH"):
+            risk_checks = b.get("risk_checks", {})
+            # Apply ALL quality + value-trap gates (including earnings window)
+            if (profitable
+                    and altman_zone != "DISTRESS"
+                    and bs_grade != "DANGEROUS"
+                    and risk_level != "HIGH"
+                    and not b.get("value_trap_blocks", False)
+                    and not has_earnings_within(risk_checks, days=30)):
                 quality_passed.append(b)
-            if len(quality_passed) >= 20:
+            if len(quality_passed) >= 30:  # collect more so we can diversify
                 break
         high_conviction = quality_passed
-        logger.info("Top quality candidates: %d", len(high_conviction))
+
+    # ── Sector diversification: cap 3 per sector ──────────────────────
+    n_high_pre_div = len(high_conviction)
+    high_conviction = apply_sector_diversification(
+        high_conviction, all_fundamentals, max_per_sector=3,
+    )
+    # Trim to top N after diversification
+    high_conviction = high_conviction[:20]
+    logger.info(
+        "Picks: %d after sector diversification (was %d before, max 3/sector)",
+        len(high_conviction), n_high_pre_div,
+    )
 
     logger.info("Final scores (top 30):")
     for b in ranked[:30]:
@@ -5033,6 +5371,18 @@ def run(cfg_path=None, debug=False, held_positions=None) -> None:
         regime_state=regime_state, macro_data=macro_env,
     )
     print("\n" + report)
+
+    # ── Run logging — for tracking algo performance over time ─────────
+    log_run_results(
+        run_date=str(date.today()),
+        regime=regime_state.regime.value,
+        macro_grade=macro_env.get("macro_grade", "UNKNOWN") if macro_env else "UNKNOWN",
+        n_qualified=len(qualified),
+        n_high=sum(1 for b in ranked if b["confidence"] == "HIGH"),
+        n_value_traps_blocked=n_value_traps_blocked,
+        top_picks=high_conviction,
+        output_dir=output_dir,
+    )
 
 
 def main() -> None:
