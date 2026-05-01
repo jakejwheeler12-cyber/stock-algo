@@ -1,0 +1,257 @@
+=== STOCK RECOMMENDATIONS [2026-05-01] ===
+Generated: 2026-05-01 16:18:40
+Universe: 9 HIGH-confidence picks
+
+  MARKET REGIME: BULL_QUIET
+  Bull market, low volatility — standard strategy
+  SPY: 722.65 | 200-SMA: 667.95 | Vol: 12%
+
+  MACRO: NEUTRAL
+  Macro NEUTRAL: VIX 16.8 (calm), yield curve flat, commodities neutral
+
+#1  INCY    (Score: 0.85 | Confidence: HIGH)
+    Sector: Healthcare  |  Industry: Biotechnology
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Positive momentum: +7% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 51 — healthy range
+        + MACD histogram positive
+        + ROE 31%
+        + PEG ratio 0.3
+        + Revenue growing +21% YoY
+        + Financial health EXCELLENT
+      Cons:
+        - No recent news found
+        - RS vs SPY: -8% — underperforming
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Entry:   Base setup — wait for volume-confirmed breakout
+      Stop:    -7.4% below entry (2x ATR + slip)
+      Target1: +10.4% (net of costs)
+      Target2: +17.6% (net of costs)
+      Time:    Re-evaluate in 30 days
+
+----------------------------------------------------------------
+
+#2  BSAC    (Score: 0.82 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Banks - Regional
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Strong momentum: +17% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 46 — healthy range
+        + ROE 22%
+        + Financial health EXCELLENT
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+        - RS vs SPY: -10% — underperforming
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Entry:   Trend continuation — buy near current price or on pullback
+      Stop:    -6.4% below entry (2x ATR + slip)
+      Target1: +8.9% (net of costs)
+      Target2: +15.0% (net of costs)
+      Time:    Re-evaluate in 30 days
+
+----------------------------------------------------------------
+
+#3  NMR     (Score: 0.81 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Capital Markets
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Positive momentum: +11% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 43 — healthy range
+        + PEG ratio 0.8
+        + Revenue growing +28% YoY
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+        - RS vs SPY: -15% — underperforming
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Entry:   Trend continuation — buy near current price or on pullback
+      Stop:    -6.0% below entry (2x ATR + slip)
+      Target1: +8.2% (net of costs)
+      Target2: +14.0% (net of costs)
+      Time:    Re-evaluate in 30 days
+
+----------------------------------------------------------------
+
+#4  FIVN    (Score: 0.80 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Software - Infrastructure
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + MACD histogram positive
+        + Revenue growing +9% YoY
+        + Financial health GOOD
+        + Strong RS vs SPY: +17% over 3 months
+      Cons:
+        - RSI 79 — overbought
+        - Negative 6-month momentum: -8%
+        - No recent news found
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Entry:   Breakout entry — buy on close above resistance
+      Stop:    -12.7% below entry (2x ATR + slip)
+      Target1: +18.4% (net of costs)
+      Target2: +31.0% (net of costs)
+      Time:    Re-evaluate in 30 days
+
+----------------------------------------------------------------
+
+#5  REGN    (Score: 0.79 | Confidence: HIGH)
+    Sector: Healthcare  |  Industry: Biotechnology
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Positive momentum: +8% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 37 — healthy range
+        + Revenue growing +19% YoY
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+        - RS vs SPY: -9% — underperforming
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Entry:   Trend continuation — buy near current price or on pullback
+      Stop:    -6.7% below entry (2x ATR + slip)
+      Target1: +9.4% (net of costs)
+      Target2: +15.9% (net of costs)
+      Time:    Re-evaluate in 30 days
+
+----------------------------------------------------------------
+
+#6  THC     (Score: 0.78 | Confidence: HIGH)
+    Sector: Healthcare  |  Industry: Medical Care Facilities
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 44 — healthy range
+        + ROE 30%
+        + Revenue growing +12% YoY
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - Negative 6-month momentum: -12%
+        - No recent news found
+        - RS vs SPY: -7% — underperforming
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Entry:   Trend continuation — buy near current price or on pullback
+      Stop:    -10.6% below entry (2x ATR + slip)
+      Target1: +15.2% (net of costs)
+      Target2: +25.5% (net of costs)
+      Time:    Re-evaluate in 30 days
+
+----------------------------------------------------------------
+
+#7  MKC     (Score: 0.78 | Confidence: HIGH)
+    Sector: Consumer Defensive  |  Industry: Packaged Foods
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + RSI 41 — healthy range
+        + MACD histogram positive
+        + ROE 25%
+        + Revenue growing +17% YoY
+        + Financial health GOOD
+      Cons:
+        - Negative 6-month momentum: -19%
+        - No recent news found
+        - RS vs SPY: -21% — underperforming
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Entry:   Trend continuation — buy near current price or on pullback
+      Stop:    -5.5% below entry (2x ATR + slip)
+      Target1: +7.5% (net of costs)
+      Target2: +12.8% (net of costs)
+      Time:    Re-evaluate in 30 days
+
+----------------------------------------------------------------
+
+#8  KNSL    (Score: 0.77 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Insurance - Property & Casualty
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + ROE 30%
+        + PEG ratio 1.0
+        + Revenue growing +10% YoY
+        + Financial health EXCELLENT
+      Cons:
+        - MACD histogram negative
+        - Negative 6-month momentum: -21%
+        - No recent news found
+        - RS vs SPY: -24% — underperforming
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Entry:   Trend continuation — buy near current price or on pullback
+      Stop:    -7.5% below entry (2x ATR + slip)
+      Target1: +10.5% (net of costs)
+      Target2: +17.8% (net of costs)
+      Time:    Re-evaluate in 30 days
+
+----------------------------------------------------------------
+
+#9  ETSY    (Score: 0.76 | Confidence: HIGH)
+    Sector: Consumer Cyclical  |  Industry: Internet Retail
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + RSI 59 — healthy range
+        + MACD histogram positive
+        + PEG ratio 1.1
+        + Financial health GOOD
+        + Strong RS vs SPY: +16% over 3 months
+      Cons:
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Entry:   Retest entry — prior breakout acting as support
+      Stop:    -11.0% below entry (2x ATR + slip)
+      Target1: +15.8% (net of costs)
+      Target2: +26.5% (net of costs)
+      Time:    Re-evaluate in 30 days
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
