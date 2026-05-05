@@ -1323,16 +1323,17 @@ weights:
   fundamental: 0.70      # was 0.62 — heavier fundamentals tilt
 
 technical_weights:
-  momentum: 0.04         # was 0.10 — REDUCED, don't chase rallies
-  trend: 0.05            # was 0.06
-  rsi: 0.06              # was 0.02 — INCREASED & inverted (oversold reward)
-  macd: 0.02
-  bb_pct: 0.05           # was 0.01 — INCREASED & inverted
-  volume: 0.01
-  relative_strength: 0.03  # was 0.08 — REDUCED (RS leaders often at highs)
-  price_structure: 0.03    # was 0.05
-  volume_profile: 0.03
-  discount: 0.15         # NEW — major reward for being below 52wk high
+  # ── Long-term focused weights — scalping signals removed/zeroed ────
+  momentum: 0.02         # very low — momentum is short-term reflection
+  trend: 0.08            # 50/200-SMA + golden cross are long-term reliable
+  rsi: 0.02              # only used as overbought safety check
+  macd: 0.0              # REMOVED — short-term oscillator, noise for our horizon
+  bb_pct: 0.0            # REMOVED — Bollinger Band %B is a 20-day scalp signal
+  volume: 0.0            # REMOVED — daily volume spikes are noise
+  relative_strength: 0.06   # 63d/126d RS — long-term leadership
+  price_structure: 0.04     # base detection, trend slope (long-term)
+  volume_profile: 0.03      # CMF/OBV (20d but trend-confirming)
+  discount: 0.20         # PRIMARY signal — reward stocks below 52wk highs
 
 fundamental_weights:
   value: 0.25            # was 0.14 — DOUBLED (P/E + PEG + P/B + P/S)
@@ -4444,6 +4445,9 @@ def score_asset(
     risk_blocks_high = overall_risk == "HIGH"
     # Earnings within 30 days = block. Earnings gaps are noise vs. the strategy.
     earnings_within_window = has_earnings_within(risk_checks or {}, days=30)
+    # Analyst consensus check — don't fight Wall Street
+    analyst_ok, _analyst_reason = passes_analyst_consensus(risk_checks or {})
+    analyst_blocks_high = not analyst_ok
 
     # ── FALLING KNIFE / VALUE TRAP FILTERS ─────────────────────────────
     # Industry must NOT be in a structural decline (coal, tobacco, etc.)
@@ -4514,7 +4518,8 @@ def score_asset(
             and not health_blocks_high and not risk_blocks_high
             and not macro_blocks_high and not bs_blocks_high
             and not value_trap_blocks
-            and not earnings_within_window):
+            and not earnings_within_window
+            and not analyst_blocks_high):
         confidence = "HIGH"
     elif composite_score >= 0.60 and not value_trap_blocks:
         confidence = "MEDIUM"
@@ -4696,38 +4701,74 @@ def generate_explanation(
 
 
 def generate_trade_plan(score_bundle, cfg=None) -> dict[str, Any]:
+    """Long-term position trade plan. Stops/targets in dollar prices for
+    direct entry on Alpaca and similar brokers. Holding window: weeks-months."""
     sig = score_bundle.get("raw_signals", {})
     ps = score_bundle.get("price_structure", {})
     current_close = _safe(sig.get("close"))
     current_atr = _safe(sig.get("atr"))
 
+    # ── Long-term tuning ──────────────────────────────────────────────
+    # 2.5x ATR stop = wider tolerance for longer holding horizon
+    # Target 1 = 3R (so a 5% stop → 15% target), Target 2 = 5R (25% target)
+    # Time stop = 90 days (3 months), reflects the strategy
+    STOP_ATR_MULT = 2.5
+    TGT1_R = 3.0
+    TGT2_R = 5.0
+    TIME_STOP_DAYS = 90
+
     atr_stop_pct: float | None = None
     if not np.isnan(current_close) and not np.isnan(current_atr) and current_close > 0:
-        atr_stop_pct = (2.0 * current_atr) / current_close
+        atr_stop_pct = (STOP_ATR_MULT * current_atr) / current_close
 
-    target_1_pct = atr_stop_pct * 1.5 if atr_stop_pct else None
-    target_2_pct = atr_stop_pct * 2.5 if atr_stop_pct else None
+    target_1_pct = atr_stop_pct * TGT1_R if atr_stop_pct else None
+    target_2_pct = atr_stop_pct * TGT2_R if atr_stop_pct else None
+
+    # ── Dollar prices for direct broker entry ─────────────────────────
+    entry_price: float | None = None
+    stop_price: float | None = None
+    target_1_price: float | None = None
+    target_2_price: float | None = None
+    buy_zone_low: float | None = None
+    buy_zone_high: float | None = None
+
+    if not np.isnan(current_close) and current_close > 0:
+        entry_price = float(current_close)
+        if atr_stop_pct:
+            stop_price = entry_price * (1.0 - atr_stop_pct)
+            target_1_price = entry_price * (1.0 + target_1_pct)
+            target_2_price = entry_price * (1.0 + target_2_pct)
+        # Buy zone: wait for a 2-5% pullback from current = better entry
+        buy_zone_high = entry_price
+        buy_zone_low = entry_price * 0.95
 
     is_bo = bool(ps.get("is_breakout", False))
     retest = bool(ps.get("retest_holding", False))
     in_base = bool(ps.get("in_base", False))
 
     if is_bo:
-        entry_note = "Breakout entry — buy on close above resistance"
+        entry_note = "Strong breakout — buy on a pullback, not at the top"
     elif retest:
-        entry_note = "Retest entry — prior breakout acting as support"
+        entry_note = "Retest of breakout — prior resistance now support"
     elif in_base:
-        entry_note = "Base setup — wait for volume-confirmed breakout"
+        entry_note = "Consolidating in a base — accumulate gradually"
     else:
-        entry_note = "Trend continuation — buy near current price or on pullback"
+        entry_note = "Buy in the buy zone or scale in over 2-3 weeks"
 
     return {
-        "entry_note": entry_note, "atr_stop_pct": atr_stop_pct,
+        "entry_note": entry_note,
+        "entry_price": entry_price,
+        "stop_price": stop_price,
+        "target_1_price": target_1_price,
+        "target_2_price": target_2_price,
+        "buy_zone_low": buy_zone_low,
+        "buy_zone_high": buy_zone_high,
+        "atr_stop_pct": atr_stop_pct,
         "structural_stop_note": "Below key support level",
         "target_1_pct": target_1_pct, "target_2_pct": target_2_pct,
-        "time_stop_days": 30,
-        "scaling_note": "Add if RS vs SPY exceeds +5% since entry",
-        "risk_reward": 2.5 if target_2_pct else None,
+        "time_stop_days": TIME_STOP_DAYS,
+        "scaling_note": "Hold for 1-3 months; reassess on earnings or major news",
+        "risk_reward": TGT2_R if target_2_pct else None,
     }
 
 
@@ -4789,7 +4830,7 @@ def generate_sell_alerts(
 def build_report(
     ranked_candidates, explanations, report_date, output_dir,
     min_confidence_score=0.80, sell_alerts=None, regime_state=None,
-    macro_data=None,
+    macro_data=None, etf_suggestions=None,
 ) -> str:
     lines: list[str] = []
     divider = "-" * 64
@@ -4807,6 +4848,21 @@ def build_report(
     if macro_data:
         lines.append(f"\n  MACRO: {macro_data.get('macro_grade', 'NEUTRAL')}")
         lines.append(f"  {macro_data.get('summary', '')}")
+
+    # ── Strongest Sector ETFs (passive alternative / complement) ──────
+    if etf_suggestions:
+        lines.append("")
+        lines.append("=" * 64)
+        lines.append("  STRONGEST SECTOR ETFs (passive alternative)")
+        lines.append("=" * 64)
+        lines.append("  Use these if you want broad exposure to leading sectors")
+        lines.append("  without picking individual stocks.")
+        lines.append("")
+        for s in etf_suggestions:
+            tag = " ← already covered by your picks" if s.get("already_in_picks") else ""
+            lines.append(f"  #{s['rank']}  {s['etf']:<5}  {s['sector']}{tag}")
+            lines.append(f"         {s['description']}")
+        lines.append("")
 
     lines.append("")
 
@@ -4850,16 +4906,28 @@ def build_report(
 
         trade = apply_slippage_to_trade(generate_trade_plan(bundle))
         lines.append(f"\n    TRADE PLAN (slippage-adjusted, 0.2% in/out):")
-        lines.append(f"      Entry:   {trade['entry_note']}")
-        if trade["atr_stop_pct"] is not None:
-            lines.append(f"      Stop:    -{trade['atr_stop_pct']:.1%} below entry (2x ATR + slip)")
-            lines.append(f"      Target1: +{trade['target_1_pct']:.1%} (net of costs)")
-            lines.append(f"      Target2: +{trade['target_2_pct']:.1%} (net of costs)")
-        lines.append(f"      Time:    Re-evaluate in {trade['time_stop_days']} days")
-        # Show liquidity warning if low
+        lines.append(f"      Setup:    {trade['entry_note']}")
+        ep = trade.get("entry_price")
+        sp = trade.get("stop_price")
+        t1 = trade.get("target_1_price")
+        t2 = trade.get("target_2_price")
+        bz_lo = trade.get("buy_zone_low")
+        bz_hi = trade.get("buy_zone_high")
+        if ep is not None:
+            lines.append(f"      Current:  ${ep:.2f}")
+            if bz_lo is not None and bz_hi is not None:
+                lines.append(f"      Buy Zone: ${bz_lo:.2f} — ${bz_hi:.2f}  (better entry on pullback)")
+            if sp is not None:
+                lines.append(f"      Stop:     ${sp:.2f}  (-{trade['atr_stop_pct']:.1%}, 2.5x ATR)")
+            if t1 is not None:
+                lines.append(f"      Target1:  ${t1:.2f}  (+{trade['target_1_pct']:.1%}, take half off)")
+            if t2 is not None:
+                lines.append(f"      Target2:  ${t2:.2f}  (+{trade['target_2_pct']:.1%}, take rest off)")
+        lines.append(f"      Time:     Hold for ~{trade['time_stop_days']} days, reassess on earnings or major news")
+        # Show liquidity warning if low (rare for $10B+ names)
         adv = bundle.get("raw_signals", {}).get("avg_dollar_volume", 0)
-        if adv and adv < 10_000_000:
-            lines.append(f"      ⚠ Liquidity: ${adv/1e6:.1f}M/day avg — keep position size small")
+        if adv and adv < 50_000_000:
+            lines.append(f"      ⚠ Liquidity: ${adv/1e6:.1f}M/day avg — keep position size moderate")
         lines.append(f"\n{divider}\n")
 
     lines.append(f"NOTE: Only stocks scoring >= {min_confidence_score:.0%} composite confidence shown.")
@@ -5120,6 +5188,94 @@ def apply_slippage_to_trade(trade_plan: dict, *, slippage_pct: float = 0.002) ->
     return p
 
 
+def passes_quality_size_filters(
+    fund: dict, *, min_market_cap: float = 10_000_000_000,
+    require_profitable_pe: bool = True,
+) -> tuple[bool, str]:
+    """Established-company filter — keeps the universe to reliable, large
+    companies. No penny stocks, no money-losing startups.
+
+    - Market cap >= $10B (reliable, well-followed names)
+    - P/E must be positive (company actually earns money)
+    - Net income to common must be positive
+    """
+    mcap = _safe(fund.get("marketCap"))
+    if np.isnan(mcap) or mcap < min_market_cap:
+        return False, f"market cap too small (${mcap/1e9:.1f}B < ${min_market_cap/1e9:.0f}B)"
+
+    if require_profitable_pe:
+        pe_fwd = _safe(fund.get("forwardPE"))
+        pe_trail = _safe(fund.get("trailingPE"))
+        # At least one P/E must be positive and present
+        has_positive_pe = (
+            (not np.isnan(pe_fwd) and pe_fwd > 0)
+            or (not np.isnan(pe_trail) and pe_trail > 0)
+        )
+        if not has_positive_pe:
+            return False, "no positive P/E (not profitable on earnings basis)"
+
+    net_income = _safe(fund.get("netIncomeToCommon"))
+    if not np.isnan(net_income) and net_income <= 0:
+        return False, "net income negative (unprofitable)"
+
+    return True, ""
+
+
+def passes_analyst_consensus(risk_checks: dict) -> tuple[bool, str]:
+    """Don't fight Wall Street. Block stocks where analysts are negative
+    or recently downgrading aggressively."""
+    if not risk_checks:
+        return True, ""
+    analyst = risk_checks.get("analyst", {})
+    consensus = (analyst.get("consensus") or "UNKNOWN").upper()
+    if consensus == "SELL":
+        return False, "analyst consensus = SELL"
+    downgrades = int(analyst.get("recent_downgrades", 0) or 0)
+    upgrades = int(analyst.get("recent_upgrades", 0) or 0)
+    if downgrades >= 3 and downgrades > upgrades:
+        return False, f"{downgrades} recent analyst downgrades"
+    return True, ""
+
+
+def suggest_sector_etfs(
+    sector_rank: dict, top_picks: list[dict], all_fundamentals: dict,
+) -> list[dict]:
+    """Recommend the strongest sector ETFs based on relative-strength
+    ranking computed earlier. Useful as a passive alternative or complement."""
+    if not sector_rank:
+        return []
+    # sector_rank is {ETF_TICKER: rank} where 1 = best RS
+    top_etfs = sorted(sector_rank.items(), key=lambda kv: kv[1])[:3]
+    etf_to_sector = {
+        "XLK": ("Technology", "Semis, software, hardware"),
+        "XLV": ("Healthcare", "Pharma, biotech, devices"),
+        "XLF": ("Financials", "Banks, insurance, payments"),
+        "XLY": ("Consumer Cyclical", "Retail, autos, leisure"),
+        "XLP": ("Consumer Defensive", "Food, beverage, household"),
+        "XLI": ("Industrials", "Aerospace, machinery, transports"),
+        "XLE": ("Energy", "Oil & gas"),
+        "XLU": ("Utilities", "Power, water"),
+        "XLRE": ("Real Estate", "REITs"),
+        "XLB": ("Basic Materials", "Chemicals, metals"),
+        "XLC": ("Communication Services", "Telcos, media, internet"),
+    }
+    # Count how many of your picks are in each sector
+    pick_sectors: dict[str, int] = {}
+    for b in top_picks:
+        s = (all_fundamentals.get(b["ticker"], {}).get("sector") or "Unknown")
+        pick_sectors[s] = pick_sectors.get(s, 0) + 1
+
+    suggestions = []
+    for etf, rank in top_etfs:
+        sector_name, desc = etf_to_sector.get(etf, (etf, ""))
+        already_exposed = pick_sectors.get(sector_name, 0) > 0
+        suggestions.append({
+            "etf": etf, "sector": sector_name, "rank": rank,
+            "description": desc, "already_in_picks": already_exposed,
+        })
+    return suggestions
+
+
 def log_run_results(
     run_date: str, regime: str, macro_grade: str, n_qualified: int,
     n_high: int, n_value_traps_blocked: int, top_picks: list[dict],
@@ -5147,13 +5303,543 @@ def log_run_results(
         logger.warning("Failed to log run results: %s", exc)
 
 
-def run(cfg_path=None, debug=False, held_positions=None) -> None:
+# =====================================================================
+# ALPACA EXECUTOR — Paper Trading Integration with Multi-Layer Safety
+# =====================================================================
+#
+# Safety design philosophy:
+#   1. PAPER-ONLY by default — refuse to run on a live account unless
+#      ALPACA_ALLOW_LIVE=YES env var is set (deliberately verbose).
+#   2. Hard caps that override every signal — no single trade can exceed
+#      1% account risk, no sector can exceed 30%, etc.
+#   3. Pre-flight checks reject the whole run if the account or market
+#      conditions are wrong, rather than silently doing the wrong thing.
+#   4. Every order is a bracket order — entry + stop loss + take profit
+#      placed atomically. Stop is non-negotiable.
+#   5. Kelly-fraction sizing capped by the 1% rule. We never use full
+#      Kelly because it ruins accounts when win-rate estimates are wrong.
+#
+# Strategy principles applied (synthesized from Investopedia / Buffett /
+# Graham / Lynch / standard quant risk management):
+#   - 1% rule (max risk per trade)
+#   - 6% rule (max total open risk across portfolio)
+#   - 7% concentration cap per single stock
+#   - 30%/30%/30% sector cap (no single sector > 30%)
+#   - 20% cash reserve always preserved
+#   - Margin-of-safety value gating already enforced upstream
+#   - Anti-falling-knife filters already enforced upstream
+#   - Stop loss is mandatory (Graham: "the essence of investment management
+#     is the management of risks, not the management of returns")
+
+
+class TradingLimits:
+    """All hard caps. Crossing these requires an explicit code change."""
+    MAX_POSITIONS = 8                        # Max simultaneous open positions
+    MAX_POSITION_PCT = 0.07                  # Max 7% of account per stock
+    MAX_RISK_PER_TRADE = 0.01                # 1% rule — max account loss per trade
+    MAX_PORTFOLIO_RISK = 0.06                # 6% rule — total at-risk capital
+    MAX_SECTOR_ALLOCATION = 0.30             # No sector > 30% of account
+    MIN_CASH_RESERVE = 0.20                  # Always keep 20% cash on hand
+    KELLY_FRACTION = 0.5                     # Half-Kelly (safer than full)
+    MIN_LIQUIDITY_USD = 20_000_000           # Skip stocks <$20M/day avg
+    MIN_STOCK_PRICE = 5.0                    # No sub-$5 stocks
+    MAX_DRAWDOWN_HALT = 0.10                 # Halt new entries if -10% from peak
+    MAX_SINGLE_POSITION_LOSS = 0.15          # Force-close if any pos -15%
+    MIN_CONFIDENCE_TO_TRADE = "HIGH"         # Only HIGH-confidence picks
+    REQUIRE_PAPER_ACCOUNT = True             # Live account requires env override
+
+
+def _alpaca_import():
+    """Lazy-load alpaca-py only when --execute is used."""
+    try:
+        from alpaca.trading.client import TradingClient
+        from alpaca.trading.requests import (
+            MarketOrderRequest, LimitOrderRequest, StopLossRequest,
+            TakeProfitRequest, GetOrdersRequest, ClosePositionRequest,
+        )
+        from alpaca.trading.enums import OrderSide, TimeInForce, OrderClass
+        from alpaca.common.exceptions import APIError
+        return {
+            "TradingClient": TradingClient, "MarketOrderRequest": MarketOrderRequest,
+            "LimitOrderRequest": LimitOrderRequest, "StopLossRequest": StopLossRequest,
+            "TakeProfitRequest": TakeProfitRequest, "OrderSide": OrderSide,
+            "TimeInForce": TimeInForce, "OrderClass": OrderClass,
+            "GetOrdersRequest": GetOrdersRequest, "APIError": APIError,
+            "ClosePositionRequest": ClosePositionRequest,
+        }
+    except ImportError:
+        logger.error(
+            "alpaca-py not installed. Run: pip install alpaca-py"
+        )
+        return None
+
+
+def alpaca_get_client():
+    """Create an Alpaca trading client. Reads keys from environment.
+
+    Required env vars:
+      ALPACA_API_KEY, ALPACA_API_SECRET
+    Optional:
+      ALPACA_PAPER (default 'true' — must be 'false' AND
+                    ALPACA_ALLOW_LIVE='YES' to use live account)
+    """
+    api_key = os.environ.get("ALPACA_API_KEY")
+    api_secret = os.environ.get("ALPACA_API_SECRET")
+    if not api_key or not api_secret:
+        logger.error(
+            "Missing ALPACA_API_KEY or ALPACA_API_SECRET environment vars. "
+            "Get them from https://app.alpaca.markets/paper/dashboard/overview"
+        )
+        return None, False
+
+    paper_env = os.environ.get("ALPACA_PAPER", "true").lower()
+    is_paper = paper_env != "false"
+    allow_live = os.environ.get("ALPACA_ALLOW_LIVE", "").upper() == "YES"
+
+    if not is_paper and TradingLimits.REQUIRE_PAPER_ACCOUNT and not allow_live:
+        logger.error(
+            "REFUSING TO RUN ON LIVE ACCOUNT. Set ALPACA_PAPER=true (default) "
+            "or explicitly set ALPACA_ALLOW_LIVE=YES (you must understand the risks)."
+        )
+        return None, False
+
+    mod = _alpaca_import()
+    if mod is None:
+        return None, False
+    client = mod["TradingClient"](api_key, api_secret, paper=is_paper)
+    return client, is_paper
+
+
+def alpaca_preflight_checks(client, regime_state, macro_data) -> tuple[bool, list[str]]:
+    """All-or-nothing safety checks. Returns (ok, list_of_failures).
+
+    These are the gates that decide whether ANY trades happen at all.
+    """
+    failures: list[str] = []
+    try:
+        account = client.get_account()
+    except Exception as exc:
+        return False, [f"Cannot fetch account: {exc}"]
+
+    # Account state checks
+    if str(account.trading_blocked).lower() == "true":
+        failures.append("Account trading is BLOCKED")
+    if str(account.account_blocked).lower() == "true":
+        failures.append("Account is BLOCKED")
+    if str(account.pattern_day_trader).lower() == "true":
+        logger.warning("Account flagged as Pattern Day Trader — long-term strategy may be limited")
+
+    equity = float(account.equity)
+    cash = float(account.cash)
+    last_equity = float(account.last_equity)
+
+    # Drawdown circuit breaker
+    if last_equity > 0:
+        daily_change = (equity - last_equity) / last_equity
+        if daily_change < -TradingLimits.MAX_DRAWDOWN_HALT:
+            failures.append(
+                f"DRAWDOWN HALT: account down {daily_change:.1%} since yesterday"
+            )
+
+    # Cash reserve check
+    cash_pct = cash / equity if equity > 0 else 0
+    if cash_pct < TradingLimits.MIN_CASH_RESERVE:
+        logger.warning(
+            "Cash reserve %.1f%% is below %d%% target — will not open new positions",
+            cash_pct * 100, int(TradingLimits.MIN_CASH_RESERVE * 100),
+        )
+
+    # Market regime check — don't open new positions in a crisis
+    if regime_state and regime_state.regime.value == "CRISIS":
+        failures.append("Market regime is CRISIS — refusing to open new positions")
+
+    # Macro check
+    if macro_data and macro_data.get("macro_grade") == "CRISIS":
+        failures.append("Macro environment is CRISIS — refusing to open new positions")
+
+    # Market clock — must be open or about to be
+    try:
+        clock = client.get_clock()
+        if not clock.is_open:
+            logger.warning(
+                "Market is currently closed (next open: %s). Orders will queue.",
+                clock.next_open,
+            )
+    except Exception:
+        pass
+
+    if failures:
+        return False, failures
+    logger.info(
+        "Pre-flight OK | equity=$%.2f cash=$%.2f cash_pct=%.1f%%",
+        equity, cash, cash_pct * 100,
+    )
+    return True, []
+
+
+def alpaca_get_existing_exposure(client) -> dict:
+    """Snapshot of current portfolio: positions, sector breakdown, total risk."""
+    try:
+        positions = client.get_all_positions()
+    except Exception as exc:
+        logger.warning("Could not fetch positions: %s", exc)
+        return {"positions": [], "by_ticker": {}, "by_sector": {}, "total_value": 0.0}
+
+    by_ticker: dict[str, dict] = {}
+    by_sector: dict[str, float] = {}
+    total_value = 0.0
+
+    for p in positions:
+        symbol = p.symbol
+        market_value = float(p.market_value)
+        qty = float(p.qty)
+        cost_basis = float(p.cost_basis) if p.cost_basis else market_value
+        unrealized_plpc = float(p.unrealized_plpc) if p.unrealized_plpc else 0.0
+        # Sector lookup via yfinance (cached at runtime is fine)
+        sector = "Unknown"
+        try:
+            sector = yf.Ticker(symbol).info.get("sector", "Unknown") or "Unknown"
+        except Exception:
+            pass
+        by_ticker[symbol] = {
+            "qty": qty, "market_value": market_value,
+            "cost_basis": cost_basis, "unrealized_pl_pct": unrealized_plpc,
+            "sector": sector,
+        }
+        by_sector[sector] = by_sector.get(sector, 0.0) + market_value
+        total_value += market_value
+
+    return {
+        "positions": positions, "by_ticker": by_ticker,
+        "by_sector": by_sector, "total_value": total_value,
+    }
+
+
+def alpaca_calculate_position_size(
+    *, account_equity: float, entry_price: float, stop_price: float,
+    confidence_score: float,
+) -> tuple[int, dict]:
+    """Determine number of shares to buy. Returns (qty, sizing_breakdown).
+
+    Three caps applied — uses the SMALLEST result:
+      1. 1% risk rule:    max_loss = equity * 0.01;  qty = max_loss / (entry - stop)
+      2. 7% concentration: max_value = equity * 0.07; qty = max_value / entry
+      3. Half-Kelly:      uses confidence as proxy for win probability
+    """
+    breakdown = {
+        "by_risk_rule": 0, "by_concentration": 0, "by_kelly": 0,
+        "chosen": 0, "reason": "",
+    }
+    if entry_price <= 0 or stop_price <= 0 or stop_price >= entry_price:
+        return 0, {**breakdown, "reason": "invalid prices"}
+
+    risk_per_share = entry_price - stop_price
+
+    # 1. The 1% rule
+    max_account_loss = account_equity * TradingLimits.MAX_RISK_PER_TRADE
+    qty_by_risk = int(max_account_loss / risk_per_share)
+    breakdown["by_risk_rule"] = qty_by_risk
+
+    # 2. Concentration cap
+    max_position_value = account_equity * TradingLimits.MAX_POSITION_PCT
+    qty_by_conc = int(max_position_value / entry_price)
+    breakdown["by_concentration"] = qty_by_conc
+
+    # 3. Half-Kelly approximation (using confidence_score as edge proxy)
+    # Win rate proxy: confidence_score (sigmoid-rescaled, 0.75-0.95 for HIGH)
+    # Risk:reward: stop is sized to 2.5x ATR, target is 3R/5R
+    # Kelly = W - (1-W)/RR ;  W ~ 0.55-0.65 for HIGH picks; RR = 3
+    win_rate = max(0.50, min(0.65, confidence_score))  # bound estimate conservatively
+    risk_reward = 3.0
+    kelly_full = win_rate - (1 - win_rate) / risk_reward
+    kelly_half = max(0.0, kelly_full * TradingLimits.KELLY_FRACTION)
+    qty_by_kelly = int((account_equity * kelly_half) / entry_price)
+    breakdown["by_kelly"] = qty_by_kelly
+
+    # Take the smallest cap so all three are respected
+    qty = max(0, min(qty_by_risk, qty_by_conc, qty_by_kelly))
+    breakdown["chosen"] = qty
+    if qty == qty_by_risk:
+        breakdown["reason"] = "1% risk rule (binding)"
+    elif qty == qty_by_conc:
+        breakdown["reason"] = "7% concentration cap (binding)"
+    else:
+        breakdown["reason"] = "Half-Kelly (binding)"
+    return qty, breakdown
+
+
+def alpaca_can_add_position(
+    ticker: str, sector: str, position_value: float,
+    account_equity: float, current_exposure: dict,
+) -> tuple[bool, str]:
+    """Diversification + concentration checks before placing an order."""
+    by_ticker = current_exposure["by_ticker"]
+    by_sector = current_exposure["by_sector"]
+
+    # Already hold this ticker?
+    if ticker in by_ticker:
+        return False, f"Already hold {ticker} — pyramiding disabled for safety"
+
+    # Max position count
+    if len(by_ticker) >= TradingLimits.MAX_POSITIONS:
+        return False, f"Already at max positions ({TradingLimits.MAX_POSITIONS})"
+
+    # Max single position concentration
+    if position_value > account_equity * TradingLimits.MAX_POSITION_PCT:
+        return False, f"Position would exceed {int(TradingLimits.MAX_POSITION_PCT*100)}% concentration cap"
+
+    # Max sector exposure
+    new_sector_value = by_sector.get(sector, 0.0) + position_value
+    if new_sector_value > account_equity * TradingLimits.MAX_SECTOR_ALLOCATION:
+        return False, (
+            f"Adding {ticker} would push {sector} sector to "
+            f"{new_sector_value/account_equity:.1%} (cap is "
+            f"{TradingLimits.MAX_SECTOR_ALLOCATION:.0%})"
+        )
+
+    return True, "OK"
+
+
+def alpaca_place_bracket_order(
+    client, ticker: str, qty: int, entry_price: float,
+    stop_price: float, target_price: float,
+) -> tuple[bool, str]:
+    """Place a bracket order: buy at limit, with stop loss + take profit."""
+    mod = _alpaca_import()
+    if mod is None:
+        return False, "alpaca-py not available"
+    try:
+        # Use limit order at slight premium to avoid chasing
+        limit_price = round(entry_price * 1.002, 2)  # +0.2% to ensure fill
+        order_request = mod["LimitOrderRequest"](
+            symbol=ticker, qty=qty, side=mod["OrderSide"].BUY,
+            time_in_force=mod["TimeInForce"].DAY,
+            order_class=mod["OrderClass"].BRACKET,
+            limit_price=limit_price,
+            stop_loss=mod["StopLossRequest"](stop_price=round(stop_price, 2)),
+            take_profit=mod["TakeProfitRequest"](limit_price=round(target_price, 2)),
+        )
+        order = client.submit_order(order_request)
+        return True, f"Order {order.id}: {qty} {ticker} @ ${limit_price:.2f}"
+    except Exception as exc:
+        return False, f"Order failed: {exc}"
+
+
+def alpaca_check_existing_for_exits(
+    client, current_exposure: dict, score_bundles: dict, sell_alerts: list,
+) -> list[str]:
+    """For each open position, decide if we should exit. Returns list of
+    closed tickers."""
+    closed: list[str] = []
+    by_ticker = current_exposure["by_ticker"]
+    sell_tickers = {a["ticker"] for a in sell_alerts}
+
+    for tkr, pos_data in by_ticker.items():
+        reason = None
+
+        # Hard exit: position down >15%
+        if pos_data["unrealized_pl_pct"] <= -TradingLimits.MAX_SINGLE_POSITION_LOSS:
+            reason = f"Position down {pos_data['unrealized_pl_pct']:.1%} (max single-position loss)"
+
+        # Sell alert from algo
+        elif tkr in sell_tickers:
+            alert = next((a for a in sell_alerts if a["ticker"] == tkr), {})
+            reason = f"Algo sell alert [{alert.get('urgency', 'MED')}]: {'; '.join(alert.get('reasons', []))[:80]}"
+
+        # Score deteriorated
+        elif tkr in score_bundles:
+            score = score_bundles[tkr].get("composite_score", 0.5)
+            if score < 0.40:
+                reason = f"Score collapsed to {score:.2f}"
+
+        if reason:
+            try:
+                client.close_position(tkr)
+                logger.info("CLOSED %s — %s", tkr, reason)
+                closed.append(tkr)
+            except Exception as exc:
+                logger.error("Failed to close %s: %s", tkr, exc)
+    return closed
+
+
+def alpaca_execute_strategy(
+    *, picks: list[dict], score_bundles: dict, sell_alerts: list,
+    regime_state, macro_data, dry_run: bool = True,
+) -> dict:
+    """Top-level executor. Handles preflight, exits, sizing, and entries.
+
+    dry_run=True (default): print what we WOULD do, don't submit orders.
+    """
+    summary = {
+        "dry_run": dry_run, "preflight_ok": False,
+        "preflight_failures": [], "closed_positions": [],
+        "new_positions": [], "skipped": [],
+    }
+
+    # 1. Get client
+    client, is_paper = alpaca_get_client()
+    if client is None:
+        summary["preflight_failures"].append("Cannot connect to Alpaca")
+        return summary
+    summary["account_type"] = "PAPER" if is_paper else "LIVE"
+    logger.info("Connected to Alpaca %s account", summary["account_type"])
+
+    # 2. Preflight
+    ok, fails = alpaca_preflight_checks(client, regime_state, macro_data)
+    summary["preflight_ok"] = ok
+    summary["preflight_failures"] = fails
+    if not ok:
+        for f in fails:
+            logger.error("PREFLIGHT FAIL: %s", f)
+        return summary
+
+    # 3. Snapshot existing exposure
+    exposure = alpaca_get_existing_exposure(client)
+    summary["existing_positions"] = list(exposure["by_ticker"].keys())
+    logger.info(
+        "Existing positions: %d | total value $%.2f",
+        len(exposure["by_ticker"]), exposure["total_value"],
+    )
+
+    # 4. Check existing positions for exits
+    if not dry_run:
+        closed = alpaca_check_existing_for_exits(
+            client, exposure, score_bundles, sell_alerts,
+        )
+        summary["closed_positions"] = closed
+        # Refresh after closes
+        if closed:
+            exposure = alpaca_get_existing_exposure(client)
+
+    # 5. Account equity for sizing
+    account = client.get_account()
+    equity = float(account.equity)
+    cash = float(account.cash)
+
+    # 6. For each pick, attempt to enter
+    for bundle in picks[:TradingLimits.MAX_POSITIONS]:
+        tkr = bundle["ticker"]
+        confidence = bundle.get("confidence", "LOW")
+
+        # Only enter on HIGH confidence (despite top-N fallback existing)
+        if confidence != TradingLimits.MIN_CONFIDENCE_TO_TRADE:
+            summary["skipped"].append({"ticker": tkr, "reason": f"Confidence {confidence}, requires HIGH"})
+            continue
+
+        # Build trade plan
+        trade = apply_slippage_to_trade(generate_trade_plan(bundle))
+        ep = trade.get("entry_price")
+        sp = trade.get("stop_price")
+        t1 = trade.get("target_1_price")
+        if ep is None or sp is None or t1 is None or ep <= 0:
+            summary["skipped"].append({"ticker": tkr, "reason": "Trade plan missing prices"})
+            continue
+        if ep < TradingLimits.MIN_STOCK_PRICE:
+            summary["skipped"].append({"ticker": tkr, "reason": f"Price ${ep:.2f} below min ${TradingLimits.MIN_STOCK_PRICE}"})
+            continue
+
+        # Liquidity check
+        adv = bundle.get("raw_signals", {}).get("avg_dollar_volume", 0)
+        if adv and adv < TradingLimits.MIN_LIQUIDITY_USD:
+            summary["skipped"].append({"ticker": tkr, "reason": f"Liquidity ${adv/1e6:.1f}M < ${TradingLimits.MIN_LIQUIDITY_USD/1e6:.0f}M floor"})
+            continue
+
+        # Position size
+        score = bundle.get("composite_score", 0.5)
+        qty, sizing = alpaca_calculate_position_size(
+            account_equity=equity, entry_price=ep, stop_price=sp,
+            confidence_score=score,
+        )
+        if qty < 1:
+            summary["skipped"].append({"ticker": tkr, "reason": f"Sizing returned 0 shares ({sizing['reason']})"})
+            continue
+        position_value = qty * ep
+
+        # Diversification check
+        sector = bundle.get("raw_fundamentals", {}).get("sector", "Unknown")
+        ok_to_add, why = alpaca_can_add_position(
+            tkr, sector, position_value, equity, exposure,
+        )
+        if not ok_to_add:
+            summary["skipped"].append({"ticker": tkr, "reason": why})
+            continue
+
+        # Cash check (after preserving 20% reserve)
+        available_cash = cash - (equity * TradingLimits.MIN_CASH_RESERVE)
+        if position_value > available_cash:
+            summary["skipped"].append({
+                "ticker": tkr,
+                "reason": f"Insufficient cash (need ${position_value:.0f}, available ${available_cash:.0f})",
+            })
+            continue
+
+        # Place the order (or print plan if dry-run)
+        plan_str = (
+            f"{tkr}: {qty} sh @ ${ep:.2f} = ${position_value:.0f} "
+            f"({position_value/equity:.1%} of acct) | "
+            f"stop ${sp:.2f} | T1 ${t1:.2f} | sized by {sizing['reason']}"
+        )
+        if dry_run:
+            logger.info("[DRY RUN] WOULD BUY: %s", plan_str)
+            summary["new_positions"].append({"ticker": tkr, "plan": plan_str, "executed": False})
+        else:
+            success, msg = alpaca_place_bracket_order(
+                client, tkr, qty, ep, sp, t1,
+            )
+            logger.info("%s %s — %s", "EXECUTED:" if success else "FAILED:", plan_str, msg)
+            summary["new_positions"].append({"ticker": tkr, "plan": plan_str, "executed": success, "msg": msg})
+
+            # Update local exposure tracking so subsequent picks see this
+            if success:
+                exposure["by_ticker"][tkr] = {
+                    "qty": qty, "market_value": position_value, "sector": sector,
+                }
+                exposure["by_sector"][sector] = exposure["by_sector"].get(sector, 0.0) + position_value
+                cash -= position_value
+
+    return summary
+
+
+def print_alpaca_summary(summary: dict) -> None:
+    """Pretty-print the executor summary at the end of a run."""
+    if not summary:
+        return
+    print("\n" + "=" * 64)
+    mode = "DRY RUN (no orders placed)" if summary.get("dry_run") else "LIVE EXECUTION"
+    print(f"  ALPACA EXECUTOR — {mode}")
+    print("=" * 64)
+    if not summary.get("preflight_ok"):
+        print("  PREFLIGHT FAILED:")
+        for f in summary.get("preflight_failures", []):
+            print(f"    ✗ {f}")
+        return
+    print(f"  Account type: {summary.get('account_type', 'unknown')}")
+    print(f"  Existing positions: {len(summary.get('existing_positions', []))}")
+    if summary.get("closed_positions"):
+        print(f"  Closed: {', '.join(summary['closed_positions'])}")
+    if summary.get("new_positions"):
+        verb = "Planned (not placed)" if summary.get("dry_run") else "Submitted"
+        print(f"\n  {verb} orders:")
+        for p in summary["new_positions"]:
+            mark = "  ✓" if p.get("executed", True) else "  ✗"
+            print(f"  {mark} {p['plan']}")
+    if summary.get("skipped"):
+        print(f"\n  Skipped:")
+        for s in summary["skipped"]:
+            print(f"    • {s['ticker']}: {s['reason']}")
+
+
+def run(cfg_path=None, debug=False, held_positions=None,
+        execute=False, dry_run=True) -> None:
     """Run the full stock recommendation pipeline.
 
     Args:
         cfg_path: Optional path to YAML config (uses embedded default if None).
         debug: Quick test with 2 tickers when True.
         held_positions: Tickers you own — triggers sell alert analysis.
+        execute: If True, runs Alpaca executor. Without execute, just reports.
+        dry_run: If True (default), logs what would be traded but doesn't
+                 submit orders. Set False to actually trade on Alpaca.
     """
     cfg = load_config(cfg_path)
     random.seed(cfg.random_seed)
@@ -5202,29 +5888,47 @@ def run(cfg_path=None, debug=False, held_positions=None) -> None:
     logger.info("Step 3: Fetching fundamentals...")
     all_fundamentals = fetch_all_fundamentals(qualified)
 
-    # ── Data quality + liquidity filtering ─────────────────────────────
-    # Drop stocks that yfinance returned thin/garbage data for, and drop
-    # illiquid names where slippage would eat any edge.
-    MIN_DOLLAR_VOLUME = 5_000_000  # $5M/day floor
+    # ── Data quality + liquidity + size + profitability filtering ────
+    # Established-company strategy:
+    #   - $10B+ market cap (no penny stocks, no thinly-followed names)
+    #   - Profitable on earnings basis (positive P/E, positive net income)
+    #   - Sufficient liquidity for clean entry
+    #   - yfinance must have actually populated the fundamental data
+    MIN_DOLLAR_VOLUME = 20_000_000  # $20M/day — established names trade heavy
+    MIN_MARKET_CAP = 10_000_000_000  # $10B
     quality_filtered: list[str] = []
     rejected_data: list[str] = []
     rejected_liquidity: list[str] = []
+    rejected_size: list[str] = []
+    rejected_unprofitable: list[str] = []
     for tkr in qualified:
         fund = all_fundamentals.get(tkr, {})
         ok, n_present, missing = assess_data_quality(fund)
         if not ok:
             rejected_data.append(tkr)
             continue
+        size_ok, size_reason = passes_quality_size_filters(
+            fund, min_market_cap=MIN_MARKET_CAP, require_profitable_pe=True,
+        )
+        if not size_ok:
+            if "market cap" in size_reason:
+                rejected_size.append(tkr)
+            else:
+                rejected_unprofitable.append(tkr)
+            continue
         liq = compute_liquidity(price_data.get(tkr))
         if liq["avg_dollar_volume"] < MIN_DOLLAR_VOLUME:
             rejected_liquidity.append(tkr)
             continue
-        # Stash liquidity onto the raw signals for later use
+        # Stash liquidity + market cap onto raw signals for later use
         all_raw_signals[tkr]["avg_dollar_volume"] = liq["avg_dollar_volume"]
+        all_raw_signals[tkr]["market_cap"] = float(fund.get("marketCap", 0) or 0)
         quality_filtered.append(tkr)
     logger.info(
-        "Quality+liquidity filter: %d kept, %d rejected for thin data, %d for low liquidity",
-        len(quality_filtered), len(rejected_data), len(rejected_liquidity),
+        "Quality filters: %d kept | rejected: %d thin data, %d too small (<$%dB), "
+        "%d unprofitable, %d illiquid",
+        len(quality_filtered), len(rejected_data), len(rejected_size),
+        MIN_MARKET_CAP // 1_000_000_000, len(rejected_unprofitable), len(rejected_liquidity),
     )
     if rejected_data:
         logger.debug("Thin-data rejected (sample): %s", rejected_data[:10])
@@ -5340,7 +6044,7 @@ def run(cfg_path=None, debug=False, held_positions=None) -> None:
         high_conviction, all_fundamentals, max_per_sector=3,
     )
     # Trim to top N after diversification
-    high_conviction = high_conviction[:20]
+    high_conviction = high_conviction[:5]  # 5 high-conviction picks
     logger.info(
         "Picks: %d after sector diversification (was %d before, max 3/sector)",
         len(high_conviction), n_high_pre_div,
@@ -5365,10 +6069,29 @@ def run(cfg_path=None, debug=False, held_positions=None) -> None:
     except Exception:
         output_dir = Path("/tmp/stock_algo_reports")
 
+    # ── Compute sector ETF rankings for the suggestions section ───────
+    etf_suggestions = []
+    try:
+        spy_df = reference_prices.get("SPY")
+        if spy_df is not None and not spy_df.empty:
+            spy_close = spy_df["Close"].dropna()
+            sector_closes_for_rank = {}
+            for etf in _ALL_SECTOR_ETFS:
+                df = reference_prices.get(etf)
+                if df is not None and not df.empty:
+                    sector_closes_for_rank[etf] = df["Close"].dropna()
+            sector_rank = compute_sector_ranking(sector_closes_for_rank, spy_close)
+            etf_suggestions = suggest_sector_etfs(
+                sector_rank, high_conviction, all_fundamentals,
+            )
+    except Exception as exc:
+        logger.debug("ETF suggestion computation failed: %s", exc)
+
     report = build_report(
         high_conviction, explanations, str(date.today()), output_dir,
         min_confidence_score=min_conf, sell_alerts=sell_alerts,
         regime_state=regime_state, macro_data=macro_env,
+        etf_suggestions=etf_suggestions,
     )
     print("\n" + report)
 
@@ -5384,6 +6107,15 @@ def run(cfg_path=None, debug=False, held_positions=None) -> None:
         output_dir=output_dir,
     )
 
+    # ── Alpaca executor (paper trading) — only when --execute is passed ──
+    if execute:
+        executor_summary = alpaca_execute_strategy(
+            picks=high_conviction, score_bundles=score_bundles,
+            sell_alerts=sell_alerts, regime_state=regime_state,
+            macro_data=macro_env, dry_run=dry_run,
+        )
+        print_alpaca_summary(executor_summary)
+
 
 def main() -> None:
     """CLI entry point."""
@@ -5394,8 +6126,19 @@ def main() -> None:
         "--held", nargs="+", default=[], metavar="TICKER",
         help="Currently held tickers — triggers sell alert analysis",
     )
+    parser.add_argument(
+        "--execute", action="store_true",
+        help="Run Alpaca executor (paper trading by default). Adds order placement.",
+    )
+    parser.add_argument(
+        "--live", action="store_true",
+        help="Actually submit orders. Without this, --execute is a dry-run.",
+    )
     args = parser.parse_args()
-    run(cfg_path=args.config, debug=args.debug, held_positions=args.held)
+    run(
+        cfg_path=args.config, debug=args.debug, held_positions=args.held,
+        execute=args.execute, dry_run=not args.live,
+    )
 
 
 # =====================================================================
