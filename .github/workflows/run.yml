@@ -21,10 +21,14 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install yfinance vaderSentiment pyyaml pandas numpy
+          pip install yfinance vaderSentiment pyyaml pandas numpy alpaca-py
 
-      - name: Run the algo
-        run: python ALGO_STANDALONE.py
+      - name: Run the algo (paper trading)
+        env:
+          ALPACA_API_KEY: ${{ secrets.ALPACA_API_KEY }}
+          ALPACA_API_SECRET: ${{ secrets.ALPACA_API_SECRET }}
+          ALPACA_PAPER: "true"
+        run: python ALGO_STANDALONE.py --execute --live
 
       - name: Commit report back to repo
         run: |
