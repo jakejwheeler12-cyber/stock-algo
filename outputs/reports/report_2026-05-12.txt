@@ -1,0 +1,175 @@
+=== STOCK RECOMMENDATIONS [2026-05-12] ===
+Generated: 2026-05-12 19:24:52
+Universe: 5 HIGH-confidence picks
+
+  MARKET REGIME: BULL_QUIET
+  Bull market, low volatility — standard strategy
+  SPY: 736.83 | 200-SMA: 671.63 | Vol: 10%
+
+  MACRO: NEUTRAL
+  Macro NEUTRAL: VIX 18.1 (elevated), yield curve flat, commodities growth
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLK    Technology
+         Semis, software, hardware
+  #2  XLE    Energy
+         Oil & gas
+  #3  XLRE   Real Estate
+         REITs
+
+
+#1  FUTU    (Score: 0.82 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Capital Markets
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + RSI 37 — healthy range
+        + ROE 33%
+        + Revenue growing +53% YoY
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - Negative 6-month momentum: -25%
+        - No recent news found
+        - RS vs SPY: -18% — underperforming
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $137.18
+      Buy Zone: $130.32 — $137.18  (better entry on pullback)
+      Stop:     $116.20  (-15.5%, 2.5x ATR)
+      Target1:  $200.13  (+45.5%, take half off)
+      Target2:  $242.09  (+76.1%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  BBD     (Score: 0.80 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Banks - Regional
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Positive momentum: +5% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 39 — healthy range
+        + Revenue growing +10% YoY
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+        - RS vs SPY: -13% — underperforming
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $3.65
+      Buy Zone: $3.47 — $3.65  (better entry on pullback)
+      Stop:     $3.39  (-7.4%, 2.5x ATR)
+      Target1:  $4.44  (+21.3%, take half off)
+      Target2:  $4.97  (+35.8%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#3  ACGL    (Score: 0.80 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Insurance - Diversified
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Positive momentum: +5% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 46 — healthy range
+        + ROE 21%
+        + PEG ratio 1.1
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+        - RS vs SPY: -10% — underperforming
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Consolidating in a base — accumulate gradually
+      Current:  $94.29
+      Buy Zone: $89.58 — $94.29  (better entry on pullback)
+      Stop:     $89.63  (-5.1%, 2.5x ATR)
+      Target1:  $108.26  (+14.4%, take half off)
+      Target2:  $117.57  (+24.3%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#4  TOL     (Score: 0.79 | Confidence: HIGH)
+    Sector: Consumer Cyclical  |  Industry: Residential Construction
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 41 — healthy range
+        + ROE 17%
+        + PEG ratio 1.0
+        + Revenue growing +15% YoY
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+        - RS vs SPY: -22% — underperforming
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $134.43
+      Buy Zone: $127.71 — $134.43  (better entry on pullback)
+      Stop:     $123.81  (-8.1%, 2.5x ATR)
+      Target1:  $166.29  (+23.3%, take half off)
+      Target2:  $187.53  (+39.1%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#5  TAK     (Score: 0.77 | Confidence: HIGH)
+    Sector: Healthcare  |  Industry: Drug Manufacturers - Specialty & Generic
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Strong momentum: +21% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 37 — healthy range
+        + MACD histogram positive
+        + PEG ratio 0.3
+        + Financial health GOOD
+      Cons:
+        - No recent news found
+        - RS vs SPY: -15% — underperforming
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $16.48
+      Buy Zone: $15.66 — $16.48  (better entry on pullback)
+      Stop:     $15.86  (-3.9%, 2.5x ATR)
+      Target1:  $18.33  (+10.8%, take half off)
+      Target2:  $19.56  (+18.3%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+      ⚠ Liquidity: $48.7M/day avg — keep position size moderate
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
