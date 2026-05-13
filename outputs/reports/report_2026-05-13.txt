@@ -1,0 +1,172 @@
+=== STOCK RECOMMENDATIONS [2026-05-13] ===
+Generated: 2026-05-13 19:28:20
+Universe: 5 HIGH-confidence picks
+
+  MARKET REGIME: BULL_QUIET
+  Bull market, low volatility — standard strategy
+  SPY: 743.26 | 200-SMA: 672.20 | Vol: 10%
+
+  MACRO: NEUTRAL
+  Macro NEUTRAL: VIX 17.9 (calm), yield curve flat, commodities growth
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLK    Technology ← already covered by your picks
+         Semis, software, hardware
+  #2  XLE    Energy
+         Oil & gas
+  #3  XLRE   Real Estate
+         REITs
+
+
+#1  FSLR    (Score: 0.83 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Solar
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + MACD histogram positive
+        + ROE 18%
+        + PEG ratio 0.6
+        + Revenue growing +24% YoY
+        + Financial health EXCELLENT
+      Cons:
+        - Negative 6-month momentum: -14%
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Retest of breakout — prior resistance now support
+      Current:  $234.21
+      Buy Zone: $222.50 — $234.21  (better entry on pullback)
+      Stop:     $206.06  (-12.2%, 2.5x ATR)
+      Target1:  $318.65  (+35.7%, take half off)
+      Target2:  $374.94  (+59.7%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  FUTU    (Score: 0.82 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Capital Markets
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + RSI 43 — healthy range
+        + ROE 33%
+        + Revenue growing +53% YoY
+        + Financial health EXCELLENT
+      Cons:
+        - MACD histogram negative
+        - Negative 6-month momentum: -23%
+        - No recent news found
+        - RS vs SPY: -13% — underperforming
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $142.96
+      Buy Zone: $135.81 — $142.96  (better entry on pullback)
+      Stop:     $122.07  (-14.8%, 2.5x ATR)
+      Target1:  $205.62  (+43.4%, take half off)
+      Target2:  $247.39  (+72.6%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#3  GMED    (Score: 0.81 | Confidence: HIGH)
+    Sector: Healthcare  |  Industry: Medical Devices
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Above 200-day SMA with SMA50 in uptrend
+        + PEG ratio 1.5
+        + Revenue growing +27% YoY
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - Negative 6-month momentum: -12%
+        - No recent news found
+        - RS vs SPY: -20% — underperforming
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $75.89
+      Buy Zone: $72.10 — $75.89  (better entry on pullback)
+      Stop:     $66.98  (-11.9%, 2.5x ATR)
+      Target1:  $102.61  (+34.8%, take half off)
+      Target2:  $120.43  (+58.3%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#4  ITUB    (Score: 0.81 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Banks - Regional
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Strong momentum: +13% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + ROE 22%
+        + PEG ratio 1.3
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+        - RS vs SPY: -23% — underperforming
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $7.84
+      Buy Zone: $7.45 — $7.84  (better entry on pullback)
+      Stop:     $7.22  (-8.1%, 2.5x ATR)
+      Target1:  $9.72  (+23.4%, take half off)
+      Target2:  $10.96  (+39.3%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#5  TOL     (Score: 0.80 | Confidence: HIGH)
+    Sector: Consumer Cyclical  |  Industry: Residential Construction
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 39 — healthy range
+        + ROE 17%
+        + PEG ratio 1.0
+        + Revenue growing +15% YoY
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+        - RS vs SPY: -24% — underperforming
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $132.60
+      Buy Zone: $125.97 — $132.60  (better entry on pullback)
+      Stop:     $122.46  (-7.8%, 2.5x ATR)
+      Target1:  $163.03  (+22.5%, take half off)
+      Target2:  $183.31  (+37.8%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
