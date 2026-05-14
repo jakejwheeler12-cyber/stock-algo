@@ -1,0 +1,173 @@
+=== STOCK RECOMMENDATIONS [2026-05-14] ===
+Generated: 2026-05-14 19:27:22
+Universe: 5 HIGH-confidence picks
+
+  MARKET REGIME: BULL_QUIET
+  Bull market, low volatility — standard strategy
+  SPY: 748.54 | 200-SMA: 672.79 | Vol: 10%
+
+  MACRO: NEUTRAL
+  Macro NEUTRAL: VIX 17.3 (calm), yield curve flat, commodities growth
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLK    Technology
+         Semis, software, hardware
+  #2  XLE    Energy
+         Oil & gas
+  #3  XLRE   Real Estate ← already covered by your picks
+         REITs
+
+
+#1  FUTU    (Score: 0.83 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Capital Markets
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + RSI 42 — healthy range
+        + ROE 33%
+        + Revenue growing +53% YoY
+        + Financial health EXCELLENT
+      Cons:
+        - MACD histogram negative
+        - Negative 6-month momentum: -23%
+        - No recent news found
+        - RS vs SPY: -12% — underperforming
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $141.45
+      Buy Zone: $134.38 — $141.45  (better entry on pullback)
+      Stop:     $121.31  (-14.4%, 2.5x ATR)
+      Target1:  $201.87  (+42.3%, take half off)
+      Target2:  $242.16  (+70.8%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  ACGL    (Score: 0.82 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Insurance - Diversified
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 43 — healthy range
+        + ROE 21%
+        + PEG ratio 1.1
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+        - RS vs SPY: -15% — underperforming
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Consolidating in a base — accumulate gradually
+      Current:  $93.60
+      Buy Zone: $88.92 — $93.60  (better entry on pullback)
+      Stop:     $89.01  (-5.1%, 2.5x ATR)
+      Target1:  $107.38  (+14.3%, take half off)
+      Target2:  $116.56  (+24.1%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#3  PDD     (Score: 0.82 | Confidence: HIGH)
+    Sector: Consumer Cyclical  |  Industry: Internet Retail
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + RSI 42 — healthy range
+        + ROE 27%
+        + Revenue growing +12% YoY
+        + Financial health EXCELLENT
+      Cons:
+        - MACD histogram negative
+        - Negative 6-month momentum: -30%
+        - No recent news found
+        - RS vs SPY: -14% — underperforming
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Consolidating in a base — accumulate gradually
+      Current:  $95.48
+      Buy Zone: $90.71 — $95.48  (better entry on pullback)
+      Stop:     $87.35  (-8.7%, 2.5x ATR)
+      Target1:  $119.86  (+25.1%, take half off)
+      Target2:  $136.11  (+42.2%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#4  JLL     (Score: 0.79 | Confidence: HIGH)
+    Sector: Real Estate  |  Industry: Real Estate Services
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Above 200-day SMA with SMA50 in uptrend
+        + PEG ratio 1.0
+        + Revenue growing +11% YoY
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - Negative 6-month momentum: -5%
+        - No recent news found
+        - RS vs SPY: -5% — underperforming
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $293.11
+      Buy Zone: $278.45 — $293.11  (better entry on pullback)
+      Stop:     $264.29  (-10.0%, 2.5x ATR)
+      Target1:  $379.57  (+29.1%, take half off)
+      Target2:  $437.21  (+48.8%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#5  TCEHY   (Score: 0.79 | Confidence: HIGH)
+    Sector: Communication Services  |  Industry: Internet Content & Information
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + RSI 39 — healthy range
+        + ROE 21%
+        + PEG ratio 1.4
+        + Revenue growing +9% YoY
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - Negative 6-month momentum: -29%
+        - No recent news found
+        - RS vs SPY: -20% — underperforming
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $59.08
+      Buy Zone: $56.13 — $59.08  (better entry on pullback)
+      Stop:     $54.96  (-7.2%, 2.5x ATR)
+      Target1:  $71.45  (+20.5%, take half off)
+      Target2:  $79.69  (+34.5%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
