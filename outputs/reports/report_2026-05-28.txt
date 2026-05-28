@@ -1,0 +1,84 @@
+=== STOCK RECOMMENDATIONS [2026-05-28] ===
+Generated: 2026-05-28 16:51:41
+Universe: 2 HIGH-confidence picks
+
+  MARKET REGIME: BULL_QUIET
+  Bull market, low volatility — standard strategy
+  SPY: 754.54 | 200-SMA: 678.08 | Vol: 10%
+
+  MACRO: NEUTRAL
+  Macro NEUTRAL: VIX 15.9 (calm), yield curve flat, commodities growth
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLK    Technology
+         Semis, software, hardware
+  #2  XLE    Energy
+         Oil & gas
+  #3  XLY    Consumer Cyclical
+         Retail, autos, leisure
+
+
+#1  ITUB    (Score: 0.82 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Banks - Regional
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Strong momentum: +18% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 43 — healthy range
+        + ROE 22%
+        + PEG ratio 1.3
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+        - RS vs SPY: -21% — underperforming
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $7.93
+      Buy Zone: $7.53 — $7.93  (better entry on pullback)
+      Stop:     $7.39  (-7.0%, 2.5x ATR)
+      Target1:  $9.55  (+20.0%, take half off)
+      Target2:  $10.63  (+33.6%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  NTES    (Score: 0.80 | Confidence: HIGH)
+    Sector: Communication Services  |  Industry: Electronic Gaming & Multimedia
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + MACD histogram positive
+        + ROE 22%
+        + PEG ratio 1.3
+        + Financial health EXCELLENT
+      Cons:
+        - Negative 6-month momentum: -10%
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Retest of breakout — prior resistance now support
+      Current:  $123.80
+      Buy Zone: $117.61 — $123.80  (better entry on pullback)
+      Stop:     $113.77  (-8.3%, 2.5x ATR)
+      Target1:  $153.88  (+23.9%, take half off)
+      Target2:  $173.94  (+40.1%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
