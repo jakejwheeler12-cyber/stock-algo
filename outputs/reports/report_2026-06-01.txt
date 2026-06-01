@@ -1,0 +1,172 @@
+=== STOCK RECOMMENDATIONS [2026-06-01] ===
+Generated: 2026-06-01 18:36:40
+Universe: 5 HIGH-confidence picks
+
+  MARKET REGIME: BULL_QUIET
+  Bull market, low volatility — standard strategy
+  SPY: 759.60 | 200-SMA: 679.28 | Vol: 10%
+
+  MACRO: NEUTRAL
+  Macro NEUTRAL: VIX 15.8 (calm), yield curve flat, commodities growth
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLK    Technology ← already covered by your picks
+         Semis, software, hardware
+  #2  XLY    Consumer Cyclical
+         Retail, autos, leisure
+  #3  XLE    Energy
+         Oil & gas
+
+
+#1  INCY    (Score: 0.86 | Confidence: HIGH)
+    Sector: Healthcare  |  Industry: Biotechnology
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 44 — healthy range
+        + ROE 31%
+        + PEG ratio 0.4
+        + Revenue growing +21% YoY
+        + Financial health EXCELLENT
+      Cons:
+        - MACD histogram negative
+        - Negative 6-month momentum: -10%
+        - No recent news found
+        - RS vs SPY: -14% — underperforming
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Consolidating in a base — accumulate gradually
+      Current:  $95.58
+      Buy Zone: $90.80 — $95.58  (better entry on pullback)
+      Stop:     $89.96  (-6.1%, 2.5x ATR)
+      Target1:  $112.44  (+17.2%, take half off)
+      Target2:  $123.68  (+29.0%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  PYPL    (Score: 0.77 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Credit Services
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + RSI 45 — healthy range
+        + MACD histogram positive
+        + ROE 25%
+        + Financial health GOOD
+      Cons:
+        - Negative 6-month momentum: -27%
+        - No recent news found
+        - RS vs SPY: -11% — underperforming
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $45.05
+      Buy Zone: $42.80 — $45.05  (better entry on pullback)
+      Stop:     $42.13  (-6.7%, 2.5x ATR)
+      Target1:  $53.82  (+19.1%, take half off)
+      Target2:  $59.67  (+32.1%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#3  ZTO     (Score: 0.76 | Confidence: HIGH)
+    Sector: Industrials  |  Industry: Integrated Freight & Logistics
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Positive momentum: +9% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + PEG ratio 1.2
+        + Revenue growing +22% YoY
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+        - RS vs SPY: -14% — underperforming
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $22.45
+      Buy Zone: $21.33 — $22.45  (better entry on pullback)
+      Stop:     $21.11  (-6.2%, 2.5x ATR)
+      Target1:  $26.49  (+17.6%, take half off)
+      Target2:  $29.18  (+29.5%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+      ⚠ Liquidity: $49.0M/day avg — keep position size moderate
+
+----------------------------------------------------------------
+
+#4  WDAY    (Score: 0.76 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Software - Application
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + MACD histogram positive
+        + PEG ratio 0.6
+        + Revenue growing +14% YoY
+        + Financial health GOOD
+        + Strong RS vs SPY: +5% over 3 months
+      Cons:
+        - Negative 6-month momentum: -27%
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Strong breakout — buy on a pullback, not at the top
+      Current:  $156.59
+      Buy Zone: $148.76 — $156.59  (better entry on pullback)
+      Stop:     $133.63  (-14.9%, 2.5x ATR)
+      Target1:  $225.46  (+43.6%, take half off)
+      Target2:  $271.37  (+72.9%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#5  USB     (Score: 0.76 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Banks - Regional
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Positive momentum: +12% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 43 — healthy range
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+        - RS vs SPY: -11% — underperforming
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Consolidating in a base — accumulate gradually
+      Current:  $53.51
+      Buy Zone: $50.83 — $53.51  (better entry on pullback)
+      Stop:     $50.95  (-5.0%, 2.5x ATR)
+      Target1:  $61.17  (+13.9%, take half off)
+      Target2:  $66.28  (+23.5%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
