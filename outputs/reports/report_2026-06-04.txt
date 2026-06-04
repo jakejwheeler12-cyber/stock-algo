@@ -1,0 +1,140 @@
+=== STOCK RECOMMENDATIONS [2026-06-04] ===
+Generated: 2026-06-04 16:21:26
+Universe: 4 HIGH-confidence picks
+
+  MARKET REGIME: BULL_QUIET
+  Bull market, low volatility — standard strategy
+  SPY: 756.42 | 200-SMA: 681.05 | Vol: 9%
+
+  MACRO: NEUTRAL
+  Macro NEUTRAL: VIX 15.6 (calm), yield curve flat, commodities growth
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLK    Technology
+         Semis, software, hardware
+  #2  XLE    Energy
+         Oil & gas
+  #3  XLI    Industrials
+         Aerospace, machinery, transports
+
+
+#1  PDD     (Score: 0.80 | Confidence: HIGH)
+    Sector: Consumer Cyclical  |  Industry: Internet Retail
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + RSI 38 — healthy range
+        + ROE 25%
+        + Revenue growing +11% YoY
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - Negative 6-month momentum: -28%
+        - No recent news found
+        - RS vs SPY: -23% — underperforming
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $86.06
+      Buy Zone: $81.76 — $86.06  (better entry on pullback)
+      Stop:     $76.50  (-11.3%, 2.5x ATR)
+      Target1:  $114.73  (+32.9%, take half off)
+      Target2:  $133.85  (+55.1%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  ALL     (Score: 0.78 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Insurance - Property & Casualty
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 49 — healthy range
+        + ROE 45%
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+        - RS vs SPY: -10% — underperforming
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Consolidating in a base — accumulate gradually
+      Current:  $211.32
+      Buy Zone: $200.75 — $211.32  (better entry on pullback)
+      Stop:     $198.39  (-6.3%, 2.5x ATR)
+      Target1:  $250.12  (+18.0%, take half off)
+      Target2:  $275.98  (+30.2%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#3  TSN     (Score: 0.78 | Confidence: HIGH)
+    Sector: Consumer Defensive  |  Industry: Farm Products
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Above 200-day SMA with SMA50 in uptrend
+        + PEG ratio 1.0
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+        - RS vs SPY: -17% — underperforming
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $57.19
+      Buy Zone: $54.33 — $57.19  (better entry on pullback)
+      Stop:     $52.35  (-8.7%, 2.5x ATR)
+      Target1:  $71.71  (+25.0%, take half off)
+      Target2:  $81.40  (+41.9%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#4  EVR     (Score: 0.78 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Capital Markets
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Positive momentum: +10% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 57 — healthy range
+        + MACD histogram positive
+        + ROE 42%
+        + Revenue growing +100% YoY
+        + Financial health GOOD
+      Cons:
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $347.62
+      Buy Zone: $330.24 — $347.62  (better entry on pullback)
+      Stop:     $318.23  (-8.7%, 2.5x ATR)
+      Target1:  $435.80  (+25.0%, take half off)
+      Target2:  $494.58  (+41.9%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
