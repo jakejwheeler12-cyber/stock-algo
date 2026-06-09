@@ -1,0 +1,171 @@
+=== STOCK RECOMMENDATIONS [2026-06-09] ===
+Generated: 2026-06-09 15:53:15
+Universe: 5 HIGH-confidence picks
+
+  MARKET REGIME: BULL_QUIET
+  Bull market, low volatility — standard strategy
+  SPY: 731.88 | 200-SMA: 682.61 | Vol: 13%
+
+  MACRO: NEUTRAL
+  Macro NEUTRAL: VIX 20.5 (elevated), yield curve flat, commodities growth
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLK    Technology ← already covered by your picks
+         Semis, software, hardware
+  #2  XLRE   Real Estate
+         REITs
+  #3  XLF    Financials
+         Banks, insurance, payments
+
+
+#1  SMCI    (Score: 0.79 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Computer Hardware
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Strong momentum: +17% over 6 months
+        + RSI 54 — healthy range
+        + ROE 18%
+        + PEG ratio 0.9
+        + Revenue growing +123% YoY
+        + Financial health GOOD
+        + Strong RS vs SPY: +17% over 3 months
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Retest of breakout — prior resistance now support
+      Current:  $40.44
+      Buy Zone: $38.42 — $40.44  (better entry on pullback)
+      Stop:     $30.93  (-23.7%, 2.5x ATR)
+      Target1:  $68.98  (+70.2%, take half off)
+      Target2:  $88.00  (+117.2%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  SYF     (Score: 0.78 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Credit Services
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + RSI 48 — healthy range
+        + ROE 22%
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - Negative 6-month momentum: -11%
+        - No recent news found
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $71.02
+      Buy Zone: $67.47 — $71.02  (better entry on pullback)
+      Stop:     $66.12  (-7.1%, 2.5x ATR)
+      Target1:  $85.72  (+20.3%, take half off)
+      Target2:  $95.52  (+34.1%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#3  EVR     (Score: 0.78 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Capital Markets
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 54 — healthy range
+        + ROE 42%
+        + Revenue growing +100% YoY
+        + Financial health GOOD
+        + Strong RS vs SPY: +11% over 3 months
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $343.88
+      Buy Zone: $326.69 — $343.88  (better entry on pullback)
+      Stop:     $314.79  (-8.7%, 2.5x ATR)
+      Target1:  $431.16  (+25.0%, take half off)
+      Target2:  $489.34  (+41.9%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#4  TEL     (Score: 0.77 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Electronic Components
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + RSI 48 — healthy range
+        + MACD histogram positive
+        + ROE 23%
+        + PEG ratio 1.0
+        + Revenue growing +14% YoY
+        + Financial health GOOD
+      Cons:
+        - Negative 6-month momentum: -11%
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $208.13
+      Buy Zone: $197.72 — $208.13  (better entry on pullback)
+      Stop:     $187.03  (-10.3%, 2.5x ATR)
+      Target1:  $271.44  (+30.0%, take half off)
+      Target2:  $313.64  (+50.3%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#5  ALLY    (Score: 0.76 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Credit Services
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 55 — healthy range
+        + MACD histogram positive
+        + PEG ratio 0.5
+        + Revenue growing +20% YoY
+        + Financial health GOOD
+        + Strong RS vs SPY: +8% over 3 months
+      Cons:
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Consolidating in a base — accumulate gradually
+      Current:  $43.27
+      Buy Zone: $41.11 — $43.27  (better entry on pullback)
+      Stop:     $40.45  (-6.7%, 2.5x ATR)
+      Target1:  $51.73  (+19.2%, take half off)
+      Target2:  $57.38  (+32.2%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
