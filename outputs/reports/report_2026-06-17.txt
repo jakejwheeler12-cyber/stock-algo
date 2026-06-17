@@ -1,0 +1,168 @@
+=== STOCK RECOMMENDATIONS [2026-06-17] ===
+Generated: 2026-06-17 16:35:26
+Universe: 5 HIGH-confidence picks
+
+  MARKET REGIME: BULL_VOLATILE
+  Bull trend intact but volatility elevated
+  SPY: 750.49 | 200-SMA: 685.73 | Vol: 16%
+
+  MACRO: NEUTRAL
+  Macro NEUTRAL: VIX 16.9 (calm), yield curve flat, commodities neutral
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLK    Technology ← already covered by your picks
+         Semis, software, hardware
+  #2  XLF    Financials
+         Banks, insurance, payments
+  #3  XLI    Industrials
+         Aerospace, machinery, transports
+
+
+#1  FSLR    (Score: 0.83 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Solar
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 50 — healthy range
+        + ROE 18%
+        + PEG ratio 0.7
+        + Revenue growing +24% YoY
+        + Financial health EXCELLENT
+        + Strong RS vs SPY: +17% over 3 months
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $262.32
+      Buy Zone: $249.21 — $262.32  (better entry on pullback)
+      Stop:     $221.56  (-15.7%, 2.5x ATR)
+      Target1:  $384.60  (+46.2%, take half off)
+      Target2:  $466.11  (+77.3%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  ACGL    (Score: 0.80 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Insurance - Diversified
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 50 — healthy range
+        + MACD histogram positive
+        + ROE 21%
+        + PEG ratio 1.1
+        + Financial health GOOD
+      Cons:
+        - No recent news found
+        - RS vs SPY: -13% — underperforming
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Consolidating in a base — accumulate gradually
+      Current:  $92.17
+      Buy Zone: $87.56 — $92.17  (better entry on pullback)
+      Stop:     $87.94  (-4.8%, 2.5x ATR)
+      Target1:  $104.85  (+13.4%, take half off)
+      Target2:  $113.30  (+22.5%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#3  GMED    (Score: 0.80 | Confidence: HIGH)
+    Sector: Healthcare  |  Industry: Medical Devices
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 38 — healthy range
+        + PEG ratio 1.5
+        + Revenue growing +27% YoY
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - Negative 6-month momentum: -11%
+        - No recent news found
+        - RS vs SPY: -22% — underperforming
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $76.60
+      Buy Zone: $72.77 — $76.60  (better entry on pullback)
+      Stop:     $70.80  (-7.8%, 2.5x ATR)
+      Target1:  $94.00  (+22.3%, take half off)
+      Target2:  $105.61  (+37.5%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#4  HIG     (Score: 0.78 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Insurance - Diversified
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 48 — healthy range
+        + MACD histogram positive
+        + ROE 23%
+        + PEG ratio 0.1
+        + Financial health GOOD
+      Cons:
+        - Negative 6-month momentum: -6%
+        - No recent news found
+        - RS vs SPY: -14% — underperforming
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Consolidating in a base — accumulate gradually
+      Current:  $129.85
+      Buy Zone: $123.36 — $129.85  (better entry on pullback)
+      Stop:     $123.66  (-5.0%, 2.5x ATR)
+      Target1:  $148.42  (+13.9%, take half off)
+      Target2:  $160.80  (+23.4%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#5  WIT     (Score: 0.76 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Information Technology Services
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + MACD histogram positive
+        + ROE 15%
+        + Financial health GOOD
+      Cons:
+        - Negative 6-month momentum: -12%
+        - No recent news found
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Retest of breakout — prior resistance now support
+      Current:  $2.48
+      Buy Zone: $2.36 — $2.48  (better entry on pullback)
+      Stop:     $2.14  (-14.0%, 2.5x ATR)
+      Target1:  $3.52  (+41.0%, take half off)
+      Target2:  $4.20  (+68.7%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+      ⚠ Liquidity: $25.1M/day avg — keep position size moderate
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
