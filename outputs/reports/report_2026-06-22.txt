@@ -1,0 +1,168 @@
+=== STOCK RECOMMENDATIONS [2026-06-22] ===
+Generated: 2026-06-22 17:29:28
+Universe: 5 HIGH-confidence picks
+
+  MARKET REGIME: BULL_VOLATILE
+  Bull trend intact but volatility elevated
+  SPY: 744.78 | 200-SMA: 685.03 | Vol: 16%
+
+  MACRO: NEUTRAL
+  Macro NEUTRAL: VIX 17.3 (calm), yield curve flat, commodities neutral
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLK    Technology ← already covered by your picks
+         Semis, software, hardware
+  #2  XLI    Industrials
+         Aerospace, machinery, transports
+  #3  XLB    Basic Materials
+         Chemicals, metals
+
+
+#1  GMED    (Score: 0.78 | Confidence: HIGH)
+    Sector: Healthcare  |  Industry: Medical Devices
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 47 — healthy range
+        + MACD histogram positive
+        + PEG ratio 1.5
+        + Revenue growing +27% YoY
+        + Financial health GOOD
+      Cons:
+        - Negative 6-month momentum: -7%
+        - No recent news found
+        - RS vs SPY: -20% — underperforming
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $79.39
+      Buy Zone: $75.42 — $79.39  (better entry on pullback)
+      Stop:     $72.70  (-8.6%, 2.5x ATR)
+      Target1:  $99.46  (+24.9%, take half off)
+      Target2:  $112.84  (+41.7%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  ZM      (Score: 0.78 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Software - Application
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + ROE 22%
+        + Financial health EXCELLENT
+      Cons:
+        - MACD histogram negative
+        - Negative 6-month momentum: -6%
+        - No recent news found
+        - RS vs SPY: -6% — underperforming
+
+      Verdict [HOLD]: Risk outweighs reward — avoid or reduce.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $83.34
+      Buy Zone: $79.17 — $83.34  (better entry on pullback)
+      Stop:     $72.30  (-13.4%, 2.5x ATR)
+      Target1:  $116.47  (+39.3%, take half off)
+      Target2:  $138.55  (+65.8%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#3  WIT     (Score: 0.77 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Information Technology Services
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + RSI 53 — healthy range
+        + MACD histogram positive
+        + ROE 15%
+        + Financial health GOOD
+      Cons:
+        - Negative 6-month momentum: -21%
+        - No recent news found
+        - RS vs SPY: -9% — underperforming
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $2.25
+      Buy Zone: $2.14 — $2.25  (better entry on pullback)
+      Stop:     $1.85  (-18.0%, 2.5x ATR)
+      Target1:  $3.45  (+53.0%, take half off)
+      Target2:  $4.25  (+88.6%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+      ⚠ Liquidity: $28.7M/day avg — keep position size moderate
+
+----------------------------------------------------------------
+
+#4  PDD     (Score: 0.76 | Confidence: HIGH)
+    Sector: Consumer Cyclical  |  Industry: Internet Retail
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + ROE 25%
+        + Revenue growing +11% YoY
+        + Financial health EXCELLENT
+      Cons:
+        - MACD histogram negative
+        - Negative 6-month momentum: -25%
+        - No recent news found
+        - RS vs SPY: -29% — underperforming
+
+      Verdict [HOLD]: Risk outweighs reward — avoid or reduce.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $78.67
+      Buy Zone: $74.73 — $78.67  (better entry on pullback)
+      Stop:     $72.37  (-8.2%, 2.5x ATR)
+      Target1:  $97.54  (+23.6%, take half off)
+      Target2:  $110.13  (+39.6%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#5  UI      (Score: 0.75 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Communication Equipment
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Positive momentum: +8% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 39 — healthy range
+        + MACD histogram positive
+        + ROE 115%
+        + PEG ratio 1.1
+        + Revenue growing +19% YoY
+        + Financial health EXCELLENT
+      Cons:
+        - No recent news found
+        - RS vs SPY: -34% — underperforming
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $582.06
+      Buy Zone: $552.96 — $582.06  (better entry on pullback)
+      Stop:     $513.94  (-11.9%, 2.5x ATR)
+      Target1:  $786.43  (+34.7%, take half off)
+      Target2:  $922.67  (+58.1%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
