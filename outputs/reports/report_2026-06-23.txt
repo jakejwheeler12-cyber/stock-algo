@@ -1,0 +1,168 @@
+=== STOCK RECOMMENDATIONS [2026-06-23] ===
+Generated: 2026-06-23 15:46:42
+Universe: 5 HIGH-confidence picks
+
+  MARKET REGIME: BULL_VOLATILE
+  Bull trend intact but volatility elevated
+  SPY: 734.99 | 200-SMA: 685.49 | Vol: 17%
+
+  MACRO: NEUTRAL
+  Macro NEUTRAL: VIX 19.8 (elevated), yield curve flat, commodities neutral
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLK    Technology ← already covered by your picks
+         Semis, software, hardware
+  #2  XLRE   Real Estate
+         REITs
+  #3  XLI    Industrials
+         Aerospace, machinery, transports
+
+
+#1  ITUB    (Score: 0.83 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Banks - Regional
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Strong momentum: +17% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 52 — healthy range
+        + MACD histogram positive
+        + ROE 22%
+        + PEG ratio 1.4
+        + Financial health GOOD
+      Cons:
+        - No recent news found
+        - RS vs SPY: -13% — underperforming
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $7.91
+      Buy Zone: $7.51 — $7.91  (better entry on pullback)
+      Stop:     $7.40  (-6.6%, 2.5x ATR)
+      Target1:  $9.44  (+18.9%, take half off)
+      Target2:  $10.45  (+31.8%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  NVDA    (Score: 0.81 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Semiconductors
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Strong momentum: +16% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 43 — healthy range
+        + ROE 114%
+        + PEG ratio 0.7
+        + Revenue growing +85% YoY
+        + Financial health EXCELLENT
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $201.31
+      Buy Zone: $191.24 — $201.31  (better entry on pullback)
+      Stop:     $182.87  (-9.4%, 2.5x ATR)
+      Target1:  $256.63  (+27.1%, take half off)
+      Target2:  $293.52  (+45.4%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#3  ACGL    (Score: 0.80 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Insurance - Diversified
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 54 — healthy range
+        + MACD histogram positive
+        + ROE 21%
+        + PEG ratio 1.1
+        + Financial health GOOD
+      Cons:
+        - No recent news found
+        - RS vs SPY: -12% — underperforming
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Consolidating in a base — accumulate gradually
+      Current:  $93.18
+      Buy Zone: $88.52 — $93.18  (better entry on pullback)
+      Stop:     $89.01  (-4.7%, 2.5x ATR)
+      Target1:  $105.67  (+13.0%, take half off)
+      Target2:  $114.01  (+22.0%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#4  QCOM    (Score: 0.79 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Semiconductors
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Strong momentum: +17% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 46 — healthy range
+        + ROE 36%
+        + PEG ratio 1.0
+        + Financial health GOOD
+        + Strong RS vs SPY: +40% over 3 months
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $201.38
+      Buy Zone: $191.31 — $201.38  (better entry on pullback)
+      Stop:     $157.96  (-21.8%, 2.5x ATR)
+      Target1:  $331.65  (+64.3%, take half off)
+      Target2:  $418.50  (+107.4%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#5  LOGI    (Score: 0.77 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Computer Hardware
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 42 — healthy range
+        + ROE 33%
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $104.41
+      Buy Zone: $99.19 — $104.41  (better entry on pullback)
+      Stop:     $96.20  (-8.1%, 2.5x ATR)
+      Target1:  $129.05  (+23.2%, take half off)
+      Target2:  $145.48  (+38.9%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
