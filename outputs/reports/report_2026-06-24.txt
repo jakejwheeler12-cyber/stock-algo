@@ -1,0 +1,83 @@
+=== STOCK RECOMMENDATIONS [2026-06-24] ===
+Generated: 2026-06-24 15:32:17
+Universe: 2 HIGH-confidence picks
+
+  MARKET REGIME: BULL_VOLATILE
+  Bull trend intact but volatility elevated
+  SPY: 739.03 | 200-SMA: 685.98 | Vol: 17%
+
+  MACRO: NEUTRAL
+  Macro NEUTRAL: VIX 18.4 (elevated), yield curve flat, commodities neutral
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLK    Technology ← already covered by your picks
+         Semis, software, hardware
+  #2  XLRE   Real Estate
+         REITs
+  #3  XLI    Industrials
+         Aerospace, machinery, transports
+
+
+#1  AVGO    (Score: 0.77 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Semiconductors
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Strong momentum: +14% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 45 — healthy range
+        + ROE 37%
+        + PEG ratio 0.7
+        + Revenue growing +48% YoY
+        + Financial health EXCELLENT
+        + Strong RS vs SPY: +7% over 3 months
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $385.15
+      Buy Zone: $365.89 — $385.15  (better entry on pullback)
+      Stop:     $336.55  (-12.8%, 2.5x ATR)
+      Target1:  $530.94  (+37.5%, take half off)
+      Target2:  $628.14  (+62.7%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  LOGI    (Score: 0.76 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Computer Hardware
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 40 — healthy range
+        + ROE 33%
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $103.42
+      Buy Zone: $98.24 — $103.42  (better entry on pullback)
+      Stop:     $95.86  (-7.5%, 2.5x ATR)
+      Target1:  $126.08  (+21.5%, take half off)
+      Target2:  $141.18  (+36.1%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
