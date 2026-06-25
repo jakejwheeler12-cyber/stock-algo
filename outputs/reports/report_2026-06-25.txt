@@ -1,0 +1,166 @@
+=== STOCK RECOMMENDATIONS [2026-06-25] ===
+Generated: 2026-06-25 15:40:40
+Universe: 5 HIGH-confidence picks
+
+  MARKET REGIME: BULL_VOLATILE
+  Bull trend intact but volatility elevated
+  SPY: 734.73 | 200-SMA: 686.41 | Vol: 17%
+
+  MACRO: NEUTRAL
+  Macro NEUTRAL: VIX 19.3 (elevated), yield curve flat, commodities neutral
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLK    Technology ← already covered by your picks
+         Semis, software, hardware
+  #2  XLI    Industrials ← already covered by your picks
+         Aerospace, machinery, transports
+  #3  XLRE   Real Estate
+         REITs
+
+
+#1  ITUB    (Score: 0.80 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Banks - Regional
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Strong momentum: +20% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 57 — healthy range
+        + MACD histogram positive
+        + ROE 22%
+        + PEG ratio 1.4
+        + Financial health GOOD
+      Cons:
+        - No recent news found
+        - RS vs SPY: -11% — underperforming
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $8.09
+      Buy Zone: $7.69 — $8.09  (better entry on pullback)
+      Stop:     $7.58  (-6.5%, 2.5x ATR)
+      Target1:  $9.61  (+18.4%, take half off)
+      Target2:  $10.62  (+30.9%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  ZM      (Score: 0.79 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Software - Application
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + ROE 22%
+        + Financial health EXCELLENT
+      Cons:
+        - MACD histogram negative
+        - Negative 6-month momentum: -8%
+        - No recent news found
+        - RS vs SPY: -5% — underperforming
+
+      Verdict [HOLD]: Risk outweighs reward — avoid or reduce.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $83.15
+      Buy Zone: $79.00 — $83.15  (better entry on pullback)
+      Stop:     $73.76  (-11.5%, 2.5x ATR)
+      Target1:  $111.35  (+33.5%, take half off)
+      Target2:  $130.14  (+56.1%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#3  SF      (Score: 0.77 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Capital Markets
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + RSI 50 — healthy range
+        + MACD histogram positive
+        + ROE 15%
+        + PEG ratio 1.0
+        + Revenue growing +14% YoY
+        + Financial health GOOD
+      Cons:
+        - Negative 6-month momentum: -14%
+        - No recent news found
+        - RS vs SPY: -10% — underperforming
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Consolidating in a base — accumulate gradually
+      Current:  $72.80
+      Buy Zone: $69.16 — $72.80  (better entry on pullback)
+      Stop:     $68.65  (-5.9%, 2.5x ATR)
+      Target1:  $85.24  (+16.7%, take half off)
+      Target2:  $93.53  (+28.1%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#4  NVO     (Score: 0.76 | Confidence: HIGH)
+    Sector: Healthcare  |  Industry: Drug Manufacturers - General
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + MACD histogram positive
+        + ROE 71%
+        + Revenue growing +24% YoY
+        + Financial health GOOD
+        + Strong RS vs SPY: +22% over 3 months
+      Cons:
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Strong breakout — buy on a pullback, not at the top
+      Current:  $47.76
+      Buy Zone: $45.38 — $47.76  (better entry on pullback)
+      Stop:     $44.29  (-7.5%, 2.5x ATR)
+      Target1:  $58.19  (+21.4%, take half off)
+      Target2:  $65.14  (+36.0%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#5  ZTO     (Score: 0.76 | Confidence: HIGH)
+    Sector: Industrials  |  Industry: Integrated Freight & Logistics
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + MACD histogram positive
+        + PEG ratio 1.2
+        + Revenue growing +22% YoY
+        + Financial health GOOD
+      Cons:
+        - No recent news found
+        - RS vs SPY: -19% — underperforming
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $21.67
+      Buy Zone: $20.58 — $21.67  (better entry on pullback)
+      Stop:     $20.47  (-5.7%, 2.5x ATR)
+      Target1:  $25.24  (+16.1%, take half off)
+      Target2:  $27.63  (+27.1%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+      ⚠ Liquidity: $31.5M/day avg — keep position size moderate
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
