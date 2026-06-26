@@ -1,0 +1,166 @@
+=== STOCK RECOMMENDATIONS [2026-06-26] ===
+Generated: 2026-06-26 15:23:10
+Universe: 5 HIGH-confidence picks
+
+  MARKET REGIME: BULL_VOLATILE
+  Bull trend intact but volatility elevated
+  SPY: 733.07 | 200-SMA: 686.86 | Vol: 17%
+
+  MACRO: NEUTRAL
+  Macro NEUTRAL: VIX 19.2 (elevated), yield curve flat, commodities neutral
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLK    Technology ← already covered by your picks
+         Semis, software, hardware
+  #2  XLI    Industrials ← already covered by your picks
+         Aerospace, machinery, transports
+  #3  XLRE   Real Estate
+         REITs
+
+
+#1  NTES    (Score: 0.78 | Confidence: HIGH)
+    Sector: Communication Services  |  Industry: Electronic Gaming & Multimedia
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + RSI 54 — healthy range
+        + ROE 22%
+        + PEG ratio 1.2
+        + Financial health EXCELLENT
+      Cons:
+        - MACD histogram negative
+        - Negative 6-month momentum: -10%
+        - No recent news found
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $122.35
+      Buy Zone: $116.23 — $122.35  (better entry on pullback)
+      Stop:     $113.33  (-7.6%, 2.5x ATR)
+      Target1:  $149.40  (+21.7%, take half off)
+      Target2:  $167.43  (+36.4%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  EME     (Score: 0.78 | Confidence: HIGH)
+    Sector: Industrials  |  Industry: Engineering & Construction
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Strong momentum: +32% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 46 — healthy range
+        + MACD histogram positive
+        + ROE 39%
+        + PEG ratio 0.5
+        + Revenue growing +20% YoY
+        + Financial health GOOD
+      Cons:
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $825.53
+      Buy Zone: $784.26 — $825.53  (better entry on pullback)
+      Stop:     $743.47  (-10.1%, 2.5x ATR)
+      Target1:  $1071.73  (+29.4%, take half off)
+      Target2:  $1235.87  (+49.3%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#3  WIT     (Score: 0.78 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Information Technology Services
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + RSI 53 — healthy range
+        + ROE 15%
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - Negative 6-month momentum: -24%
+        - No recent news found
+        - RS vs SPY: -5% — underperforming
+
+      Verdict [HOLD]: Risk outweighs reward — avoid or reduce.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $2.26
+      Buy Zone: $2.14 — $2.26  (better entry on pullback)
+      Stop:     $1.91  (-15.6%, 2.5x ATR)
+      Target1:  $3.30  (+45.9%, take half off)
+      Target2:  $3.99  (+76.7%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+      ⚠ Liquidity: $30.1M/day avg — keep position size moderate
+
+----------------------------------------------------------------
+
+#4  ALGN    (Score: 0.75 | Confidence: HIGH)
+    Sector: Healthcare  |  Industry: Medical Instruments & Supplies
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Strong momentum: +13% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 54 — healthy range
+        + MACD histogram positive
+        + PEG ratio 0.9
+        + Financial health GOOD
+      Cons:
+        - No recent news found
+        - RS vs SPY: -13% — underperforming
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $176.54
+      Buy Zone: $167.71 — $176.54  (better entry on pullback)
+      Stop:     $159.39  (-9.9%, 2.5x ATR)
+      Target1:  $227.96  (+28.7%, take half off)
+      Target2:  $262.24  (+48.1%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#5  DECK    (Score: 0.75 | Confidence: HIGH)
+    Sector: Consumer Cyclical  |  Industry: Footwear & Accessories
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 46 — healthy range
+        + ROE 41%
+        + Revenue growing +10% YoY
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $104.85
+      Buy Zone: $99.61 — $104.85  (better entry on pullback)
+      Stop:     $94.79  (-9.8%, 2.5x ATR)
+      Target1:  $135.03  (+28.4%, take half off)
+      Target2:  $155.15  (+47.6%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
