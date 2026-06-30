@@ -1,0 +1,167 @@
+=== STOCK RECOMMENDATIONS [2026-06-30] ===
+Generated: 2026-06-30 15:27:10
+Universe: 5 HIGH-confidence picks
+
+  MARKET REGIME: BULL_VOLATILE
+  Bull trend intact but volatility elevated
+  SPY: 744.94 | 200-SMA: 687.79 | Vol: 18%
+
+  MACRO: NEUTRAL
+  Macro NEUTRAL: VIX 17.0 (calm), yield curve flat, commodities neutral
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLK    Technology ← already covered by your picks
+         Semis, software, hardware
+  #2  XLI    Industrials
+         Aerospace, machinery, transports
+  #3  XLF    Financials
+         Banks, insurance, payments
+
+
+#1  NVDA    (Score: 0.81 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Semiconductors
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 43 — healthy range
+        + ROE 114%
+        + PEG ratio 0.6
+        + Revenue growing +85% YoY
+        + Financial health EXCELLENT
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $197.82
+      Buy Zone: $187.93 — $197.82  (better entry on pullback)
+      Stop:     $181.62  (-8.4%, 2.5x ATR)
+      Target1:  $246.42  (+24.2%, take half off)
+      Target2:  $278.82  (+40.5%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  ITUB    (Score: 0.81 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Banks - Regional
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Strong momentum: +17% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 56 — healthy range
+        + MACD histogram positive
+        + ROE 22%
+        + PEG ratio 1.4
+        + Financial health GOOD
+      Cons:
+        - No recent news found
+        - RS vs SPY: -12% — underperforming
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $8.10
+      Buy Zone: $7.70 — $8.10  (better entry on pullback)
+      Stop:     $7.61  (-6.3%, 2.5x ATR)
+      Target1:  $9.58  (+17.8%, take half off)
+      Target2:  $10.57  (+30.0%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#3  NTES    (Score: 0.79 | Confidence: HIGH)
+    Sector: Communication Services  |  Industry: Electronic Gaming & Multimedia
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + MACD histogram positive
+        + ROE 22%
+        + PEG ratio 1.3
+        + Financial health EXCELLENT
+      Cons:
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $129.38
+      Buy Zone: $122.91 — $129.38  (better entry on pullback)
+      Stop:     $119.69  (-7.7%, 2.5x ATR)
+      Target1:  $158.46  (+22.1%, take half off)
+      Target2:  $177.84  (+37.1%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#4  KB      (Score: 0.78 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Banks - Regional
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Strong momentum: +19% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 49 — healthy range
+        + PEG ratio 0.7
+        + Revenue growing +15% YoY
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+        - RS vs SPY: -10% — underperforming
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $103.83
+      Buy Zone: $98.64 — $103.83  (better entry on pullback)
+      Stop:     $94.78  (-8.9%, 2.5x ATR)
+      Target1:  $130.99  (+25.8%, take half off)
+      Target2:  $149.09  (+43.2%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+      ⚠ Liquidity: $34.2M/day avg — keep position size moderate
+
+----------------------------------------------------------------
+
+#5  TSN     (Score: 0.77 | Confidence: HIGH)
+    Sector: Consumer Defensive  |  Industry: Farm Products
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 41 — healthy range
+        + MACD histogram positive
+        + PEG ratio 1.0
+        + Financial health GOOD
+      Cons:
+        - No recent news found
+        - No insider transactions in 90 days
+        - RS vs SPY: -24% — underperforming
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $57.08
+      Buy Zone: $54.23 — $57.08  (better entry on pullback)
+      Stop:     $53.72  (-6.1%, 2.5x ATR)
+      Target1:  $67.18  (+17.3%, take half off)
+      Target2:  $73.91  (+29.1%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
