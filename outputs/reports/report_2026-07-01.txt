@@ -1,0 +1,84 @@
+=== STOCK RECOMMENDATIONS [2026-07-01] ===
+Generated: 2026-07-01 15:37:35
+Universe: 2 HIGH-confidence picks
+
+  MARKET REGIME: BULL_VOLATILE
+  Bull trend intact but volatility elevated
+  SPY: 748.82 | 200-SMA: 688.30 | Vol: 18%
+
+  MACRO: NEUTRAL
+  Macro NEUTRAL: VIX 16.2 (calm), yield curve flat, commodities neutral
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLK    Technology ← already covered by your picks
+         Semis, software, hardware
+  #2  XLI    Industrials
+         Aerospace, machinery, transports
+  #3  XLF    Financials
+         Banks, insurance, payments
+
+
+#1  NVDA    (Score: 0.81 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Semiconductors
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 43 — healthy range
+        + ROE 114%
+        + PEG ratio 0.6
+        + Revenue growing +85% YoY
+        + Financial health EXCELLENT
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $197.06
+      Buy Zone: $187.21 — $197.06  (better entry on pullback)
+      Stop:     $180.35  (-8.7%, 2.5x ATR)
+      Target1:  $247.18  (+25.0%, take half off)
+      Target2:  $280.59  (+42.0%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  SMCI    (Score: 0.75 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Computer Hardware
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + RSI 41 — healthy range
+        + ROE 18%
+        + PEG ratio 0.9
+        + Revenue growing +123% YoY
+        + Financial health GOOD
+        + Strong RS vs SPY: +7% over 3 months
+      Cons:
+        - MACD histogram negative
+        - Negative 6-month momentum: -6%
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $28.13
+      Buy Zone: $26.72 — $28.13  (better entry on pullback)
+      Stop:     $21.02  (-25.5%, 2.5x ATR)
+      Target1:  $49.45  (+75.4%, take half off)
+      Target2:  $63.66  (+125.9%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
