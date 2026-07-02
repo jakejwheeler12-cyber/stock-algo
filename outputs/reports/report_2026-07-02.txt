@@ -1,0 +1,114 @@
+=== STOCK RECOMMENDATIONS [2026-07-02] ===
+Generated: 2026-07-02 15:09:20
+Universe: 3 HIGH-confidence picks
+
+  MARKET REGIME: BULL_VOLATILE
+  Bull trend intact but volatility elevated
+  SPY: 746.18 | 200-SMA: 688.74 | Vol: 18%
+
+  MACRO: NEUTRAL
+  Macro NEUTRAL: VIX 16.3 (calm), yield curve flat, commodities neutral
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLK    Technology ← already covered by your picks
+         Semis, software, hardware
+  #2  XLF    Financials
+         Banks, insurance, payments
+  #3  XLI    Industrials
+         Aerospace, machinery, transports
+
+
+#1  META    (Score: 0.80 | Confidence: HIGH)
+    Sector: Communication Services  |  Industry: Internet Content & Information
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + RSI 51 — healthy range
+        + MACD histogram positive
+        + ROE 33%
+        + PEG ratio 0.8
+        + Revenue growing +33% YoY
+        + Financial health GOOD
+      Cons:
+        - Negative 6-month momentum: -12%
+        - No recent news found
+        - RS vs SPY: -11% — underperforming
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $588.22
+      Buy Zone: $558.81 — $588.22  (better entry on pullback)
+      Stop:     $527.23  (-10.6%, 2.5x ATR)
+      Target1:  $771.19  (+30.7%, take half off)
+      Target2:  $893.17  (+51.4%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  MU      (Score: 0.79 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Semiconductors
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Strong momentum: +237% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 49 — healthy range
+        + ROE 67%
+        + PEG ratio 0.1
+        + Revenue growing +346% YoY
+        + Financial health EXCELLENT
+        + Strong RS vs SPY: +135% over 3 months
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $984.80
+      Buy Zone: $935.56 — $984.80  (better entry on pullback)
+      Stop:     $728.23  (-26.3%, 2.5x ATR)
+      Target1:  $1754.51  (+77.8%, take half off)
+      Target2:  $2267.65  (+129.9%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#3  AVGO    (Score: 0.78 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Semiconductors
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 41 — healthy range
+        + ROE 37%
+        + PEG ratio 0.7
+        + Revenue growing +48% YoY
+        + Financial health EXCELLENT
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $365.38
+      Buy Zone: $347.11 — $365.38  (better entry on pullback)
+      Stop:     $327.24  (-10.6%, 2.5x ATR)
+      Target1:  $479.81  (+30.9%, take half off)
+      Target2:  $556.10  (+51.8%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
