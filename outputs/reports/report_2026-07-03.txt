@@ -1,0 +1,168 @@
+=== STOCK RECOMMENDATIONS [2026-07-03] ===
+Generated: 2026-07-03 15:05:04
+Universe: 5 HIGH-confidence picks
+
+  MARKET REGIME: BULL_VOLATILE
+  Bull trend intact but volatility elevated
+  SPY: 744.78 | 200-SMA: 688.74 | Vol: 18%
+
+  MACRO: NEUTRAL
+  Macro NEUTRAL: VIX 15.8 (calm), yield curve flat, commodities neutral
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLK    Technology ← already covered by your picks
+         Semis, software, hardware
+  #2  XLF    Financials
+         Banks, insurance, payments
+  #3  XLI    Industrials
+         Aerospace, machinery, transports
+
+
+#1  QCOM    (Score: 0.83 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Semiconductors
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 38 — healthy range
+        + ROE 36%
+        + PEG ratio 0.6
+        + Financial health GOOD
+        + Strong RS vs SPY: +22% over 3 months
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $176.25
+      Buy Zone: $167.44 — $176.25  (better entry on pullback)
+      Stop:     $138.43  (-21.7%, 2.5x ATR)
+      Target1:  $289.71  (+64.0%, take half off)
+      Target2:  $365.34  (+106.9%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  NVDA    (Score: 0.82 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Semiconductors
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 41 — healthy range
+        + ROE 114%
+        + PEG ratio 0.6
+        + Revenue growing +85% YoY
+        + Financial health EXCELLENT
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $194.83
+      Buy Zone: $185.09 — $194.83  (better entry on pullback)
+      Stop:     $177.78  (-9.0%, 2.5x ATR)
+      Target1:  $245.98  (+25.9%, take half off)
+      Target2:  $280.08  (+43.4%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#3  FSLR    (Score: 0.82 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Solar
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 36 — healthy range
+        + ROE 18%
+        + PEG ratio 0.6
+        + Revenue growing +24% YoY
+        + Financial health EXCELLENT
+      Cons:
+        - MACD histogram negative
+        - Negative 6-month momentum: -15%
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $224.57
+      Buy Zone: $213.34 — $224.57  (better entry on pullback)
+      Stop:     $189.32  (-15.9%, 2.5x ATR)
+      Target1:  $330.31  (+46.7%, take half off)
+      Target2:  $400.80  (+78.1%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#4  GMED    (Score: 0.79 | Confidence: HIGH)
+    Sector: Healthcare  |  Industry: Medical Devices
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 48 — healthy range
+        + MACD histogram positive
+        + PEG ratio 1.5
+        + Revenue growing +27% YoY
+        + Financial health GOOD
+      Cons:
+        - Negative 6-month momentum: -9%
+        - No recent news found
+        - RS vs SPY: -20% — underperforming
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $80.12
+      Buy Zone: $76.11 — $80.12  (better entry on pullback)
+      Stop:     $70.92  (-11.7%, 2.5x ATR)
+      Target1:  $107.71  (+34.0%, take half off)
+      Target2:  $126.10  (+57.0%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#5  NTES    (Score: 0.78 | Confidence: HIGH)
+    Sector: Communication Services  |  Industry: Electronic Gaming & Multimedia
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + RSI 58 — healthy range
+        + MACD histogram positive
+        + ROE 22%
+        + PEG ratio 1.4
+        + Financial health EXCELLENT
+      Cons:
+        - Negative 6-month momentum: -8%
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $127.24
+      Buy Zone: $120.88 — $127.24  (better entry on pullback)
+      Stop:     $118.10  (-7.4%, 2.5x ATR)
+      Target1:  $154.66  (+21.1%, take half off)
+      Target2:  $172.93  (+35.5%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
