@@ -1,0 +1,165 @@
+=== STOCK RECOMMENDATIONS [2026-07-07] ===
+Generated: 2026-07-07 15:43:04
+Universe: 5 HIGH-confidence picks
+
+  MARKET REGIME: BULL_VOLATILE
+  Bull trend intact but volatility elevated
+  SPY: 745.75 | 200-SMA: 689.70 | Vol: 16%
+
+  MACRO: NEUTRAL
+  Macro NEUTRAL: VIX 16.4 (calm), yield curve flat, commodities neutral
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLK    Technology ← already covered by your picks
+         Semis, software, hardware
+  #2  XLF    Financials
+         Banks, insurance, payments
+  #3  XLV    Healthcare
+         Pharma, biotech, devices
+
+
+#1  AVGO    (Score: 0.79 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Semiconductors
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Positive momentum: +5% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 42 — healthy range
+        + ROE 37%
+        + PEG ratio 0.4
+        + Revenue growing +48% YoY
+        + Financial health EXCELLENT
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $364.23
+      Buy Zone: $346.02 — $364.23  (better entry on pullback)
+      Stop:     $323.14  (-11.5%, 2.5x ATR)
+      Target1:  $487.52  (+33.4%, take half off)
+      Target2:  $569.71  (+56.0%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  NTES    (Score: 0.79 | Confidence: HIGH)
+    Sector: Communication Services  |  Industry: Electronic Gaming & Multimedia
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + MACD histogram positive
+        + ROE 22%
+        + PEG ratio 1.4
+        + Financial health EXCELLENT
+      Cons:
+        - Negative 6-month momentum: -10%
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Retest of breakout — prior resistance now support
+      Current:  $131.10
+      Buy Zone: $124.55 — $131.10  (better entry on pullback)
+      Stop:     $122.56  (-6.7%, 2.5x ATR)
+      Target1:  $156.71  (+19.1%, take half off)
+      Target2:  $173.79  (+32.2%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#3  MLI     (Score: 0.77 | Confidence: HIGH)
+    Sector: Industrials  |  Industry: Metal Fabrication
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + ROE 28%
+        + Revenue growing +19% YoY
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - Negative 6-month momentum: -5%
+        - No recent news found
+        - RS vs SPY: -14% — underperforming
+
+      Verdict [HOLD]: Mixed signals — monitor closely.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $55.06
+      Buy Zone: $52.30 — $55.06  (better entry on pullback)
+      Stop:     $48.46  (-12.2%, 2.5x ATR)
+      Target1:  $74.85  (+35.6%, take half off)
+      Target2:  $88.05  (+59.5%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#4  LOGI    (Score: 0.76 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Computer Hardware
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 37 — healthy range
+        + ROE 33%
+        + PEG ratio 1.3
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+        - RS vs SPY: -8% — underperforming
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $96.28
+      Buy Zone: $91.47 — $96.28  (better entry on pullback)
+      Stop:     $87.73  (-9.1%, 2.5x ATR)
+      Target1:  $121.94  (+26.3%, take half off)
+      Target2:  $139.05  (+44.0%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#5  CBOE    (Score: 0.76 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Financial Data & Stock Exchanges
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 42 — healthy range
+        + MACD histogram positive
+        + ROE 25%
+        + Financial health EXCELLENT
+      Cons:
+        - No recent news found
+        - RS vs SPY: -23% — underperforming
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $256.77
+      Buy Zone: $243.93 — $256.77  (better entry on pullback)
+      Stop:     $225.72  (-12.3%, 2.5x ATR)
+      Target1:  $349.89  (+35.9%, take half off)
+      Target2:  $411.97  (+60.0%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
