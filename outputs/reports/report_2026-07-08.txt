@@ -1,0 +1,143 @@
+=== STOCK RECOMMENDATIONS [2026-07-08] ===
+Generated: 2026-07-08 15:12:42
+Universe: 4 HIGH-confidence picks
+
+  MARKET REGIME: BULL_VOLATILE
+  Bull trend intact but volatility elevated
+  SPY: 741.52 | 200-SMA: 690.14 | Vol: 16%
+
+  MACRO: NEUTRAL
+  Macro NEUTRAL: VIX 18.1 (elevated), yield curve flat, commodities neutral
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLK    Technology ← already covered by your picks
+         Semis, software, hardware
+  #2  XLV    Healthcare
+         Pharma, biotech, devices
+  #3  XLF    Financials
+         Banks, insurance, payments
+
+
+#1  AVGO    (Score: 0.83 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Semiconductors
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Strong momentum: +14% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 51 — healthy range
+        + MACD histogram positive
+        + ROE 37%
+        + PEG ratio 0.4
+        + Revenue growing +48% YoY
+        + Financial health EXCELLENT
+      Cons:
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $389.89
+      Buy Zone: $370.40 — $389.89  (better entry on pullback)
+      Stop:     $347.75  (-11.0%, 2.5x ATR)
+      Target1:  $516.30  (+32.0%, take half off)
+      Target2:  $600.57  (+53.6%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  AMKR    (Score: 0.79 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Semiconductor Equipment & Materials
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Strong momentum: +35% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 38 — healthy range
+        + PEG ratio 0.8
+        + Revenue growing +28% YoY
+        + Financial health GOOD
+        + Strong RS vs SPY: +21% over 3 months
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $65.06
+      Buy Zone: $61.81 — $65.06  (better entry on pullback)
+      Stop:     $48.26  (-26.0%, 2.5x ATR)
+      Target1:  $115.45  (+77.1%, take half off)
+      Target2:  $149.05  (+128.7%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#3  MU      (Score: 0.78 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Semiconductors
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Strong momentum: +200% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 46 — healthy range
+        + ROE 67%
+        + PEG ratio 0.1
+        + Revenue growing +346% YoY
+        + Financial health EXCELLENT
+        + Strong RS vs SPY: +120% over 3 months
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $937.23
+      Buy Zone: $890.37 — $937.23  (better entry on pullback)
+      Stop:     $706.21  (-24.8%, 2.5x ATR)
+      Target1:  $1630.31  (+73.5%, take half off)
+      Target2:  $2092.36  (+122.8%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#4  CBOE    (Score: 0.77 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Financial Data & Stock Exchanges
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Positive momentum: +7% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 49 — healthy range
+        + MACD histogram positive
+        + ROE 25%
+        + Financial health EXCELLENT
+      Cons:
+        - No recent news found
+        - RS vs SPY: -19% — underperforming
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $268.61
+      Buy Zone: $255.18 — $268.61  (better entry on pullback)
+      Stop:     $235.85  (-12.4%, 2.5x ATR)
+      Target1:  $366.92  (+36.2%, take half off)
+      Target2:  $432.46  (+60.6%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
