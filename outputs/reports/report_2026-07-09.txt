@@ -1,0 +1,109 @@
+=== STOCK RECOMMENDATIONS [2026-07-09] ===
+Generated: 2026-07-09 15:56:21
+Universe: 3 HIGH-confidence picks
+
+  MARKET REGIME: BULL_VOLATILE
+  Bull trend intact but volatility elevated
+  SPY: 749.99 | 200-SMA: 690.62 | Vol: 16%
+
+  MACRO: NEUTRAL
+  Macro NEUTRAL: VIX 16.2 (calm), yield curve flat, commodities neutral
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLK    Technology
+         Semis, software, hardware
+  #2  XLF    Financials
+         Banks, insurance, payments
+  #3  XLV    Healthcare ← already covered by your picks
+         Pharma, biotech, devices
+
+
+#1  ITUB    (Score: 0.80 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Banks - Regional
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Strong momentum: +13% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 60 — healthy range
+        + MACD histogram positive
+        + ROE 22%
+        + PEG ratio 1.4
+        + Financial health GOOD
+      Cons:
+        - No recent news found
+        - RS vs SPY: -15% — underperforming
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Retest of breakout — prior resistance now support
+      Current:  $8.27
+      Buy Zone: $7.86 — $8.27  (better entry on pullback)
+      Stop:     $7.79  (-6.0%, 2.5x ATR)
+      Target1:  $9.72  (+17.0%, take half off)
+      Target2:  $10.68  (+28.6%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  NTES    (Score: 0.77 | Confidence: HIGH)
+    Sector: Communication Services  |  Industry: Electronic Gaming & Multimedia
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + MACD histogram positive
+        + ROE 22%
+        + PEG ratio 1.4
+        + Financial health EXCELLENT
+        + Strong RS vs SPY: +5% over 3 months
+      Cons:
+        - Negative 6-month momentum: -8%
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Retest of breakout — prior resistance now support
+      Current:  $133.69
+      Buy Zone: $127.01 — $133.69  (better entry on pullback)
+      Stop:     $124.71  (-6.9%, 2.5x ATR)
+      Target1:  $160.64  (+19.8%, take half off)
+      Target2:  $178.61  (+33.2%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#3  VRTX    (Score: 0.76 | Confidence: HIGH)
+    Sector: Healthcare  |  Industry: Biotechnology
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 54 — healthy range
+        + MACD histogram positive
+        + ROE 24%
+        + Financial health EXCELLENT
+      Cons:
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Retest of breakout — prior resistance now support
+      Current:  $487.10
+      Buy Zone: $462.74 — $487.10  (better entry on pullback)
+      Stop:     $442.65  (-9.3%, 2.5x ATR)
+      Target1:  $620.42  (+27.0%, take half off)
+      Target2:  $709.31  (+45.2%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
