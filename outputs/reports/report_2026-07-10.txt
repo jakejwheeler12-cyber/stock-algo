@@ -1,0 +1,114 @@
+=== STOCK RECOMMENDATIONS [2026-07-10] ===
+Generated: 2026-07-10 15:30:06
+Universe: 3 HIGH-confidence picks
+
+  MARKET REGIME: BULL_QUIET
+  Bull market, low volatility — standard strategy
+  SPY: 753.27 | 200-SMA: 691.09 | Vol: 15%
+
+  MACRO: NEUTRAL
+  Macro NEUTRAL: VIX 15.7 (calm), yield curve flat, commodities neutral
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLK    Technology ← already covered by your picks
+         Semis, software, hardware
+  #2  XLF    Financials
+         Banks, insurance, payments
+  #3  XLV    Healthcare
+         Pharma, biotech, devices
+
+
+#1  AVGO    (Score: 0.80 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Semiconductors
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Strong momentum: +17% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 54 — healthy range
+        + MACD histogram positive
+        + ROE 37%
+        + PEG ratio 0.4
+        + Revenue growing +48% YoY
+        + Financial health EXCELLENT
+      Cons:
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $400.52
+      Buy Zone: $380.50 — $400.52  (better entry on pullback)
+      Stop:     $359.78  (-10.4%, 2.5x ATR)
+      Target1:  $522.76  (+30.1%, take half off)
+      Target2:  $604.25  (+50.5%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  ZM      (Score: 0.80 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Software - Application
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 49 — healthy range
+        + MACD histogram positive
+        + ROE 22%
+        + Financial health EXCELLENT
+      Cons:
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $90.09
+      Buy Zone: $85.59 — $90.09  (better entry on pullback)
+      Stop:     $81.87  (-9.3%, 2.5x ATR)
+      Target1:  $114.76  (+27.0%, take half off)
+      Target2:  $131.21  (+45.2%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#3  SANM    (Score: 0.76 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Electronic Components
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Strong momentum: +37% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 38 — healthy range
+        + PEG ratio 0.8
+        + Revenue growing +102% YoY
+        + Financial health GOOD
+        + Strong RS vs SPY: +33% over 3 months
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $210.11
+      Buy Zone: $199.60 — $210.11  (better entry on pullback)
+      Stop:     $174.68  (-17.1%, 2.5x ATR)
+      Target1:  $316.40  (+50.2%, take half off)
+      Target2:  $387.26  (+83.9%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
