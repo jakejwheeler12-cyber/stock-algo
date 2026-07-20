@@ -1,0 +1,172 @@
+=== STOCK RECOMMENDATIONS [2026-07-20] ===
+Generated: 2026-07-20 15:07:59
+Universe: 5 HIGH-confidence picks
+
+  MARKET REGIME: BULL_QUIET
+  Bull market, low volatility — standard strategy
+  SPY: 744.17 | 200-SMA: 693.86 | Vol: 12%
+
+  MACRO: NEUTRAL
+  Macro NEUTRAL: VIX 18.2 (elevated), yield curve flat, commodities neutral
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLK    Technology
+         Semis, software, hardware
+  #2  XLV    Healthcare ← already covered by your picks
+         Pharma, biotech, devices
+  #3  XLF    Financials
+         Banks, insurance, payments
+
+
+#1  NVO     (Score: 0.67 | Confidence: MEDIUM)
+    Sector: Healthcare  |  Industry: Drug Manufacturers - General
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + MACD histogram positive
+        + ROE 71%
+        + Revenue growing +24% YoY
+        + Financial health GOOD
+        + Strong RS vs SPY: +17% over 3 months
+      Cons:
+        - Negative 6-month momentum: -9%
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Retest of breakout — prior resistance now support
+      Current:  $50.04
+      Buy Zone: $47.54 — $50.04  (better entry on pullback)
+      Stop:     $46.92  (-6.4%, 2.5x ATR)
+      Target1:  $59.39  (+18.3%, take half off)
+      Target2:  $65.63  (+30.8%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  FAST    (Score: 0.63 | Confidence: MEDIUM)
+    Sector: Industrials  |  Industry: Industrial Distribution
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 41 — healthy range
+        + ROE 34%
+        + Revenue growing +15% YoY
+        + Financial health EXCELLENT
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+        - RS vs SPY: -6% — underperforming
+
+      Verdict [BUY]: Moderate buy — positive but watch the cons.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Consolidating in a base — accumulate gradually
+      Current:  $44.78
+      Buy Zone: $42.54 — $44.78  (better entry on pullback)
+      Stop:     $40.77  (-9.1%, 2.5x ATR)
+      Target1:  $56.79  (+26.4%, take half off)
+      Target2:  $64.79  (+44.3%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#3  ESLT    (Score: 0.60 | Confidence: MEDIUM)
+    Sector: Industrials  |  Industry: Aerospace & Defense
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Positive momentum: +6% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 47 — healthy range
+        + MACD histogram positive
+        + ROE 16%
+        + Revenue growing +16% YoY
+        + Financial health GOOD
+      Cons:
+        - High P/E of 42
+        - No recent news found
+        - RS vs SPY: -17% — underperforming
+
+      Verdict [BUY]: Moderate buy — positive but watch the cons.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $759.63
+      Buy Zone: $721.65 — $759.63  (better entry on pullback)
+      Stop:     $702.36  (-7.7%, 2.5x ATR)
+      Target1:  $931.44  (+22.2%, take half off)
+      Target2:  $1045.98  (+37.3%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#4  CVNA    (Score: 0.58 | Confidence: LOW)
+    Sector: Consumer Cyclical  |  Industry: Auto & Truck Dealerships
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + RSI 45 — healthy range
+        + MACD histogram positive
+        + ROE 60%
+        + Revenue growing +52% YoY
+        + Financial health GOOD
+      Cons:
+        - Negative 6-month momentum: -30%
+        - No recent news found
+        - RS vs SPY: -20% — underperforming
+
+      Verdict [HOLD]: Moderate buy — positive but watch the cons.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $64.88
+      Buy Zone: $61.64 — $64.88  (better entry on pullback)
+      Stop:     $55.22  (-15.1%, 2.5x ATR)
+      Target1:  $93.87  (+44.3%, take half off)
+      Target2:  $113.20  (+74.1%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#5  SYY     (Score: 0.55 | Confidence: LOW)
+    Sector: Consumer Defensive  |  Industry: Food Distribution
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 51 — healthy range
+        + ROE 82%
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - Debt-to-equity 670%
+        - No recent news found
+
+      Verdict [HOLD]: Moderate buy — positive but watch the cons.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $81.27
+      Buy Zone: $77.21 — $81.27  (better entry on pullback)
+      Stop:     $76.48  (-6.1%, 2.5x ATR)
+      Target1:  $95.63  (+17.3%, take half off)
+      Target2:  $105.21  (+29.1%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
