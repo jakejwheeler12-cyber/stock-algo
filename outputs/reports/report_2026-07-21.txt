@@ -1,0 +1,147 @@
+=== STOCK RECOMMENDATIONS [2026-07-21] ===
+Generated: 2026-07-21 15:01:37
+Universe: 4 HIGH-confidence picks
+
+  MARKET REGIME: BULL_QUIET
+  Bull market, low volatility — standard strategy
+  SPY: 746.64 | 200-SMA: 694.27 | Vol: 12%
+
+  MACRO: NEUTRAL
+  Macro NEUTRAL: VIX 17.5 (calm), yield curve flat, commodities neutral
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLK    Technology ← already covered by your picks
+         Semis, software, hardware
+  #2  XLV    Healthcare
+         Pharma, biotech, devices
+  #3  XLF    Financials
+         Banks, insurance, payments
+
+
+#1  TSM     (Score: 0.83 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Semiconductors
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Strong momentum: +23% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 47 — healthy range
+        + ROE 40%
+        + PEG ratio 1.0
+        + Revenue growing +36% YoY
+        + Financial health EXCELLENT
+        + Strong RS vs SPY: +8% over 3 months
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $418.42
+      Buy Zone: $397.50 — $418.42  (better entry on pullback)
+      Stop:     $374.08  (-10.8%, 2.5x ATR)
+      Target1:  $551.44  (+31.4%, take half off)
+      Target2:  $640.12  (+52.6%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  AVGO    (Score: 0.79 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Semiconductors
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Positive momentum: +10% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 49 — healthy range
+        + MACD histogram positive
+        + ROE 37%
+        + PEG ratio 0.4
+        + Revenue growing +48% YoY
+        + Financial health EXCELLENT
+      Cons:
+        - No recent news found
+        - RS vs SPY: -9% — underperforming
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $384.07
+      Buy Zone: $364.87 — $384.07  (better entry on pullback)
+      Stop:     $344.72  (-10.4%, 2.5x ATR)
+      Target1:  $502.12  (+30.3%, take half off)
+      Target2:  $580.82  (+50.8%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#3  NTNX    (Score: 0.79 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Software - Infrastructure
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Strong momentum: +19% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 58 — healthy range
+        + MACD histogram positive
+        + PEG ratio 1.2
+        + Revenue growing +10% YoY
+        + Financial health GOOD
+        + Strong RS vs SPY: +27% over 3 months
+      Cons:
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $54.23
+      Buy Zone: $51.52 — $54.23  (better entry on pullback)
+      Stop:     $48.71  (-10.4%, 2.5x ATR)
+      Target1:  $70.79  (+30.1%, take half off)
+      Target2:  $81.84  (+50.5%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#4  TSN     (Score: 0.77 | Confidence: HIGH)
+    Sector: Consumer Defensive  |  Industry: Farm Products
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 43 — healthy range
+        + MACD histogram positive
+        + PEG ratio 1.0
+        + Financial health GOOD
+      Cons:
+        - No recent news found
+        - RS vs SPY: -14% — underperforming
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $57.30
+      Buy Zone: $54.43 — $57.30  (better entry on pullback)
+      Stop:     $54.50  (-5.1%, 2.5x ATR)
+      Target1:  $65.69  (+14.2%, take half off)
+      Target2:  $71.28  (+24.0%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
