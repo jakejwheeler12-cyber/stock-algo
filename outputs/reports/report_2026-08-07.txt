@@ -1,0 +1,178 @@
+=== STOCK RECOMMENDATIONS [2026-08-07] ===
+Generated: 2026-08-07 14:07:57
+Universe: 5 HIGH-confidence picks
+
+  MARKET REGIME: BULL_QUIET
+  Bull market, low volatility — standard strategy
+  SPY: 770.56 | 200-SMA: 700.12 | Vol: 14%
+
+  MACRO: NEUTRAL
+  Macro NEUTRAL: VIX 15.1 (calm), yield curve flat, commodities neutral
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLV    Healthcare ← already covered by your picks
+         Pharma, biotech, devices
+  #2  XLF    Financials
+         Banks, insurance, payments
+  #3  XLK    Technology ← already covered by your picks
+         Semis, software, hardware
+
+
+#1  NTES    (Score: 0.83 | Confidence: HIGH)
+    Sector: Communication Services  |  Industry: Electronic Gaming & Multimedia
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Positive momentum: +11% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 55 — healthy range
+        + MACD histogram positive
+        + ROE 22%
+        + PEG ratio 1.4
+        + Financial health EXCELLENT
+        + Strong RS vs SPY: +6% over 3 months
+      Cons:
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $130.88
+      Buy Zone: $124.33 — $130.88  (better entry on pullback)
+      Stop:     $123.90  (-5.5%, 2.5x ATR)
+      Target1:  $151.81  (+15.6%, take half off)
+      Target2:  $165.76  (+26.3%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  NBIX    (Score: 0.79 | Confidence: HIGH)
+    Sector: Healthcare  |  Industry: Drug Manufacturers - Specialty & Generic
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Strong momentum: +19% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 43 — healthy range
+        + ROE 22%
+        + PEG ratio 0.5
+        + Revenue growing +40% YoY
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $163.80
+      Buy Zone: $155.61 — $163.80  (better entry on pullback)
+      Stop:     $147.87  (-9.9%, 2.5x ATR)
+      Target1:  $211.59  (+28.8%, take half off)
+      Target2:  $243.44  (+48.2%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#3  GS      (Score: 0.79 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Capital Markets
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Strong momentum: +18% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 48 — healthy range
+        + ROE 17%
+        + PEG ratio 1.5
+        + Revenue growing +42% YoY
+        + Financial health GOOD
+        + Strong RS vs SPY: +6% over 3 months
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $1036.27
+      Buy Zone: $984.45 — $1036.27  (better entry on pullback)
+      Stop:     $951.38  (-8.4%, 2.5x ATR)
+      Target1:  $1290.92  (+24.2%, take half off)
+      Target2:  $1460.68  (+40.6%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#4  AMKR    (Score: 0.78 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Semiconductor Equipment & Materials
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Strong momentum: +22% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 42 — healthy range
+        + MACD histogram positive
+        + PEG ratio 0.8
+        + Revenue growing +26% YoY
+        + Financial health GOOD
+      Cons:
+        - No recent news found
+        - RS vs SPY: -29% — underperforming
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $53.98
+      Buy Zone: $51.28 — $53.98  (better entry on pullback)
+      Stop:     $41.20  (-23.9%, 2.5x ATR)
+      Target1:  $92.31  (+70.6%, take half off)
+      Target2:  $117.86  (+117.9%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#5  TER     (Score: 0.78 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Semiconductor Equipment & Materials
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Strong momentum: +39% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 52 — healthy range
+        + MACD histogram positive
+        + ROE 36%
+        + PEG ratio 1.0
+        + Revenue growing +104% YoY
+        + Financial health EXCELLENT
+      Cons:
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $375.48
+      Buy Zone: $356.71 — $375.48  (better entry on pullback)
+      Stop:     $298.34  (-20.7%, 2.5x ATR)
+      Target1:  $606.91  (+61.2%, take half off)
+      Target2:  $761.20  (+102.3%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
