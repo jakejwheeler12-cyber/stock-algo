@@ -1,0 +1,169 @@
+=== STOCK RECOMMENDATIONS [2026-09-23] ===
+Generated: 2026-09-23 17:37:20
+Universe: 5 HIGH-confidence picks
+
+  MARKET REGIME: BULL_QUIET
+  Bull market, low volatility — standard strategy
+  SPY: 767.48 | 200-SMA: 713.44 | Vol: 11%
+
+  MACRO: NEUTRAL
+  Macro NEUTRAL: VIX 15.3 (calm), yield curve normal, commodities neutral
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLE    Energy
+         Oil & gas
+  #2  XLV    Healthcare
+         Pharma, biotech, devices
+  #3  XLK    Technology ← already covered by your picks
+         Semis, software, hardware
+
+
+#1  ROP     (Score: 0.82 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Software - Application
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Above 200-day SMA with SMA50 in uptrend
+        + PEG ratio 1.4
+        + Revenue growing +8% YoY
+        + Financial health GOOD
+        + Strong RS vs SPY: +7% over 3 months
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $369.08
+      Buy Zone: $350.63 — $369.08  (better entry on pullback)
+      Stop:     $344.88  (-6.8%, 2.5x ATR)
+      Target1:  $441.69  (+19.3%, take half off)
+      Target2:  $490.09  (+32.4%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  C       (Score: 0.79 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Banks - Diversified
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Strong momentum: +20% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 45 — healthy range
+        + PEG ratio 0.6
+        + Revenue growing +16% YoY
+        + Financial health EXCELLENT
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+        - RS vs SPY: -12% — underperforming
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Consolidating in a base — accumulate gradually
+      Current:  $132.60
+      Buy Zone: $125.97 — $132.60  (better entry on pullback)
+      Stop:     $122.93  (-7.5%, 2.5x ATR)
+      Target1:  $161.61  (+21.5%, take half off)
+      Target2:  $180.95  (+36.1%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#3  HBAN    (Score: 0.79 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Banks - Regional
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Above 200-day SMA with SMA50 in uptrend
+        + Revenue growing +48% YoY
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+        - RS vs SPY: -14% — underperforming
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Consolidating in a base — accumulate gradually
+      Current:  $15.59
+      Buy Zone: $14.81 — $15.59  (better entry on pullback)
+      Stop:     $14.61  (-6.5%, 2.5x ATR)
+      Target1:  $18.52  (+18.4%, take half off)
+      Target2:  $20.47  (+30.9%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#4  FOXA    (Score: 0.79 | Confidence: HIGH)
+    Sector: Communication Services  |  Industry: Entertainment
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Positive momentum: +11% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 44 — healthy range
+        + PEG ratio 1.1
+        + Revenue growing +28% YoY
+        + Financial health GOOD
+        + Strong RS vs SPY: +24% over 3 months
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $63.37
+      Buy Zone: $60.20 — $63.37  (better entry on pullback)
+      Stop:     $59.09  (-7.0%, 2.5x ATR)
+      Target1:  $76.21  (+19.9%, take half off)
+      Target2:  $84.78  (+33.4%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#5  LOGI    (Score: 0.79 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Computer Hardware
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Strong momentum: +18% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + MACD histogram positive
+        + ROE 35%
+        + Financial health GOOD
+      Cons:
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $105.13
+      Buy Zone: $99.87 — $105.13  (better entry on pullback)
+      Stop:     $97.31  (-7.6%, 2.5x ATR)
+      Target1:  $128.60  (+21.9%, take half off)
+      Target2:  $144.25  (+36.8%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
