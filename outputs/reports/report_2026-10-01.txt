@@ -1,0 +1,174 @@
+=== STOCK RECOMMENDATIONS [2026-10-01] ===
+Generated: 2026-10-01 18:40:47
+Universe: 5 HIGH-confidence picks
+
+  MARKET REGIME: BULL_QUIET
+  Bull market, low volatility — standard strategy
+  SPY: 764.56 | 200-SMA: 716.56 | Vol: 11%
+
+  MACRO: NEUTRAL
+  Macro NEUTRAL: VIX 16.6 (calm), yield curve normal, commodities growth
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLE    Energy
+         Oil & gas
+  #2  XLK    Technology ← already covered by your picks
+         Semis, software, hardware
+  #3  XLV    Healthcare ← already covered by your picks
+         Pharma, biotech, devices
+
+
+#1  FUTU    (Score: 0.83 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Capital Markets
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + RSI 42 — healthy range
+        + ROE 31%
+        + Revenue growing +36% YoY
+        + Financial health GOOD
+        + Strong RS vs SPY: +10% over 3 months
+      Cons:
+        - MACD histogram negative
+        - Negative 6-month momentum: -22%
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $107.92
+      Buy Zone: $102.52 — $107.92  (better entry on pullback)
+      Stop:     $99.18  (-8.3%, 2.5x ATR)
+      Target1:  $134.15  (+23.9%, take half off)
+      Target2:  $151.64  (+40.1%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  TOST    (Score: 0.82 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Software - Infrastructure
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Strong momentum: +12% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + ROE 25%
+        + PEG ratio 0.2
+        + Revenue growing +23% YoY
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $29.23
+      Buy Zone: $27.76 — $29.23  (better entry on pullback)
+      Stop:     $26.73  (-8.7%, 2.5x ATR)
+      Target1:  $36.71  (+25.2%, take half off)
+      Target2:  $41.70  (+42.3%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#3  AVGO    (Score: 0.82 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Semiconductors
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Positive momentum: +11% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 42 — healthy range
+        + MACD histogram positive
+        + ROE 44%
+        + PEG ratio 0.3
+        + Revenue growing +86% YoY
+        + Financial health EXCELLENT
+      Cons:
+        - No recent news found
+        - RS vs SPY: -6% — underperforming
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $347.69
+      Buy Zone: $330.31 — $347.69  (better entry on pullback)
+      Stop:     $324.13  (-7.0%, 2.5x ATR)
+      Target1:  $418.38  (+19.9%, take half off)
+      Target2:  $465.51  (+33.5%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#4  WDC     (Score: 0.81 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Computer Hardware
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Strong momentum: +53% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 49 — healthy range
+        + MACD histogram positive
+        + ROE 131%
+        + PEG ratio 0.9
+        + Revenue growing +44% YoY
+        + Financial health GOOD
+      Cons:
+        - No recent news found
+        - RS vs SPY: -18% — underperforming
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $454.70
+      Buy Zone: $431.96 — $454.70  (better entry on pullback)
+      Stop:     $398.40  (-12.6%, 2.5x ATR)
+      Target1:  $623.59  (+36.7%, take half off)
+      Target2:  $736.18  (+61.5%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#5  NVO     (Score: 0.80 | Confidence: HIGH)
+    Sector: Healthcare  |  Industry: Drug Manufacturers - General
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Above 200-day SMA with SMA50 in uptrend
+        + ROE 60%
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+        - RS vs SPY: -26% — underperforming
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $37.71
+      Buy Zone: $35.82 — $37.71  (better entry on pullback)
+      Stop:     $35.28  (-6.6%, 2.5x ATR)
+      Target1:  $44.99  (+18.9%, take half off)
+      Target2:  $49.84  (+31.8%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
