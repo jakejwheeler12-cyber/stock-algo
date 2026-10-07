@@ -1,0 +1,86 @@
+=== STOCK RECOMMENDATIONS [2026-10-07] ===
+Generated: 2026-10-07 19:12:06
+Universe: 2 HIGH-confidence picks
+
+  MARKET REGIME: BULL_QUIET
+  Bull market, low volatility — standard strategy
+  SPY: 777.32 | 200-SMA: 718.67 | Vol: 10%
+
+  MACRO: NEUTRAL
+  Macro NEUTRAL: VIX 15.1 (calm), yield curve normal, commodities growth
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLE    Energy
+         Oil & gas
+  #2  XLK    Technology
+         Semis, software, hardware
+  #3  XLV    Healthcare ← already covered by your picks
+         Pharma, biotech, devices
+
+
+#1  ASND    (Score: 0.73 | Confidence: MEDIUM)
+    Sector: Healthcare  |  Industry: Biotechnology
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 39 — healthy range
+        + ROE 119%
+        + Revenue growing +115% YoY
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+        - RS vs SPY: -20% — underperforming
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $228.29
+      Buy Zone: $216.88 — $228.29  (better entry on pullback)
+      Stop:     $211.02  (-7.8%, 2.5x ATR)
+      Target1:  $280.09  (+22.3%, take half off)
+      Target2:  $314.62  (+37.4%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  ESLT    (Score: 0.57 | Confidence: LOW)
+    Sector: Industrials  |  Industry: Aerospace & Defense
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Market regime: BULL_QUIET — Bull market, low volatility — standard strategy
+        + ROE 15%
+        + Revenue growing +16% YoY
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - Negative 6-month momentum: -27%
+        - High P/E of 36
+        - No recent news found
+        - No insider transactions in 90 days
+        - RS vs SPY: -15% — underperforming
+
+      Verdict [HOLD]: Risk outweighs reward — avoid or reduce.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $670.03
+      Buy Zone: $636.53 — $670.03  (better entry on pullback)
+      Stop:     $620.54  (-7.6%, 2.5x ATR)
+      Target1:  $818.52  (+21.8%, take half off)
+      Target2:  $917.51  (+36.5%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
