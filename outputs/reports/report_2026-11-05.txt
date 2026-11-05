@@ -1,0 +1,56 @@
+=== STOCK RECOMMENDATIONS [2026-11-05] ===
+Generated: 2026-11-05 20:26:19
+Universe: 1 HIGH-confidence picks
+
+  MARKET REGIME: BULL_VOLATILE
+  Bull trend intact but volatility elevated
+  SPY: 736.09 | 200-SMA: 727.40 | Vol: 19%
+
+  MACRO: HEADWIND
+  Macro HEADWIND: VIX 25.6 (fear), yield curve flat, commodities neutral
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLV    Healthcare
+         Pharma, biotech, devices
+  #2  XLE    Energy
+         Oil & gas
+  #3  XLP    Consumer Defensive
+         Food, beverage, household
+
+
+#1  UMC     (Score: 0.82 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Semiconductors
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + ROE 20%
+        + PEG ratio 0.8
+        + Revenue growing +26% YoY
+        + Financial health EXCELLENT
+      Cons:
+        - MACD histogram negative
+        - Negative 6-month momentum: -9%
+        - No recent news found
+        - RS vs SPY: -24% — underperforming
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $13.57
+      Buy Zone: $12.89 — $13.57  (better entry on pullback)
+      Stop:     $10.78  (-20.8%, 2.5x ATR)
+      Target1:  $21.95  (+61.4%, take half off)
+      Target2:  $27.54  (+102.6%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
