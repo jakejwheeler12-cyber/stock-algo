@@ -1,0 +1,173 @@
+=== STOCK RECOMMENDATIONS [2026-11-09] ===
+Generated: 2026-11-09 22:50:38
+Universe: 5 HIGH-confidence picks
+
+  MARKET REGIME: BULL_VOLATILE
+  Bull trend intact but volatility elevated
+  SPY: 752.69 | 200-SMA: 727.99 | Vol: 22%
+
+  MACRO: NEUTRAL
+  Macro NEUTRAL: VIX 19.9 (elevated), yield curve flat, commodities neutral
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLV    Healthcare ← already covered by your picks
+         Pharma, biotech, devices
+  #2  XLP    Consumer Defensive
+         Food, beverage, household
+  #3  XLE    Energy
+         Oil & gas
+
+
+#1  CTSH    (Score: 0.89 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Information Technology Services
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Strong momentum: +31% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 48 — healthy range
+        + ROE 17%
+        + PEG ratio 0.8
+        + Financial health GOOD
+        + Strong RS vs SPY: +11% over 3 months
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $63.60
+      Buy Zone: $60.42 — $63.60  (better entry on pullback)
+      Stop:     $56.88  (-10.8%, 2.5x ATR)
+      Target1:  $83.76  (+31.3%, take half off)
+      Target2:  $97.20  (+52.4%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  IT      (Score: 0.86 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Information Technology Services
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Strong momentum: +24% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 41 — healthy range
+        + ROE 366%
+        + PEG ratio 0.7
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $191.02
+      Buy Zone: $181.47 — $191.02  (better entry on pullback)
+      Stop:     $160.24  (-16.3%, 2.5x ATR)
+      Target1:  $283.35  (+47.9%, take half off)
+      Target2:  $344.90  (+80.2%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#3  SMCI    (Score: 0.85 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Computer Hardware
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 36 — healthy range
+        + ROE 32%
+        + PEG ratio 0.9
+        + Revenue growing +298% YoY
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - Negative 6-month momentum: -15%
+        - No recent news found
+        - RS vs SPY: -8% — underperforming
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $28.60
+      Buy Zone: $27.17 — $28.60  (better entry on pullback)
+      Stop:     $22.00  (-23.3%, 2.5x ATR)
+      Target1:  $48.39  (+68.8%, take half off)
+      Target2:  $61.58  (+114.9%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#4  ITUB    (Score: 0.84 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Banks - Regional
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 39 — healthy range
+        + ROE 21%
+        + PEG ratio 1.2
+        + Revenue growing +10% YoY
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - Negative 6-month momentum: -7%
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $7.56
+      Buy Zone: $7.18 — $7.56  (better entry on pullback)
+      Stop:     $6.77  (-10.7%, 2.5x ATR)
+      Target1:  $9.94  (+31.1%, take half off)
+      Target2:  $11.53  (+52.1%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#5  DVA     (Score: 0.82 | Confidence: HIGH)
+    Sector: Healthcare  |  Industry: Medical Care Facilities
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 50 — healthy range
+        + MACD histogram positive
+        + ROE 97%
+        + PEG ratio 0.5
+        + Strong RS vs SPY: +6% over 3 months
+      Cons:
+        - Negative 6-month momentum: -7%
+        - Debt-to-equity 1190%
+        - No recent news found
+        - Financial health FAIR
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Consolidating in a base — accumulate gradually
+      Current:  $185.54
+      Buy Zone: $176.26 — $185.54  (better entry on pullback)
+      Stop:     $166.03  (-10.7%, 2.5x ATR)
+      Target1:  $244.06  (+31.1%, take half off)
+      Target2:  $283.07  (+52.2%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
