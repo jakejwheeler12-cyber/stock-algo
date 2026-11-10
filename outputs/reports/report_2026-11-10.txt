@@ -1,0 +1,138 @@
+=== STOCK RECOMMENDATIONS [2026-11-10] ===
+Generated: 2026-11-10 20:07:59
+Universe: 4 HIGH-confidence picks
+
+  MARKET REGIME: BULL_VOLATILE
+  Bull trend intact but volatility elevated
+  SPY: 748.05 | 200-SMA: 728.29 | Vol: 22%
+
+  MACRO: NEUTRAL
+  Macro NEUTRAL: VIX 19.8 (elevated), yield curve flat, commodities neutral
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLV    Healthcare
+         Pharma, biotech, devices
+  #2  XLP    Consumer Defensive
+         Food, beverage, household
+  #3  XLY    Consumer Cyclical
+         Retail, autos, leisure
+
+
+#1  MUFG    (Score: 0.80 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Banks - Diversified
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Strong momentum: +18% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 49 — healthy range
+        + MACD histogram positive
+        + PEG ratio 1.2
+        + Revenue growing +29% YoY
+        + Financial health EXCELLENT
+      Cons:
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Consolidating in a base — accumulate gradually
+      Current:  $21.69
+      Buy Zone: $20.61 — $21.69  (better entry on pullback)
+      Stop:     $20.35  (-6.4%, 2.5x ATR)
+      Target1:  $25.74  (+18.2%, take half off)
+      Target2:  $28.43  (+30.6%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  C       (Score: 0.80 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Banks - Diversified
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 47 — healthy range
+        + MACD histogram positive
+        + PEG ratio 0.5
+        + Financial health GOOD
+      Cons:
+        - No recent news found
+        - RS vs SPY: -8% — underperforming
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $122.42
+      Buy Zone: $116.30 — $122.42  (better entry on pullback)
+      Stop:     $112.74  (-8.1%, 2.5x ATR)
+      Target1:  $151.47  (+23.3%, take half off)
+      Target2:  $170.84  (+39.2%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#3  LPLA    (Score: 0.78 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Capital Markets
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Positive momentum: +6% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 50 — healthy range
+        + MACD histogram positive
+        + ROE 26%
+        + PEG ratio 0.4
+        + Revenue growing +18% YoY
+        + Financial health GOOD
+      Cons:
+        - No recent news found
+        - RS vs SPY: -15% — underperforming
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $311.07
+      Buy Zone: $295.51 — $311.07  (better entry on pullback)
+      Stop:     $277.94  (-10.9%, 2.5x ATR)
+      Target1:  $410.45  (+31.6%, take half off)
+      Target2:  $476.71  (+52.9%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#4  LOGI    (Score: 0.77 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Computer Hardware
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 45 — healthy range
+        + ROE 38%
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $97.72
+      Buy Zone: $92.84 — $97.72  (better entry on pullback)
+      Stop:     $88.72  (-9.4%, 2.5x ATR)
+      Target1:  $124.73  (+27.2%, take half off)
+      Target2:  $142.74  (+45.7%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
