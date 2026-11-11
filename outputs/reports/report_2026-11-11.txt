@@ -1,0 +1,169 @@
+=== STOCK RECOMMENDATIONS [2026-11-11] ===
+Generated: 2026-11-11 19:58:17
+Universe: 5 HIGH-confidence picks
+
+  MARKET REGIME: BULL_VOLATILE
+  Bull trend intact but volatility elevated
+  SPY: 760.69 | 200-SMA: 728.66 | Vol: 22%
+
+  MACRO: NEUTRAL
+  Macro NEUTRAL: VIX 17.5 (calm), yield curve flat, commodities neutral
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLV    Healthcare
+         Pharma, biotech, devices
+  #2  XLP    Consumer Defensive
+         Food, beverage, household
+  #3  XLE    Energy
+         Oil & gas
+
+
+#1  IT      (Score: 0.88 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Information Technology Services
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Strong momentum: +32% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 41 — healthy range
+        + ROE 366%
+        + PEG ratio 0.7
+        + Financial health GOOD
+        + Strong RS vs SPY: +6% over 3 months
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $190.93
+      Buy Zone: $181.38 — $190.93  (better entry on pullback)
+      Stop:     $164.38  (-14.1%, 2.5x ATR)
+      Target1:  $270.57  (+41.3%, take half off)
+      Target2:  $323.66  (+69.1%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  META    (Score: 0.85 | Confidence: HIGH)
+    Sector: Communication Services  |  Industry: Internet Content & Information
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 45 — healthy range
+        + MACD histogram positive
+        + ROE 32%
+        + PEG ratio 0.8
+        + Revenue growing +26% YoY
+        + Financial health GOOD
+        + Strong RS vs SPY: +9% over 3 months
+      Cons:
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $635.37
+      Buy Zone: $603.60 — $635.37  (better entry on pullback)
+      Stop:     $578.12  (-9.2%, 2.5x ATR)
+      Target1:  $807.12  (+26.6%, take half off)
+      Target2:  $921.62  (+44.7%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#3  CRM     (Score: 0.78 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Software - Application
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Strong momentum: +32% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 39 — healthy range
+        + ROE 19%
+        + PEG ratio 0.8
+        + Revenue growing +11% YoY
+        + Financial health GOOD
+        + Strong RS vs SPY: +10% over 3 months
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $217.57
+      Buy Zone: $206.69 — $217.57  (better entry on pullback)
+      Stop:     $197.20  (-9.6%, 2.5x ATR)
+      Target1:  $278.68  (+27.7%, take half off)
+      Target2:  $319.43  (+46.4%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#4  LOGI    (Score: 0.76 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Computer Hardware
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 49 — healthy range
+        + ROE 38%
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $100.29
+      Buy Zone: $95.28 — $100.29  (better entry on pullback)
+      Stop:     $91.47  (-9.0%, 2.5x ATR)
+      Target1:  $126.75  (+26.0%, take half off)
+      Target2:  $144.38  (+43.6%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#5  NU      (Score: 0.75 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Banks - Regional
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + RSI 41 — healthy range
+        + ROE 32%
+        + PEG ratio 0.4
+        + Revenue growing +52% YoY
+        + Financial health EXCELLENT
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+        - RS vs SPY: -10% — underperforming
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $12.26
+      Buy Zone: $11.65 — $12.26  (better entry on pullback)
+      Stop:     $10.89  (-11.4%, 2.5x ATR)
+      Target1:  $16.36  (+33.1%, take half off)
+      Target2:  $19.10  (+55.4%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
