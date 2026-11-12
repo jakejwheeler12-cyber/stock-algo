@@ -1,0 +1,172 @@
+=== STOCK RECOMMENDATIONS [2026-11-12] ===
+Generated: 2026-11-12 20:34:50
+Universe: 5 HIGH-confidence picks
+
+  MARKET REGIME: BULL_VOLATILE
+  Bull trend intact but volatility elevated
+  SPY: 756.87 | 200-SMA: 728.99 | Vol: 22%
+
+  MACRO: NEUTRAL
+  Macro NEUTRAL: VIX 18.8 (elevated), yield curve flat, commodities contraction
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLV    Healthcare
+         Pharma, biotech, devices
+  #2  XLP    Consumer Defensive
+         Food, beverage, household
+  #3  XLE    Energy
+         Oil & gas
+
+
+#1  CTSH    (Score: 0.88 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Information Technology Services
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Strong momentum: +41% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 49 — healthy range
+        + ROE 17%
+        + PEG ratio 0.8
+        + Financial health GOOD
+        + Strong RS vs SPY: +12% over 3 months
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $63.94
+      Buy Zone: $60.74 — $63.94  (better entry on pullback)
+      Stop:     $57.89  (-9.7%, 2.5x ATR)
+      Target1:  $82.08  (+28.0%, take half off)
+      Target2:  $94.18  (+46.9%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  IT      (Score: 0.87 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Information Technology Services
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Strong momentum: +36% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 42 — healthy range
+        + ROE 366%
+        + PEG ratio 0.7
+        + Financial health GOOD
+        + Strong RS vs SPY: +8% over 3 months
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $191.94
+      Buy Zone: $182.34 — $191.94  (better entry on pullback)
+      Stop:     $166.76  (-13.3%, 2.5x ATR)
+      Target1:  $267.47  (+38.9%, take half off)
+      Target2:  $317.82  (+65.2%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#3  ITUB    (Score: 0.85 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Banks - Regional
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 37 — healthy range
+        + ROE 21%
+        + PEG ratio 1.2
+        + Revenue growing +10% YoY
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - Negative 6-month momentum: -8%
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $7.33
+      Buy Zone: $6.96 — $7.33  (better entry on pullback)
+      Stop:     $6.63  (-9.8%, 2.5x ATR)
+      Target1:  $9.44  (+28.4%, take half off)
+      Target2:  $10.85  (+47.6%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#4  META    (Score: 0.84 | Confidence: HIGH)
+    Sector: Communication Services  |  Industry: Internet Content & Information
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 41 — healthy range
+        + MACD histogram positive
+        + ROE 32%
+        + PEG ratio 0.8
+        + Revenue growing +26% YoY
+        + Financial health GOOD
+        + Strong RS vs SPY: +8% over 3 months
+      Cons:
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $620.66
+      Buy Zone: $589.63 — $620.66  (better entry on pullback)
+      Stop:     $565.58  (-9.1%, 2.5x ATR)
+      Target1:  $785.92  (+26.2%, take half off)
+      Target2:  $896.09  (+44.0%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#5  MU      (Score: 0.82 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Semiconductors
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 43 — healthy range
+        + ROE 88%
+        + PEG ratio 0.2
+        + Revenue growing +379% YoY
+        + Financial health EXCELLENT
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+        - RS vs SPY: -17% — underperforming
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $790.68
+      Buy Zone: $751.15 — $790.68  (better entry on pullback)
+      Stop:     $628.48  (-20.7%, 2.5x ATR)
+      Target1:  $1277.30  (+61.1%, take half off)
+      Target2:  $1601.71  (+102.2%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
