@@ -1,0 +1,165 @@
+=== STOCK RECOMMENDATIONS [2026-11-17] ===
+Generated: 2026-11-17 21:29:13
+Universe: 5 HIGH-confidence picks
+
+  MARKET REGIME: BULL_VOLATILE
+  Bull trend intact but volatility elevated
+  SPY: 732.44 | 200-SMA: 729.79 | Vol: 23%
+
+  MACRO: HEADWIND
+  Macro HEADWIND: VIX 25.6 (fear), yield curve flat, commodities contraction
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLP    Consumer Defensive
+         Food, beverage, household
+  #2  XLV    Healthcare
+         Pharma, biotech, devices
+  #3  XLE    Energy
+         Oil & gas
+
+
+#1  TOST    (Score: 0.84 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Software - Infrastructure
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Strong momentum: +45% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 52 — healthy range
+        + ROE 26%
+        + PEG ratio 0.2
+        + Revenue growing +21% YoY
+        + Financial health EXCELLENT
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $33.65
+      Buy Zone: $31.97 — $33.65  (better entry on pullback)
+      Stop:     $30.19  (-10.5%, 2.5x ATR)
+      Target1:  $44.03  (+30.4%, take half off)
+      Target2:  $50.95  (+51.0%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  NTES    (Score: 0.83 | Confidence: HIGH)
+    Sector: Communication Services  |  Industry: Electronic Gaming & Multimedia
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Positive momentum: +6% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 46 — healthy range
+        + ROE 20%
+        + Financial health EXCELLENT
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $119.62
+      Buy Zone: $113.64 — $119.62  (better entry on pullback)
+      Stop:     $112.09  (-6.5%, 2.5x ATR)
+      Target1:  $142.22  (+18.5%, take half off)
+      Target2:  $157.28  (+31.1%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#3  PNFP    (Score: 0.80 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Banks - Regional
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 46 — healthy range
+        + PEG ratio 1.4
+        + Revenue growing +140% YoY
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $98.06
+      Buy Zone: $93.16 — $98.06  (better entry on pullback)
+      Stop:     $91.77  (-6.6%, 2.5x ATR)
+      Target1:  $116.94  (+18.9%, take half off)
+      Target2:  $129.52  (+31.7%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#4  LOGI    (Score: 0.80 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Computer Hardware
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 47 — healthy range
+        + MACD histogram positive
+        + ROE 38%
+        + Financial health EXCELLENT
+        + Strong RS vs SPY: +5% over 3 months
+      Cons:
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $99.26
+      Buy Zone: $94.30 — $99.26  (better entry on pullback)
+      Stop:     $91.53  (-8.0%, 2.5x ATR)
+      Target1:  $122.46  (+23.0%, take half off)
+      Target2:  $137.93  (+38.6%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#5  FOXA    (Score: 0.80 | Confidence: HIGH)
+    Sector: Communication Services  |  Industry: Entertainment
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 52 — healthy range
+        + MACD histogram positive
+        + ROE 17%
+        + PEG ratio 1.2
+        + Revenue growing +22% YoY
+        + Financial health EXCELLENT
+      Cons:
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $66.66
+      Buy Zone: $63.33 — $66.66  (better entry on pullback)
+      Stop:     $60.58  (-9.3%, 2.5x ATR)
+      Target1:  $84.89  (+26.9%, take half off)
+      Target2:  $97.04  (+45.2%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
