@@ -1,0 +1,166 @@
+=== STOCK RECOMMENDATIONS [2026-11-18] ===
+Generated: 2026-11-18 21:02:42
+Universe: 5 HIGH-confidence picks
+
+  MARKET REGIME: BULL_VOLATILE
+  Bull trend intact but volatility elevated
+  SPY: 730.31 | 200-SMA: 730.02 | Vol: 23%
+
+  MACRO: NEUTRAL
+  Macro NEUTRAL: VIX 24.5 (elevated), yield curve flat, commodities contraction
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLP    Consumer Defensive
+         Food, beverage, household
+  #2  XLV    Healthcare ← already covered by your picks
+         Pharma, biotech, devices
+  #3  XLY    Consumer Cyclical
+         Retail, autos, leisure
+
+
+#1  META    (Score: 0.88 | Confidence: HIGH)
+    Sector: Communication Services  |  Industry: Internet Content & Information
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 42 — healthy range
+        + MACD histogram positive
+        + ROE 32%
+        + PEG ratio 0.8
+        + Revenue growing +26% YoY
+        + Financial health GOOD
+        + Strong RS vs SPY: +18% over 3 months
+      Cons:
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $616.67
+      Buy Zone: $585.84 — $616.67  (better entry on pullback)
+      Stop:     $568.24  (-8.1%, 2.5x ATR)
+      Target1:  $761.95  (+23.2%, take half off)
+      Target2:  $858.80  (+38.9%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  C       (Score: 0.82 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Banks - Diversified
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 37 — healthy range
+        + PEG ratio 0.5
+        + Financial health GOOD
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+        - RS vs SPY: -5% — underperforming
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Consolidating in a base — accumulate gradually
+      Current:  $117.39
+      Buy Zone: $111.53 — $117.39  (better entry on pullback)
+      Stop:     $109.01  (-7.3%, 2.5x ATR)
+      Target1:  $142.55  (+21.0%, take half off)
+      Target2:  $159.32  (+35.3%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#3  UI      (Score: 0.80 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Communication Equipment
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Strong momentum: +14% over 6 months
+        + MACD histogram positive
+        + ROE 85%
+        + PEG ratio 1.1
+        + Revenue growing +40% YoY
+        + Financial health EXCELLENT
+        + Strong RS vs SPY: +24% over 3 months
+      Cons:
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Retest of breakout — prior resistance now support
+      Current:  $683.42
+      Buy Zone: $649.25 — $683.42  (better entry on pullback)
+      Stop:     $599.88  (-12.4%, 2.5x ATR)
+      Target1:  $934.04  (+36.3%, take half off)
+      Target2:  $1101.13  (+60.7%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#4  ALGN    (Score: 0.80 | Confidence: HIGH)
+    Sector: Healthcare  |  Industry: Medical Instruments & Supplies
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + RSI 55 — healthy range
+        + PEG ratio 0.8
+        + Financial health GOOD
+        + Strong RS vs SPY: +7% over 3 months
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Retest of breakout — prior resistance now support
+      Current:  $163.86
+      Buy Zone: $155.67 — $163.86  (better entry on pullback)
+      Stop:     $149.36  (-9.0%, 2.5x ATR)
+      Target1:  $207.35  (+26.1%, take half off)
+      Target2:  $236.34  (+43.8%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#5  RMD     (Score: 0.79 | Confidence: HIGH)
+    Sector: Healthcare  |  Industry: Medical Instruments & Supplies
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Strong momentum: +17% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 57 — healthy range
+        + ROE 26%
+        + PEG ratio 1.3
+        + Financial health EXCELLENT
+        + Strong RS vs SPY: +11% over 3 months
+      Cons:
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $243.12
+      Buy Zone: $230.96 — $243.12  (better entry on pullback)
+      Stop:     $224.29  (-7.9%, 2.5x ATR)
+      Target1:  $299.59  (+22.8%, take half off)
+      Target2:  $337.24  (+38.3%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 75% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
