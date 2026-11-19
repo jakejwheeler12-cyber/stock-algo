@@ -1,0 +1,169 @@
+=== STOCK RECOMMENDATIONS [2026-11-19] ===
+Generated: 2026-11-19 21:07:42
+Universe: 5 HIGH-confidence picks
+
+  MARKET REGIME: BEAR_VOLATILE
+  Confirmed downtrend with elevated fear
+  SPY: 715.84 | 200-SMA: 730.20 | Vol: 23%
+
+  MACRO: HEADWIND
+  Macro HEADWIND: VIX 28.5 (fear), yield curve flat, commodities contraction
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLP    Consumer Defensive
+         Food, beverage, household
+  #2  XLV    Healthcare
+         Pharma, biotech, devices
+  #3  XLU    Utilities
+         Power, water
+
+
+#1  ZM      (Score: 0.89 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Software - Application
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 36 — healthy range
+        + ROE 32%
+        + Financial health EXCELLENT
+      Cons:
+        - Market regime: BEAR_VOLATILE — Confirmed downtrend with elevated fear
+        - MACD histogram negative
+        - Negative 6-month momentum: -13%
+        - No recent news found
+        - RS vs SPY: -17% — underperforming
+
+      Verdict [HOLD]: Risk outweighs reward — avoid or reduce.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $83.82
+      Buy Zone: $79.63 — $83.82  (better entry on pullback)
+      Stop:     $70.95  (-15.6%, 2.5x ATR)
+      Target1:  $122.44  (+45.7%, take half off)
+      Target2:  $148.18  (+76.4%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  ITUB    (Score: 0.87 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Banks - Regional
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + ROE 21%
+        + PEG ratio 1.1
+        + Revenue growing +10% YoY
+        + Financial health GOOD
+      Cons:
+        - Market regime: BEAR_VOLATILE — Confirmed downtrend with elevated fear
+        - MACD histogram negative
+        - Negative 6-month momentum: -15%
+        - No recent news found
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $6.70
+      Buy Zone: $6.36 — $6.70  (better entry on pullback)
+      Stop:     $6.05  (-9.9%, 2.5x ATR)
+      Target1:  $8.65  (+28.7%, take half off)
+      Target2:  $9.95  (+48.2%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#3  CTSH    (Score: 0.86 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Information Technology Services
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Positive momentum: +9% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + ROE 17%
+        + PEG ratio 0.7
+        + Financial health GOOD
+      Cons:
+        - Market regime: BEAR_VOLATILE — Confirmed downtrend with elevated fear
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $56.31
+      Buy Zone: $53.49 — $56.31  (better entry on pullback)
+      Stop:     $50.25  (-11.0%, 2.5x ATR)
+      Target1:  $74.48  (+31.9%, take half off)
+      Target2:  $86.59  (+53.4%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#4  PDD     (Score: 0.86 | Confidence: HIGH)
+    Sector: Consumer Cyclical  |  Industry: Internet Retail
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + MACD histogram positive
+        + ROE 23%
+        + Revenue growing +8% YoY
+        + Financial health EXCELLENT
+      Cons:
+        - Market regime: BEAR_VOLATILE — Confirmed downtrend with elevated fear
+        - Negative 6-month momentum: -12%
+        - No recent news found
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Strong breakout — buy on a pullback, not at the top
+      Current:  $86.00
+      Buy Zone: $81.70 — $86.00  (better entry on pullback)
+      Stop:     $77.97  (-9.5%, 2.5x ATR)
+      Target1:  $110.08  (+27.6%, take half off)
+      Target2:  $126.14  (+46.3%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#5  MFG     (Score: 0.85 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Banks - Regional
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 38 — healthy range
+        + MACD histogram positive
+        + PEG ratio 1.1
+        + Revenue growing +18% YoY
+        + Financial health GOOD
+      Cons:
+        - Market regime: BEAR_VOLATILE — Confirmed downtrend with elevated fear
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $9.38
+      Buy Zone: $8.91 — $9.38  (better entry on pullback)
+      Stop:     $8.65  (-8.0%, 2.5x ATR)
+      Target1:  $11.56  (+22.9%, take half off)
+      Target2:  $13.02  (+38.4%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+      ⚠ Liquidity: $46.3M/day avg — keep position size moderate
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 82% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
