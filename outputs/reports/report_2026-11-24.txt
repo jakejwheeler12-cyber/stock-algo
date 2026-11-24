@@ -1,13 +1,13 @@
 === STOCK RECOMMENDATIONS [2026-11-24] ===
-Generated: 2026-11-24 00:32:13
-Universe: 4 HIGH-confidence picks
+Generated: 2026-11-24 22:53:19
+Universe: 5 HIGH-confidence picks
 
   MARKET REGIME: BEAR_VOLATILE
   Confirmed downtrend with elevated fear
-  SPY: 722.29 | 200-SMA: 730.47 | Vol: 32%
+  SPY: 718.78 | 200-SMA: 730.62 | Vol: 32%
 
   MACRO: HEADWIND
-  Macro HEADWIND: VIX 26.6 (fear), yield curve flat, commodities contraction
+  Macro HEADWIND: VIX 26.4 (fear), yield curve flat, commodities contraction
 
 ================================================================
   STRONGEST SECTOR ETFs (passive alternative)
@@ -19,124 +19,147 @@ Universe: 4 HIGH-confidence picks
          Food, beverage, household
   #2  XLV    Healthcare
          Pharma, biotech, devices
-  #3  XLU    Utilities
-         Power, water
+  #3  XLY    Consumer Cyclical
+         Retail, autos, leisure
 
 
-#1  IT      (Score: 0.88 | Confidence: HIGH)
-    Sector: Technology  |  Industry: Information Technology Services
+#1  ZM      (Score: 0.89 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Software - Application
 
     WHY IT WILL INCREASE:
       Pros:
-        + Positive momentum: +11% over 6 months
         + Above 200-day SMA with SMA50 in uptrend
-        + RSI 36 — healthy range
-        + ROE 366%
+        + RSI 45 — healthy range
+        + ROE 32%
+        + Financial health EXCELLENT
+      Cons:
+        - Market regime: BEAR_VOLATILE — Confirmed downtrend with elevated fear
+        - MACD histogram negative
+        - Negative 6-month momentum: -12%
+        - No recent news found
+
+      Verdict [HOLD]: Mixed signals — monitor closely.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $88.40
+      Buy Zone: $83.98 — $88.40  (better entry on pullback)
+      Stop:     $75.13  (-15.2%, 2.5x ATR)
+      Target1:  $128.21  (+44.6%, take half off)
+      Target2:  $154.75  (+74.7%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  ASML    (Score: 0.83 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Semiconductor Equipment & Materials
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 38 — healthy range
+        + ROE 66%
         + PEG ratio 0.7
+        + Revenue growing +55% YoY
         + Financial health GOOD
       Cons:
         - Market regime: BEAR_VOLATILE — Confirmed downtrend with elevated fear
         - MACD histogram negative
+        - Negative 6-month momentum: -16%
         - No recent news found
-        - RS vs SPY: -5% — underperforming
+        - RS vs SPY: -19% — underperforming
 
       Verdict [HOLD]: Buy — favourable risk/reward.
 
     TRADE PLAN (slippage-adjusted, 0.2% in/out):
       Setup:    Buy in the buy zone or scale in over 2-3 weeks
-      Current:  $175.81
-      Buy Zone: $167.02 — $175.81  (better entry on pullback)
-      Stop:     $156.15  (-11.4%, 2.5x ATR)
-      Target1:  $234.80  (+33.2%, take half off)
-      Target2:  $274.13  (+55.5%, take rest off)
+      Current:  $1336.06
+      Buy Zone: $1269.26 — $1336.06  (better entry on pullback)
+      Stop:     $1133.63  (-15.4%, 2.5x ATR)
+      Target1:  $1943.35  (+45.1%, take half off)
+      Target2:  $2348.21  (+75.4%, take rest off)
       Time:     Hold for ~90 days, reassess on earnings or major news
 
 ----------------------------------------------------------------
 
-#2  NVDA    (Score: 0.87 | Confidence: HIGH)
-    Sector: Technology  |  Industry: Semiconductors
+#3  TROW    (Score: 0.83 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Asset Management
 
     WHY IT WILL INCREASE:
       Pros:
         + Above 200-day SMA with SMA50 in uptrend
-        + RSI 43 — healthy range
-        + ROE 117%
-        + PEG ratio 0.1
-        + Revenue growing +103% YoY
-        + Financial health EXCELLENT
-      Cons:
-        - Market regime: BEAR_VOLATILE — Confirmed downtrend with elevated fear
-        - MACD histogram negative
-        - Negative 6-month momentum: -23%
-        - No recent news found
-        - RS vs SPY: -18% — underperforming
-
-      Verdict [HOLD]: Buy — favourable risk/reward.
-
-    TRADE PLAN (slippage-adjusted, 0.2% in/out):
-      Setup:    Buy in the buy zone or scale in over 2-3 weeks
-      Current:  $165.05
-      Buy Zone: $156.80 — $165.05  (better entry on pullback)
-      Stop:     $122.80  (-25.8%, 2.5x ATR)
-      Target1:  $291.79  (+76.4%, take half off)
-      Target2:  $376.29  (+127.6%, take rest off)
-      Time:     Hold for ~90 days, reassess on earnings or major news
-
-----------------------------------------------------------------
-
-#3  CTSH    (Score: 0.86 | Confidence: HIGH)
-    Sector: Technology  |  Industry: Information Technology Services
-
-    WHY IT WILL INCREASE:
-      Pros:
-        + Strong momentum: +14% over 6 months
-        + Above 200-day SMA with SMA50 in uptrend
-        + RSI 40 — healthy range
-        + ROE 17%
-        + PEG ratio 0.8
+        + RSI 44 — healthy range
+        + ROE 18%
         + Financial health GOOD
       Cons:
         - Market regime: BEAR_VOLATILE — Confirmed downtrend with elevated fear
         - MACD histogram negative
         - No recent news found
 
-      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+      Verdict [HOLD]: Buy — favourable risk/reward.
 
     TRADE PLAN (slippage-adjusted, 0.2% in/out):
       Setup:    Buy in the buy zone or scale in over 2-3 weeks
-      Current:  $58.57
-      Buy Zone: $55.64 — $58.57  (better entry on pullback)
-      Stop:     $52.53  (-10.5%, 2.5x ATR)
-      Target1:  $76.68  (+30.5%, take half off)
-      Target2:  $88.76  (+51.1%, take rest off)
+      Current:  $103.09
+      Buy Zone: $97.94 — $103.09  (better entry on pullback)
+      Stop:     $94.42  (-8.6%, 2.5x ATR)
+      Target1:  $129.10  (+24.8%, take half off)
+      Target2:  $146.45  (+41.7%, take rest off)
       Time:     Hold for ~90 days, reassess on earnings or major news
 
 ----------------------------------------------------------------
 
-#4  NTES    (Score: 0.84 | Confidence: HIGH)
-    Sector: Communication Services  |  Industry: Electronic Gaming & Multimedia
+#4  SYF     (Score: 0.83 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Credit Services
 
     WHY IT WILL INCREASE:
       Pros:
-        + Above 200-day SMA with SMA50 in uptrend
-        + ROE 19%
-        + Financial health EXCELLENT
+        + ROE 20%
+        + Financial health GOOD
       Cons:
         - Market regime: BEAR_VOLATILE — Confirmed downtrend with elevated fear
         - MACD histogram negative
-        - Negative 6-month momentum: -15%
         - No recent news found
-        - RS vs SPY: -15% — underperforming
+        - RS vs SPY: -9% — underperforming
 
       Verdict [HOLD]: Risk outweighs reward — avoid or reduce.
 
     TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Consolidating in a base — accumulate gradually
+      Current:  $67.91
+      Buy Zone: $64.51 — $67.91  (better entry on pullback)
+      Stop:     $62.90  (-7.6%, 2.5x ATR)
+      Target1:  $82.93  (+21.7%, take half off)
+      Target2:  $92.95  (+36.5%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#5  MUFG    (Score: 0.83 | Confidence: HIGH)
+    Sector: Financial Services  |  Industry: Banks - Diversified
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 35 — healthy range
+        + PEG ratio 1.1
+        + Revenue growing +21% YoY
+        + Financial health EXCELLENT
+      Cons:
+        - Market regime: BEAR_VOLATILE — Confirmed downtrend with elevated fear
+        - MACD histogram negative
+        - No recent news found
+        - RS vs SPY: -8% — underperforming
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
       Setup:    Buy in the buy zone or scale in over 2-3 weeks
-      Current:  $103.20
-      Buy Zone: $98.04 — $103.20  (better entry on pullback)
-      Stop:     $92.08  (-11.0%, 2.5x ATR)
-      Target1:  $136.56  (+31.9%, take half off)
-      Target2:  $158.80  (+53.5%, take rest off)
+      Current:  $19.47
+      Buy Zone: $18.50 — $19.47  (better entry on pullback)
+      Stop:     $17.95  (-8.0%, 2.5x ATR)
+      Target1:  $24.03  (+23.0%, take half off)
+      Target2:  $27.06  (+38.6%, take rest off)
       Time:     Hold for ~90 days, reassess on earnings or major news
 
 ----------------------------------------------------------------
