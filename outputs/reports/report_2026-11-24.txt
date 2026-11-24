@@ -1,0 +1,145 @@
+=== STOCK RECOMMENDATIONS [2026-11-24] ===
+Generated: 2026-11-24 00:32:13
+Universe: 4 HIGH-confidence picks
+
+  MARKET REGIME: BEAR_VOLATILE
+  Confirmed downtrend with elevated fear
+  SPY: 722.29 | 200-SMA: 730.47 | Vol: 32%
+
+  MACRO: HEADWIND
+  Macro HEADWIND: VIX 26.6 (fear), yield curve flat, commodities contraction
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLP    Consumer Defensive
+         Food, beverage, household
+  #2  XLV    Healthcare
+         Pharma, biotech, devices
+  #3  XLU    Utilities
+         Power, water
+
+
+#1  IT      (Score: 0.88 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Information Technology Services
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Positive momentum: +11% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 36 — healthy range
+        + ROE 366%
+        + PEG ratio 0.7
+        + Financial health GOOD
+      Cons:
+        - Market regime: BEAR_VOLATILE — Confirmed downtrend with elevated fear
+        - MACD histogram negative
+        - No recent news found
+        - RS vs SPY: -5% — underperforming
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $175.81
+      Buy Zone: $167.02 — $175.81  (better entry on pullback)
+      Stop:     $156.15  (-11.4%, 2.5x ATR)
+      Target1:  $234.80  (+33.2%, take half off)
+      Target2:  $274.13  (+55.5%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  NVDA    (Score: 0.87 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Semiconductors
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 43 — healthy range
+        + ROE 117%
+        + PEG ratio 0.1
+        + Revenue growing +103% YoY
+        + Financial health EXCELLENT
+      Cons:
+        - Market regime: BEAR_VOLATILE — Confirmed downtrend with elevated fear
+        - MACD histogram negative
+        - Negative 6-month momentum: -23%
+        - No recent news found
+        - RS vs SPY: -18% — underperforming
+
+      Verdict [HOLD]: Buy — favourable risk/reward.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $165.05
+      Buy Zone: $156.80 — $165.05  (better entry on pullback)
+      Stop:     $122.80  (-25.8%, 2.5x ATR)
+      Target1:  $291.79  (+76.4%, take half off)
+      Target2:  $376.29  (+127.6%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#3  CTSH    (Score: 0.86 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Information Technology Services
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Strong momentum: +14% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 40 — healthy range
+        + ROE 17%
+        + PEG ratio 0.8
+        + Financial health GOOD
+      Cons:
+        - Market regime: BEAR_VOLATILE — Confirmed downtrend with elevated fear
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $58.57
+      Buy Zone: $55.64 — $58.57  (better entry on pullback)
+      Stop:     $52.53  (-10.5%, 2.5x ATR)
+      Target1:  $76.68  (+30.5%, take half off)
+      Target2:  $88.76  (+51.1%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#4  NTES    (Score: 0.84 | Confidence: HIGH)
+    Sector: Communication Services  |  Industry: Electronic Gaming & Multimedia
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Above 200-day SMA with SMA50 in uptrend
+        + ROE 19%
+        + Financial health EXCELLENT
+      Cons:
+        - Market regime: BEAR_VOLATILE — Confirmed downtrend with elevated fear
+        - MACD histogram negative
+        - Negative 6-month momentum: -15%
+        - No recent news found
+        - RS vs SPY: -15% — underperforming
+
+      Verdict [HOLD]: Risk outweighs reward — avoid or reduce.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $103.20
+      Buy Zone: $98.04 — $103.20  (better entry on pullback)
+      Stop:     $92.08  (-11.0%, 2.5x ATR)
+      Target1:  $136.56  (+31.9%, take half off)
+      Target2:  $158.80  (+53.5%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 82% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
