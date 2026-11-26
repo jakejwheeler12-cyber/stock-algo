@@ -1,0 +1,86 @@
+=== STOCK RECOMMENDATIONS [2026-11-26] ===
+Generated: 2026-11-26 22:03:52
+Universe: 2 HIGH-confidence picks
+
+  MARKET REGIME: BEAR_VOLATILE
+  Confirmed downtrend with elevated fear
+  SPY: 716.70 | 200-SMA: 730.77 | Vol: 32%
+
+  MACRO: HEADWIND
+  Macro HEADWIND: VIX 26.8 (fear), yield curve flat, commodities contraction
+
+================================================================
+  STRONGEST SECTOR ETFs (passive alternative)
+================================================================
+  Use these if you want broad exposure to leading sectors
+  without picking individual stocks.
+
+  #1  XLP    Consumer Defensive
+         Food, beverage, household
+  #2  XLV    Healthcare ← already covered by your picks
+         Pharma, biotech, devices
+  #3  XLU    Utilities
+         Power, water
+
+
+#1  IT      (Score: 0.87 | Confidence: HIGH)
+    Sector: Technology  |  Industry: Information Technology Services
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Strong momentum: +15% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 44 — healthy range
+        + ROE 366%
+        + PEG ratio 1.1
+        + Financial health GOOD
+      Cons:
+        - Market regime: BEAR_VOLATILE — Confirmed downtrend with elevated fear
+        - MACD histogram negative
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $184.80
+      Buy Zone: $175.56 — $184.80  (better entry on pullback)
+      Stop:     $164.31  (-11.3%, 2.5x ATR)
+      Target1:  $246.27  (+32.9%, take half off)
+      Target2:  $287.25  (+55.0%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+#2  RMD     (Score: 0.83 | Confidence: HIGH)
+    Sector: Healthcare  |  Industry: Medical Instruments & Supplies
+
+    WHY IT WILL INCREASE:
+      Pros:
+        + Strong momentum: +21% over 6 months
+        + Above 200-day SMA with SMA50 in uptrend
+        + RSI 59 — healthy range
+        + MACD histogram positive
+        + ROE 26%
+        + PEG ratio 0.8
+        + Financial health EXCELLENT
+        + Strong RS vs SPY: +12% over 3 months
+      Cons:
+        - Market regime: BEAR_VOLATILE — Confirmed downtrend with elevated fear
+        - No recent news found
+
+      Verdict [BUY]: Strong buy — multiple factors align with high conviction.
+
+    TRADE PLAN (slippage-adjusted, 0.2% in/out):
+      Setup:    Buy in the buy zone or scale in over 2-3 weeks
+      Current:  $245.70
+      Buy Zone: $233.41 — $245.70  (better entry on pullback)
+      Stop:     $226.66  (-8.0%, 2.5x ATR)
+      Target1:  $302.83  (+22.9%, take half off)
+      Target2:  $340.91  (+38.4%, take rest off)
+      Time:     Hold for ~90 days, reassess on earnings or major news
+
+----------------------------------------------------------------
+
+NOTE: Only stocks scoring >= 82% composite confidence shown.
+This is algorithmic output. Always do your own due diligence.
